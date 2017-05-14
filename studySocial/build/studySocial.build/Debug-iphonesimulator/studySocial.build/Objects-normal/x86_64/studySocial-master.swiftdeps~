@@ -1,5 +1,6 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 options: "8f32f5d8cd393fdf392e670ec289e996"
@@ -46,3 +47,22 @@ inputs:
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/TimerViewController.swift": [548064415, 0]
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendViewController.swift": [548055930, 0]
 >>>>>>> c7d0e308973eefc1e338282d9d40035e581a4151
+=======
+options: "8f32f5d8cd393fdf392e670ec289e996"
+build_time: [548068608, 375306000]
+inputs:
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/GroupTableViewController.swift": !dirty [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/GroupSelectViewController.swift": !dirty [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/AppDelegate.swift": !dirty [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/TodoList.swift": !dirty [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/ToDoItemTableViewController.swift": !dirty [548068483, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendTableViewController.swift": !dirty [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/User.swift": !dirty [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/MenuViewController.swift": !dirty [548067888, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/LoginViewController.swift": !dirty [548067381, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendStatusTableViewCell.swift": !dirty [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/ModeSelectViewController.swift": !dirty [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/BaseViewController.swift": !dirty [548067789, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/TimerViewController.swift": !dirty [548068583, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendViewController.swift": !dirty [548055930, 0]
+>>>>>>> ElleDev

@@ -1,4 +1,5 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+<<<<<<< HEAD
 options: "9e29f35446f2298cc450f045b55a4a67"
 build_time: [548068338, 111888000]
 inputs:
@@ -19,3 +20,25 @@ inputs:
   "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/TaskDelegate.swift": [548068305, 0]
   "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/Timeline.swift": [548068305, 0]
   "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/Validation.swift": [548068305, 0]
+=======
+options: "b438d024b79553152353062bee20ec8f"
+build_time: [548067386, 269019000]
+inputs:
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/AFError.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/Alamofire.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/MultipartFormData.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/Notifications.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/ParameterEncoding.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/Request.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/Response.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/ResponseSerialization.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/Result.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/ServerTrustPolicy.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/SessionDelegate.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/SessionManager.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/TaskDelegate.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/Timeline.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Alamofire/Source/Validation.swift": [548067352, 0]
+>>>>>>> ElleDev

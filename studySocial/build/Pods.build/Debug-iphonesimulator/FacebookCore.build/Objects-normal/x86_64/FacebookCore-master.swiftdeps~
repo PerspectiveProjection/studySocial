@@ -1,6 +1,16 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+<<<<<<< HEAD
 options: "217775fafe10d29393b6aa3320618931"
 build_time: [548064475, 517227000]
+=======
+<<<<<<< HEAD
+options: "ae8db3bad5697b3a0b9498576352d4b7"
+build_time: [548062567, 630795000]
+=======
+options: "217775fafe10d29393b6aa3320618931"
+build_time: [548058443, 450550000]
+>>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
+>>>>>>> ElleDev
 inputs:
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookCore/Sources/Core/Common/AccessToken.swift": [548056054, 0]
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookCore/Sources/Core/AppEvents/AppEvent.Builtin.swift": [548056054, 0]

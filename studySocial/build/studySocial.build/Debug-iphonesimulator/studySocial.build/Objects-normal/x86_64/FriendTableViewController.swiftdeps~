@@ -58,6 +58,7 @@ depends-member:
 - !private ["Ps9AnyObject", "getProfPic"]
 - !private ["Ps9AnyObject", "image"]
 - ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "key"]
 - !private ["Ps9AnyObject", "object"]
 - !private ["Ps9AnyObject", "observe"]
 - !private ["Ps9AnyObject", "print"]
@@ -107,6 +108,7 @@ depends-member:
 - !private ["Ps7CVarArg", "getProfPic"]
 - !private ["Ps7CVarArg", "image"]
 - ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "key"]
 - !private ["Ps7CVarArg", "object"]
 - !private ["Ps7CVarArg", "observe"]
 - !private ["Ps7CVarArg", "print"]
@@ -146,6 +148,7 @@ depends-member:
 - !private ["Ps28CustomDebugStringConvertible", "getProfPic"]
 - !private ["Ps28CustomDebugStringConvertible", "image"]
 - ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "key"]
 - !private ["Ps28CustomDebugStringConvertible", "object"]
 - !private ["Ps28CustomDebugStringConvertible", "observe"]
 - !private ["Ps28CustomDebugStringConvertible", "print"]
@@ -193,6 +196,7 @@ depends-member:
 - !private ["Ps23CustomStringConvertible", "getProfPic"]
 - !private ["Ps23CustomStringConvertible", "image"]
 - ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "key"]
 - !private ["Ps23CustomStringConvertible", "object"]
 - !private ["Ps23CustomStringConvertible", "observe"]
 - !private ["Ps23CustomStringConvertible", "print"]
@@ -231,6 +235,7 @@ depends-member:
 - !private ["Ps9Equatable", "getProfPic"]
 - !private ["Ps9Equatable", "image"]
 - ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "key"]
 - !private ["Ps9Equatable", "object"]
 - !private ["Ps9Equatable", "observe"]
 - !private ["Ps9Equatable", "print"]
@@ -265,10 +270,16 @@ depends-member:
 - ["CSo11FIRDatabase", "database"]
 - ["CSo11FIRDatabase", "reference"]
 - !private ["CSo16FIRDatabaseQuery", "child"]
+<<<<<<< HEAD
 - !private ["CSo16FIRDatabaseQuery", "observe"]
 - !private ["CSo20FIRDatabaseReference", "child"]
 - !private ["CSo20FIRDatabaseReference", "observe"]
 - !private ["C11studySocial25FriendStatusTableViewCell", "userCycles"]
+=======
+- !private ["CSo16FIRDatabaseQuery", "key"]
+- !private ["CSo20FIRDatabaseReference", "child"]
+- !private ["CSo20FIRDatabaseReference", "key"]
+>>>>>>> ElleDev
 - !private ["C11studySocial25FriendStatusTableViewCell", "userPicture"]
 - !private ["C11studySocial25FriendStatusTableViewCell", "userStatus"]
 - !private ["C11studySocial25FriendStatusTableViewCell", "username"]
@@ -317,6 +328,7 @@ depends-member:
 - !private ["Ps8Hashable", "getProfPic"]
 - !private ["Ps8Hashable", "image"]
 - ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "key"]
 - !private ["Ps8Hashable", "object"]
 - !private ["Ps8Hashable", "observe"]
 - !private ["Ps8Hashable", "print"]
@@ -360,7 +372,10 @@ depends-member:
 - ["PSo8NSCoding", "init"]
 - !private ["PSo8NSCoding", "print"]
 - !private ["PSo8NSCoding", "ref"]
+<<<<<<< HEAD
 - !private ["PSo8NSCoding", "reloadData"]
+=======
+>>>>>>> ElleDev
 - !private ["PSo8NSCoding", "subscript"]
 - !private ["PSo8NSCoding", "tableFooterView"]
 - !private ["PSo8NSCoding", "tableView"]
@@ -424,6 +439,7 @@ depends-member:
 - ["CSo8NSObject", "handle"]
 - !private ["CSo8NSObject", "image"]
 - ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "key"]
 - ["CSo8NSObject", "numberOfSections"]
 - !private ["CSo8NSObject", "object"]
 - !private ["CSo8NSObject", "observe"]
@@ -459,6 +475,7 @@ depends-member:
 - !private ["PSo16NSObjectProtocol", "getProfPic"]
 - !private ["PSo16NSObjectProtocol", "image"]
 - ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "key"]
 - !private ["PSo16NSObjectProtocol", "object"]
 - !private ["PSo16NSObjectProtocol", "observe"]
 - !private ["PSo16NSObjectProtocol", "print"]
@@ -527,7 +544,10 @@ depends-member:
 - !private ["PSo21UIAppearanceContainer", "init"]
 - !private ["PSo21UIAppearanceContainer", "print"]
 - !private ["PSo21UIAppearanceContainer", "ref"]
+<<<<<<< HEAD
 - !private ["PSo21UIAppearanceContainer", "reloadData"]
+=======
+>>>>>>> ElleDev
 - !private ["PSo21UIAppearanceContainer", "tableFooterView"]
 - !private ["PSo21UIAppearanceContainer", "tableView"]
 - !private ["PSo21UIAppearanceContainer", "text"]
@@ -591,7 +611,10 @@ depends-member:
 - !private ["PSo18UIFocusEnvironment", "init"]
 - !private ["PSo18UIFocusEnvironment", "print"]
 - !private ["PSo18UIFocusEnvironment", "ref"]
+<<<<<<< HEAD
 - !private ["PSo18UIFocusEnvironment", "reloadData"]
+=======
+>>>>>>> ElleDev
 - !private ["PSo18UIFocusEnvironment", "tableFooterView"]
 - !private ["PSo18UIFocusEnvironment", "tableView"]
 - !private ["PSo18UIFocusEnvironment", "text"]
@@ -671,7 +694,10 @@ depends-member:
 - !private ["PSo30UIResponderStandardEditActions", "init"]
 - !private ["PSo30UIResponderStandardEditActions", "print"]
 - !private ["PSo30UIResponderStandardEditActions", "ref"]
+<<<<<<< HEAD
 - !private ["PSo30UIResponderStandardEditActions", "reloadData"]
+=======
+>>>>>>> ElleDev
 - !private ["PSo30UIResponderStandardEditActions", "tableFooterView"]
 - !private ["PSo30UIResponderStandardEditActions", "tableView"]
 - !private ["PSo30UIResponderStandardEditActions", "text"]
@@ -807,7 +833,10 @@ depends-member:
 - !private ["PSo18UITraitEnvironment", "init"]
 - !private ["PSo18UITraitEnvironment", "print"]
 - !private ["PSo18UITraitEnvironment", "ref"]
+<<<<<<< HEAD
 - !private ["PSo18UITraitEnvironment", "reloadData"]
+=======
+>>>>>>> ElleDev
 - !private ["PSo18UITraitEnvironment", "tableFooterView"]
 - !private ["PSo18UITraitEnvironment", "tableView"]
 - !private ["PSo18UITraitEnvironment", "text"]
@@ -894,6 +923,7 @@ depends-member:
 - !private ["Ps9_Hashable", "getProfPic"]
 - !private ["Ps9_Hashable", "image"]
 - ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "key"]
 - !private ["Ps9_Hashable", "object"]
 - !private ["Ps9_Hashable", "observe"]
 - !private ["Ps9_Hashable", "print"]

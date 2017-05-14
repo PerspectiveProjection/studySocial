@@ -1,4 +1,5 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+<<<<<<< HEAD
 options: "6a7b903ea37fcc4d8265592254f5dca9"
 build_time: [548068363, 74872000]
 inputs:
@@ -16,3 +17,22 @@ inputs:
   "/Users/william/Projects/studySocial/studySocial/studySocial/BaseViewController.swift": [9223372036854775807, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/TimerViewController.swift": [9223372036854775807, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/FriendViewController.swift": [9223372036854775807, 0]
+=======
+options: "8f32f5d8cd393fdf392e670ec289e996"
+build_time: [548068698, 5731000]
+inputs:
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/GroupTableViewController.swift": [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/GroupSelectViewController.swift": [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/AppDelegate.swift": [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/TodoList.swift": [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/ToDoItemTableViewController.swift": [548068696, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendTableViewController.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/User.swift": [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/MenuViewController.swift": [548067888, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/LoginViewController.swift": [548067381, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendStatusTableViewCell.swift": [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/ModeSelectViewController.swift": [548067352, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/BaseViewController.swift": [548067789, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/TimerViewController.swift": [548068642, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendViewController.swift": [548055930, 0]
+>>>>>>> ElleDev

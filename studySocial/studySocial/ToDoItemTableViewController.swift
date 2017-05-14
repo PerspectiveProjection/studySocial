@@ -16,7 +16,6 @@ class ToDoItemTableViewController: UITableViewController {
 	
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-		print(userDefaults.object(forKey: "userEmail"))
 		
         self.ref.observe(.value, with: { snapshot in
             var newItems: [Todo] = []
@@ -37,6 +36,7 @@ class ToDoItemTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         userDefaults = UserDefaults.standard
         let addButton = UIBarButtonItem(barButtonSystemItem: UIBarButtonSystemItem.add, target: self, action: #selector(ToDoItemTableViewController.addTodoItemButton))
         self.navigationItem.rightBarButtonItem = addButton

@@ -110,6 +110,12 @@ class TimerViewController: BaseViewController {
             breakAudioPlayer.play()
             cycleCount += 1
             
+            let userRef = ref.child(userDefaults.object(forKey: "fid") as! String)
+            
+            let cycleRef = userRef.child("pomodoroCycles")
+            cycleRef.setValue(cycleCount)
+            
+            
             timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(TimerViewController.studyCounter), userInfo: nil, repeats: true)
             
             studyCount = studyLength
