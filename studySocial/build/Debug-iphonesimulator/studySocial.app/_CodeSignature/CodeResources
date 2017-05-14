@@ -122,11 +122,7 @@
 		</data>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
-<<<<<<< HEAD
-		sh4S6I3EyVMViuPVc1TGHnrNVlc=
-=======
-		RqyRRNSdb6gOz5aDX27soB97FK8=
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+		yH+euQ3D64QkLvdE4vEeC9in52M=
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
@@ -138,19 +134,7 @@
 		</data>
 		<key>Frameworks/Bolts.framework/Bolts</key>
 		<data>
-<<<<<<< HEAD
-		0WJR2gI+8m7qhU4+/lDShGa0AS8=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-		mh+l+/o5308AXn4rwHdlTEveZD8=
-=======
-		uiX8ZmGkStVhmaFcfQqAGgtrq9g=
->>>>>>> ElleDev
-=======
-		ufyruPzby9NBKh+8qahXzqP8tgg=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+		pWJRxuMB7WSubaSxTwp0PWT8W0g=
 		</data>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
 		<data>
@@ -162,19 +146,7 @@
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/FBSDKCoreKit</key>
 		<data>
-<<<<<<< HEAD
-		tircH0ce5c66ubr9ocBd8ayiwaA=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-		g5bIQkazhsjJk/u6XkcOBHtYcO4=
-=======
-		zmwpGitvI+Yx6E0MhHEJ48A4uWQ=
->>>>>>> ElleDev
-=======
-		vd1k7EuqjBl27Xwr5rBkKhsysC4=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+		IDTrutlUTPpsNOiSlb2Jjr5KUBo=
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
 		<dict>
@@ -582,19 +554,7 @@
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/FBSDKLoginKit</key>
 		<data>
-<<<<<<< HEAD
-		Ov04p9gFTAUtJ2+d8y1eFnlg2S8=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-		/ReSNk+z5cu8yW2MzGjcGG4s8sA=
-=======
-		lBoT21XAeMHzuxogo68traBd8Sk=
->>>>>>> ElleDev
-=======
-		1yzRytGnJ2P76WURP33yBaVLr4A=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+		80VWFUHemQO5mOqoYtwoN4VkDUc=
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
 		<data>
@@ -606,19 +566,7 @@
 		</data>
 		<key>Frameworks/FBSDKShareKit.framework/FBSDKShareKit</key>
 		<data>
-<<<<<<< HEAD
-		EF9ttGVN6JINaif8i3/YXbEvHTY=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-		2HJZ3JuUeR7hJBiVR00EpA6Xlk4=
-=======
-		IP0svpLkOdTSjUt2UmC7zLEOmVM=
->>>>>>> ElleDev
-=======
-		pWnqeXdmLr5oUUm5at0BrdaCtrY=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+		d/3zc3NOP6SnXpsZTkkaLyiLtnM=
 		</data>
 		<key>Frameworks/FBSDKShareKit.framework/Info.plist</key>
 		<data>
@@ -630,19 +578,7 @@
 		</data>
 		<key>Frameworks/FacebookCore.framework/FacebookCore</key>
 		<data>
-<<<<<<< HEAD
-		l3R5Yjm24GT/G6/uXdNpkN2TMSs=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-		wqj8looT1T4VQm5NAWDSI7HUNtw=
-=======
-		lXhsSNkrdRos1ageFR1UBQbMr4g=
->>>>>>> ElleDev
-=======
-		qanE2R+1VrcFKej7mAvG4tpDoAk=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+		RGsMjWNpNavRCzNkE8e7hUR9DCw=
 		</data>
 		<key>Frameworks/FacebookCore.framework/Info.plist</key>
 		<data>
@@ -654,19 +590,7 @@
 		</data>
 		<key>Frameworks/FacebookLogin.framework/FacebookLogin</key>
 		<data>
-<<<<<<< HEAD
-		4uktUW1s0jyApwz7mAzWkf31V08=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-		m67ryB3fanqhig3YfEkPvRuST3E=
-=======
-		JxHisKZbzKL3+cL4WUb6YNH6uW0=
->>>>>>> ElleDev
-=======
-		UENXWNhhqWY7hGZg9J6c7A8cVe4=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+		SqPNg7YaKzcreRiHPHylLVY+SQs=
 		</data>
 		<key>Frameworks/FacebookLogin.framework/Info.plist</key>
 		<data>
@@ -678,19 +602,7 @@
 		</data>
 		<key>Frameworks/FacebookShare.framework/FacebookShare</key>
 		<data>
-<<<<<<< HEAD
-		1kYqBK5E7zzBm5H91LvBWTBT23k=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-		S+PQsr5Rnbe9Pf97V0yt4lCLJVI=
-=======
-		4y876F8PIWJRfhyOM/JmyfAdiCE=
->>>>>>> ElleDev
-=======
-		F62b+7pcSwSUcMQQSupbq3Gp1YE=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+		08oLBgtkWB9VW6L2ICZNRC2RtL0=
 		</data>
 		<key>Frameworks/FacebookShare.framework/Info.plist</key>
 		<data>
@@ -702,19 +614,7 @@
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
-<<<<<<< HEAD
-		yPZIaUuw70lT35Ufx1Bhhb5nIBc=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-		v1y9AC0RK3mRkrJO8To2ncilDkU=
-=======
-		OIUipKNiOWKEQ7b7jNB/ND98y18=
->>>>>>> ElleDev
-=======
-		PFWiPIhIWXRVCL6dfEPk5hBZmJA=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+		1zHP5Mb0dqytCfdQTDBWer8iFqM=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
@@ -726,19 +626,7 @@
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<data>
-<<<<<<< HEAD
-		tQH2nh3TlhIvkXnipv0CQjuNNqk=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-		cTJY5oGz/y7aU/8aaVwWcEY7Kco=
-=======
-		6GUV+bYuBRcQ0Nz7vqRVqRvDFw4=
->>>>>>> ElleDev
-=======
-		kXIl15UAhQAw4CXgs7aBcp5GGkI=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+		nVTz4U7uQwaDQbtQhr4hG4OXI3U=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<data>
@@ -754,19 +642,7 @@
 		</data>
 		<key>Frameworks/SlideMenuControllerSwift.framework/SlideMenuControllerSwift</key>
 		<data>
-<<<<<<< HEAD
-		BoUlo4Q7JMt4yvJRztJyIHzEdco=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-		Y7PuMkvEK0URB/2XTL+KUO4W0VU=
-=======
-		pv1mhpHgBP4TCOcIVwhm+SDQYrI=
->>>>>>> ElleDev
-=======
-		gREF3pcbXDMJew0TCCze6DAdLTo=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+		anlFb+YPHGRv+PHF1zbFGpHDMio=
 		</data>
 		<key>Frameworks/SlideMenuControllerSwift.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -1178,19 +1054,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			sh4S6I3EyVMViuPVc1TGHnrNVlc=
+			yH+euQ3D64QkLvdE4vEeC9in52M=
 			</data>
 			<key>hash2</key>
 			<data>
-			uAZM4vITwkfDYWy2fn6cHZKKLt8py1esFerZpt4dE4U=
-=======
-			RqyRRNSdb6gOz5aDX27soB97FK8=
-			</data>
-			<key>hash2</key>
-			<data>
-			QpRLCm6ICzcLuAle/UHwhXQqDlUWoIRmfUiZ8hZPbdA=
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+			/+NntjYqzg0wPTC5iBMDx9fv1z499PA5z8RrEdl+PHs=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
@@ -1219,35 +1087,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			0WJR2gI+8m7qhU4+/lDShGa0AS8=
+			pWJRxuMB7WSubaSxTwp0PWT8W0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			D8IjgI56Ng3dXkgiEI8HFEdsMbtu7RscWdHrpqgBQdo=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-			mh+l+/o5308AXn4rwHdlTEveZD8=
-			</data>
-			<key>hash2</key>
-			<data>
-			aKiXEIbD4GXvjmlIEgAQjX+V40gCo4sryC/uN6UTbYI=
-=======
-			uiX8ZmGkStVhmaFcfQqAGgtrq9g=
-			</data>
-			<key>hash2</key>
-			<data>
-			WJ5g7wSqzhPzlDbtzmAHAfVxcSW8GDYTW5j+x6ol+P4=
->>>>>>> ElleDev
-=======
-			ufyruPzby9NBKh+8qahXzqP8tgg=
-			</data>
-			<key>hash2</key>
-			<data>
-			Dy4uhoUYu9e7tuu8QWbPp5SOk31EvP1VuB66oCr425o=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+			aAO6VqmpKpBcZQW0iT61RQa3buDe7/NwMndZxNF4bn8=
 			</data>
 		</dict>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
@@ -1276,35 +1120,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			tircH0ce5c66ubr9ocBd8ayiwaA=
+			IDTrutlUTPpsNOiSlb2Jjr5KUBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			AKEICU20o+Y/KzP3w7cDUJvA+FHWf081aLiCBjxF0no=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-			g5bIQkazhsjJk/u6XkcOBHtYcO4=
-			</data>
-			<key>hash2</key>
-			<data>
-			Cr5jgImDgqz/JD8wFEnJhunr4gcCKLrRKx3lYuFk0/Q=
-=======
-			zmwpGitvI+Yx6E0MhHEJ48A4uWQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			DwwsE8yzOdz+Sj3V8VmXl3osiGNNhdMZv4Evak0nHC8=
->>>>>>> ElleDev
-=======
-			vd1k7EuqjBl27Xwr5rBkKhsysC4=
-			</data>
-			<key>hash2</key>
-			<data>
-			nXjTWDAZT7EYLo8vu/8Yrml0atYYgOUYNPyudp0Sb/4=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+			KLIdGhLGWl1/x+xzX6FfPn2RA13DEp2+kDDN+dJIWy4=
 			</data>
 		</dict>
 		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
@@ -1905,35 +1725,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			Ov04p9gFTAUtJ2+d8y1eFnlg2S8=
+			80VWFUHemQO5mOqoYtwoN4VkDUc=
 			</data>
 			<key>hash2</key>
 			<data>
-			9MXtcJdYuk71iqYKQCZzvUM5QwircKkYDspIf6XcI2U=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-			/ReSNk+z5cu8yW2MzGjcGG4s8sA=
-			</data>
-			<key>hash2</key>
-			<data>
-			VZiKzE12LtIBEcyOje1GjKY3R45BYo4q4GXzEjZj//8=
-=======
-			lBoT21XAeMHzuxogo68traBd8Sk=
-			</data>
-			<key>hash2</key>
-			<data>
-			rCgjYpb9Eu6t/CeY35BG+3kWv3GFl2GN+/UbF2QXNG0=
->>>>>>> ElleDev
-=======
-			1yzRytGnJ2P76WURP33yBaVLr4A=
-			</data>
-			<key>hash2</key>
-			<data>
-			glh6In+5HrqWXJi5CO6qTeQw/bJbz72rj+aot7EPgyw=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+			HfTfXzsEqMtyvp02PgvgTQmYQwCCMfuAeeTKJIWV5o0=
 			</data>
 		</dict>
 		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
@@ -1962,35 +1758,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			EF9ttGVN6JINaif8i3/YXbEvHTY=
+			d/3zc3NOP6SnXpsZTkkaLyiLtnM=
 			</data>
 			<key>hash2</key>
 			<data>
-			g4DKm8vwDqcLvPhTHBL3Z2QaZkhboi1z89dwIvWzBSY=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-			2HJZ3JuUeR7hJBiVR00EpA6Xlk4=
-			</data>
-			<key>hash2</key>
-			<data>
-			iYzxcwFFhcH6o6R2EUpD1MHF1ng2FiPcWc8atvnlCEg=
-=======
-			IP0svpLkOdTSjUt2UmC7zLEOmVM=
-			</data>
-			<key>hash2</key>
-			<data>
-			+QNvvmvY6CPUdWqZvNiePFUgM+K1Lh5z2ZyRJKnNRE0=
->>>>>>> ElleDev
-=======
-			pWnqeXdmLr5oUUm5at0BrdaCtrY=
-			</data>
-			<key>hash2</key>
-			<data>
-			EonCO5LdEXNK9LbA9DhhyAbShmX5ykI0iZV55jH5Kx8=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+			69RjDyQtpYTUC61rIwD3bPQK62wO1QwgNFJzpDYcgHA=
 			</data>
 		</dict>
 		<key>Frameworks/FBSDKShareKit.framework/Info.plist</key>
@@ -2019,35 +1791,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			l3R5Yjm24GT/G6/uXdNpkN2TMSs=
+			RGsMjWNpNavRCzNkE8e7hUR9DCw=
 			</data>
 			<key>hash2</key>
 			<data>
-			DPFHCG8y9xzDdXaXaepXbaP5dZcU6pG1zw1HDl8kIZc=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-			wqj8looT1T4VQm5NAWDSI7HUNtw=
-			</data>
-			<key>hash2</key>
-			<data>
-			0bUIfOSlI+ftGw2Tf1+LXZpGWS0H+znLQuvnNIpGv1o=
-=======
-			lXhsSNkrdRos1ageFR1UBQbMr4g=
-			</data>
-			<key>hash2</key>
-			<data>
-			VuA9dkvyGHfcAaRAUCilC2bhBu/geHQqPZu1FrvvgA4=
->>>>>>> ElleDev
-=======
-			qanE2R+1VrcFKej7mAvG4tpDoAk=
-			</data>
-			<key>hash2</key>
-			<data>
-			Xv1NvyfACeq6H/EYx/qRtF4bj80BVU0ULd3IRjk0/V0=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+			wbFWjdl7siF60U9swjCq+bs8Zag/dRe5X/sGzB/6bg4=
 			</data>
 		</dict>
 		<key>Frameworks/FacebookCore.framework/Info.plist</key>
@@ -2076,35 +1824,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			4uktUW1s0jyApwz7mAzWkf31V08=
+			SqPNg7YaKzcreRiHPHylLVY+SQs=
 			</data>
 			<key>hash2</key>
 			<data>
-			3NiPVSzq2rTk7DexAJIMcY6/hlTRlaXq68256DxXmBE=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-			m67ryB3fanqhig3YfEkPvRuST3E=
-			</data>
-			<key>hash2</key>
-			<data>
-			TbBXXf1YxEcabF+A1YLNHszi9XdXfDCCvsxDw6ca6wM=
-=======
-			JxHisKZbzKL3+cL4WUb6YNH6uW0=
-			</data>
-			<key>hash2</key>
-			<data>
-			i7ehkoAkFBs48Z1lvY/8wAcIXSAX8K8y3zk0KEEYXTo=
->>>>>>> ElleDev
-=======
-			UENXWNhhqWY7hGZg9J6c7A8cVe4=
-			</data>
-			<key>hash2</key>
-			<data>
-			tIcEUFAaCV7Bllt4vorhVS5swLs2cZi1NO2bmpcjnMk=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+			b8y7+fONeQR087cPpNyr3OF2gHkDkhR+V0ge+oIpVS8=
 			</data>
 		</dict>
 		<key>Frameworks/FacebookLogin.framework/Info.plist</key>
@@ -2133,35 +1857,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			1kYqBK5E7zzBm5H91LvBWTBT23k=
+			08oLBgtkWB9VW6L2ICZNRC2RtL0=
 			</data>
 			<key>hash2</key>
 			<data>
-			jofPHBzMHP+8Ly0u/FvsdenRcbOpWIdI0OpqsKOqIZI=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-			S+PQsr5Rnbe9Pf97V0yt4lCLJVI=
-			</data>
-			<key>hash2</key>
-			<data>
-			QmniZtCkzUFxyeq3dogR5M2nEMpkzKHR/ssQRve/AYQ=
-=======
-			4y876F8PIWJRfhyOM/JmyfAdiCE=
-			</data>
-			<key>hash2</key>
-			<data>
-			KR+2kRd5LmfhFmslzKikGEhw4IsAmIwUu5snWzPNOms=
->>>>>>> ElleDev
-=======
-			F62b+7pcSwSUcMQQSupbq3Gp1YE=
-			</data>
-			<key>hash2</key>
-			<data>
-			wBxZoaw2cy6za0bdjwLP2KDwMsSBIaVt00mjIltp040=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+			Y9D5v9mtn8TOb08BJ+eaF2AxUfBctl1F5CjETsdVib4=
 			</data>
 		</dict>
 		<key>Frameworks/FacebookShare.framework/Info.plist</key>
@@ -2190,35 +1890,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			yPZIaUuw70lT35Ufx1Bhhb5nIBc=
+			1zHP5Mb0dqytCfdQTDBWer8iFqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			e8Xz+ahDpPr9SEV7JU6mDDQrNPXSLswfJ0McsK7EwT0=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-			v1y9AC0RK3mRkrJO8To2ncilDkU=
-			</data>
-			<key>hash2</key>
-			<data>
-			lnx6w4mwdD01FeJDQf1zsO1G21Cthi4RaC1pLosUMHQ=
-=======
-			OIUipKNiOWKEQ7b7jNB/ND98y18=
-			</data>
-			<key>hash2</key>
-			<data>
-			chtFAIIyyRGLoamQnwulfVOFwAlFECGvfMxbscCp/fk=
->>>>>>> ElleDev
-=======
-			PFWiPIhIWXRVCL6dfEPk5hBZmJA=
-			</data>
-			<key>hash2</key>
-			<data>
-			NML+GVZBQSge7oy/Enexc/floIe/mWRmscDkiw/6Jxg=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+			2N0Pz+zPRbmRD8xmVrd+staeJepyDdfyWmVfNtzceN4=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
@@ -2247,35 +1923,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			tQH2nh3TlhIvkXnipv0CQjuNNqk=
+			nVTz4U7uQwaDQbtQhr4hG4OXI3U=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wtw9eSEjIqNINDXES5losk/Ytas5XvNpqd4tQrqOcLQ=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-			cTJY5oGz/y7aU/8aaVwWcEY7Kco=
-			</data>
-			<key>hash2</key>
-			<data>
-			ylEapd0lSUnTHEpHtBfz1+U7Xk9YyxKUWUAK+sYIBV4=
-=======
-			6GUV+bYuBRcQ0Nz7vqRVqRvDFw4=
-			</data>
-			<key>hash2</key>
-			<data>
-			MXXWkmRGi0Ei9vqgc4zo2AjKJugSme8M5yGVEzYBB08=
->>>>>>> ElleDev
-=======
-			kXIl15UAhQAw4CXgs7aBcp5GGkI=
-			</data>
-			<key>hash2</key>
-			<data>
-			BwUdsZ5iomhigzQZTJb2QH9Ji3L7WR9+3Z425YlvOxs=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+			ypSLkmyGidK5PKLQMuqwU+6xACuszxISsx2cewcrDhE=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
@@ -2315,35 +1967,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			BoUlo4Q7JMt4yvJRztJyIHzEdco=
+			anlFb+YPHGRv+PHF1zbFGpHDMio=
 			</data>
 			<key>hash2</key>
 			<data>
-			c1xzmgT0amqXExDs0IPL7PcPsihiEjBiBGHAYV0QV1E=
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-			Y7PuMkvEK0URB/2XTL+KUO4W0VU=
-			</data>
-			<key>hash2</key>
-			<data>
-			zINjbjabZKeZErX1FNUBMH31sYI+sOjGifS6Jv8dFes=
-=======
-			pv1mhpHgBP4TCOcIVwhm+SDQYrI=
-			</data>
-			<key>hash2</key>
-			<data>
-			WdpUrw2cbXVFTInSCd/jp8nI73S80pwtxaPGwLGPAIc=
->>>>>>> ElleDev
-=======
-			gREF3pcbXDMJew0TCCze6DAdLTo=
-			</data>
-			<key>hash2</key>
-			<data>
-			oRlF6eAr1Bh4USGOjDz7gP4SJMHNe3/ih7K/2UBsId4=
->>>>>>> willDev
->>>>>>> 685f4f9f7408c835de35a46a4d3885a25666687e
+			kEiuoUX+5ItcSUpU7GzgGc7nkdj80waCXVshhLyt6hY=
 			</data>
 		</dict>
 		<key>Frameworks/SlideMenuControllerSwift.framework/_CodeSignature/CodeResources</key>

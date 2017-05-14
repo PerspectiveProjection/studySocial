@@ -38,6 +38,7 @@ class ToDoItemTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         userDefaults = UserDefaults.standard
         let addButton = UIBarButtonItem(barButtonSystemItem: UIBarButtonSystemItem.add, target: self, action: #selector(ToDoItemTableViewController.addTodoItemButton))
         self.navigationItem.rightBarButtonItem = addButton

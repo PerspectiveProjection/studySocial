@@ -63,7 +63,19 @@ class BaseViewController: UIViewController, SlideMenuDelegate {
 			connection.start()
 
             break
-		case 2:
+        case 2:
+            print("Timer\n", terminator: "")
+            
+            self.openViewControllerBasedOnIdentifier("timerViewController")
+            
+            break
+        case 3:
+            print("Tasks\n", terminator: "")
+            
+            self.openViewControllerBasedOnIdentifier("toDoItemTableViewController")
+            
+            break
+		case 4:
 			print("Log Out\n", terminator: "")
 			if FIRAuth.auth()?.currentUser != nil {
 				do {
