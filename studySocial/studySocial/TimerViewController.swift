@@ -110,12 +110,8 @@ class TimerViewController: BaseViewController {
             breakAudioPlayer.play()
             cycleCount += 1
             
-<<<<<<< HEAD
             let userRef = ref.child(userDefaults.object(forKey: "fid") as! String)
             
-=======
-            let userRef = ref.child(userDefaults.object(forKey: "uid") as! String)
->>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
             let cycleRef = userRef.child("pomodoroCycles")
             cycleRef.setValue(cycleCount)
             

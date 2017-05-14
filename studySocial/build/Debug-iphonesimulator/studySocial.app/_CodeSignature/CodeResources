@@ -602,11 +602,7 @@
 		</data>
 		<key>Frameworks/FacebookShare.framework/FacebookShare</key>
 		<data>
-<<<<<<< HEAD
-		08oLBgtkWB9VW6L2ICZNRC2RtL0=
-=======
-		mF7p+ssP9MUzQlPN9si39lSxC9Y=
->>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
+		u0SaKIHNNEYzeVU0ybCA4myxikQ=
 		</data>
 		<key>Frameworks/FacebookShare.framework/Info.plist</key>
 		<data>
@@ -646,11 +642,7 @@
 		</data>
 		<key>Frameworks/SlideMenuControllerSwift.framework/SlideMenuControllerSwift</key>
 		<data>
-<<<<<<< HEAD
-		anlFb+YPHGRv+PHF1zbFGpHDMio=
-=======
-		JQ8OrMXZbmhBaWljfKmoiJK8URw=
->>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
+		1Jl29eyP47DN/654cdEUFWtv+mE=
 		</data>
 		<key>Frameworks/SlideMenuControllerSwift.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -1865,19 +1857,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			08oLBgtkWB9VW6L2ICZNRC2RtL0=
+			u0SaKIHNNEYzeVU0ybCA4myxikQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y9D5v9mtn8TOb08BJ+eaF2AxUfBctl1F5CjETsdVib4=
-=======
-			mF7p+ssP9MUzQlPN9si39lSxC9Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			UXGBGYFlyZVh8z8v2H8iCF0ttE4DMKvzF14Ycop8mOY=
->>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
+			DdquH15d8kovyP6e+Td0zB9XTB1YGTlyiPbtriCTpro=
 			</data>
 		</dict>
 		<key>Frameworks/FacebookShare.framework/Info.plist</key>
@@ -1983,19 +1967,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			anlFb+YPHGRv+PHF1zbFGpHDMio=
+			1Jl29eyP47DN/654cdEUFWtv+mE=
 			</data>
 			<key>hash2</key>
 			<data>
-			kEiuoUX+5ItcSUpU7GzgGc7nkdj80waCXVshhLyt6hY=
-=======
-			JQ8OrMXZbmhBaWljfKmoiJK8URw=
-			</data>
-			<key>hash2</key>
-			<data>
-			V1czVYEG/dGenOqlhBz0xL0WPL0FzFqqsX5UF6fZB9w=
->>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
+			MyFRBjDYsE6+ULdqll77WcOas6kBoezFRX+lHao+fec=
 			</data>
 		</dict>
 		<key>Frameworks/SlideMenuControllerSwift.framework/_CodeSignature/CodeResources</key>

@@ -16,7 +16,6 @@ class ToDoItemTableViewController: UITableViewController {
 	
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-		print(userDefaults.object(forKey: "userEmail"))
 		
         self.ref.observe(.value, with: { snapshot in
             var newItems: [Todo] = []
