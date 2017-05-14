@@ -52,10 +52,9 @@ class LoginViewController: UIViewController {
 				self.userDefaults.set(user?.displayName, forKey: "userName")
 				self.userDefaults.set(user?.email, forKey: "userEmail")
 				self.userDefaults.synchronize()
-				
 				var currentUser = User(name: (user?.displayName)!, userEmail: (user?.email)!)
 				
-				let currentUserRef = self.ref.child((currentUser.name))
+				let currentUserRef = self.ref.child((user?.uid)!)
 				currentUserRef.setValue(currentUser.toDict())
 				
 				self.performSegue(withIdentifier: "ToModeSelect", sender: self)

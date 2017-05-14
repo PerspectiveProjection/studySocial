@@ -3,11 +3,11 @@
   'case-sensitive': 'false',
   'roots': [{
     'type': 'directory',
-    'name': '/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Modules'
+    'name': '/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Modules'
     'contents': [{
       'type': 'file',
       'name': 'module.modulemap',
-      'external-contents': '/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/FacebookCore.build/unextended-module.modulemap',
+      'external-contents': '/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/FacebookCore.build/unextended-module.modulemap',
     }]
   }]
 }
