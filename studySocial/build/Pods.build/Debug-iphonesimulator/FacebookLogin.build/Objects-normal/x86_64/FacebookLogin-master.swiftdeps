@@ -1,17 +1,12 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
-<<<<<<< HEAD
-options: "f22e0e470e1a1922f34063b8e646408b"
-build_time: [548062576, 435503000]
-=======
 options: "34ec7a25b23281859f1eaa0bf608462e"
-build_time: [548059863, 216583000]
->>>>>>> ElleDev
+build_time: [548064480, 677949000]
 inputs:
-  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginBehavior.swift": [548056491, 0]
-  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButton.swift": [548056491, 0]
-  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButton.Tooltip.swift": [548056491, 0]
-  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButtonDelegate.swift": [548056491, 0]
-  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButtonDelegateBridge.swift": [548056491, 0]
-  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginDefaultAudience.swift": [548056491, 0]
-  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginManager.swift": [548056491, 0]
-  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginResult.swift": [548056491, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginBehavior.swift": [9223372036854775807, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButton.swift": [9223372036854775807, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButton.Tooltip.swift": [9223372036854775807, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButtonDelegate.swift": [9223372036854775807, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButtonDelegateBridge.swift": [9223372036854775807, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginDefaultAudience.swift": [9223372036854775807, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginManager.swift": [9223372036854775807, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginResult.swift": [9223372036854775807, 0]

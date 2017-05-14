@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/FBSDKLoginKit.build/DerivedSources/FBSDKLoginKit_vers.c
+  /Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/FBSDKLoginKit.build/DerivedSources/FBSDKLoginKit_vers.c

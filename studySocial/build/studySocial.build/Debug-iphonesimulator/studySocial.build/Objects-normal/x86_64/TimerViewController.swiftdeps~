@@ -14,6 +14,7 @@ provides-dynamic-lookup:
 - "breakSlider"
 - "breakSliderOutlet"
 - "cycleCount"
+- "cycleLimit"
 - "didReceiveMemoryWarning"
 - "ref"
 - "sliderOutlet"
@@ -87,6 +88,7 @@ depends-member:
 - !private ["Ps9AnyObject", "breakSliderOutlet"]
 - !private ["Ps9AnyObject", "child"]
 - !private ["Ps9AnyObject", "cycleCount"]
+- !private ["Ps9AnyObject", "cycleLimit"]
 - ["Ps9AnyObject", "database"]
 - !private ["Ps9AnyObject", "didReceiveMemoryWarning"]
 - ["Ps9AnyObject", "init"]
@@ -144,6 +146,7 @@ depends-member:
 - ["C11studySocial18BaseViewController", "breakSlider"]
 - ["C11studySocial18BaseViewController", "breakSliderOutlet"]
 - ["C11studySocial18BaseViewController", "cycleCount"]
+- ["C11studySocial18BaseViewController", "cycleLimit"]
 - ["C11studySocial18BaseViewController", "didReceiveMemoryWarning"]
 - ["C11studySocial18BaseViewController", "init"]
 - !private ["C11studySocial18BaseViewController", "print"]
@@ -193,6 +196,7 @@ depends-member:
 - !private ["Ps7CVarArg", "breakSliderOutlet"]
 - !private ["Ps7CVarArg", "child"]
 - !private ["Ps7CVarArg", "cycleCount"]
+- !private ["Ps7CVarArg", "cycleLimit"]
 - ["Ps7CVarArg", "database"]
 - !private ["Ps7CVarArg", "didReceiveMemoryWarning"]
 - ["Ps7CVarArg", "init"]
@@ -244,6 +248,7 @@ depends-member:
 - !private ["Ps28CustomDebugStringConvertible", "breakSliderOutlet"]
 - !private ["Ps28CustomDebugStringConvertible", "child"]
 - !private ["Ps28CustomDebugStringConvertible", "cycleCount"]
+- !private ["Ps28CustomDebugStringConvertible", "cycleLimit"]
 - ["Ps28CustomDebugStringConvertible", "database"]
 - !private ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
 - ["Ps28CustomDebugStringConvertible", "init"]
@@ -299,6 +304,7 @@ depends-member:
 - !private ["Ps23CustomStringConvertible", "breakSliderOutlet"]
 - !private ["Ps23CustomStringConvertible", "child"]
 - !private ["Ps23CustomStringConvertible", "cycleCount"]
+- !private ["Ps23CustomStringConvertible", "cycleLimit"]
 - ["Ps23CustomStringConvertible", "database"]
 - !private ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
 - ["Ps23CustomStringConvertible", "init"]
@@ -350,6 +356,7 @@ depends-member:
 - !private ["Ps9Equatable", "breakSliderOutlet"]
 - !private ["Ps9Equatable", "child"]
 - !private ["Ps9Equatable", "cycleCount"]
+- !private ["Ps9Equatable", "cycleLimit"]
 - ["Ps9Equatable", "database"]
 - !private ["Ps9Equatable", "didReceiveMemoryWarning"]
 - ["Ps9Equatable", "init"]
@@ -412,6 +419,7 @@ depends-member:
 - !private ["Ps8Hashable", "breakSliderOutlet"]
 - !private ["Ps8Hashable", "child"]
 - !private ["Ps8Hashable", "cycleCount"]
+- !private ["Ps8Hashable", "cycleLimit"]
 - ["Ps8Hashable", "database"]
 - !private ["Ps8Hashable", "didReceiveMemoryWarning"]
 - ["Ps8Hashable", "init"]
@@ -467,6 +475,7 @@ depends-member:
 - !private ["PSo8NSCoding", "breakLength"]
 - !private ["PSo8NSCoding", "breakSliderOutlet"]
 - !private ["PSo8NSCoding", "cycleCount"]
+- !private ["PSo8NSCoding", "cycleLimit"]
 - !private ["PSo8NSCoding", "didReceiveMemoryWarning"]
 - ["PSo8NSCoding", "init"]
 - !private ["PSo8NSCoding", "isHidden"]
@@ -507,6 +516,7 @@ depends-member:
 - !private ["PSo26NSExtensionRequestHandling", "breakLength"]
 - !private ["PSo26NSExtensionRequestHandling", "breakSliderOutlet"]
 - !private ["PSo26NSExtensionRequestHandling", "cycleCount"]
+- !private ["PSo26NSExtensionRequestHandling", "cycleLimit"]
 - !private ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
 - !private ["PSo26NSExtensionRequestHandling", "init"]
 - !private ["PSo26NSExtensionRequestHandling", "print"]
@@ -549,6 +559,7 @@ depends-member:
 - ["CSo8NSObject", "breakSliderOutlet"]
 - !private ["CSo8NSObject", "child"]
 - ["CSo8NSObject", "cycleCount"]
+- ["CSo8NSObject", "cycleLimit"]
 - ["CSo8NSObject", "database"]
 - ["CSo8NSObject", "didReceiveMemoryWarning"]
 - ["CSo8NSObject", "init"]
@@ -602,6 +613,7 @@ depends-member:
 - !private ["PSo16NSObjectProtocol", "breakSliderOutlet"]
 - !private ["PSo16NSObjectProtocol", "child"]
 - !private ["PSo16NSObjectProtocol", "cycleCount"]
+- !private ["PSo16NSObjectProtocol", "cycleLimit"]
 - ["PSo16NSObjectProtocol", "database"]
 - !private ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
 - ["PSo16NSObjectProtocol", "init"]
@@ -656,6 +668,7 @@ depends-member:
 - !private ["P11studySocial17SlideMenuDelegate", "breakLength"]
 - !private ["P11studySocial17SlideMenuDelegate", "breakSliderOutlet"]
 - !private ["P11studySocial17SlideMenuDelegate", "cycleCount"]
+- !private ["P11studySocial17SlideMenuDelegate", "cycleLimit"]
 - !private ["P11studySocial17SlideMenuDelegate", "didReceiveMemoryWarning"]
 - !private ["P11studySocial17SlideMenuDelegate", "init"]
 - !private ["P11studySocial17SlideMenuDelegate", "print"]
@@ -703,6 +716,7 @@ depends-member:
 - ["C11studySocial19TimerViewController", "breakSlider"]
 - ["C11studySocial19TimerViewController", "breakSliderOutlet"]
 - ["C11studySocial19TimerViewController", "cycleCount"]
+- ["C11studySocial19TimerViewController", "cycleLimit"]
 - ["C11studySocial19TimerViewController", "deinit"]
 - ["C11studySocial19TimerViewController", "didReceiveMemoryWarning"]
 - ["C11studySocial19TimerViewController", "init"]
@@ -753,6 +767,7 @@ depends-member:
 - !private ["PSo21UIAppearanceContainer", "breakLength"]
 - !private ["PSo21UIAppearanceContainer", "breakSliderOutlet"]
 - !private ["PSo21UIAppearanceContainer", "cycleCount"]
+- !private ["PSo21UIAppearanceContainer", "cycleLimit"]
 - !private ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
 - !private ["PSo21UIAppearanceContainer", "init"]
 - !private ["PSo21UIAppearanceContainer", "isHidden"]
@@ -793,6 +808,7 @@ depends-member:
 - !private ["PSo18UIContentContainer", "breakLength"]
 - !private ["PSo18UIContentContainer", "breakSliderOutlet"]
 - !private ["PSo18UIContentContainer", "cycleCount"]
+- !private ["PSo18UIContentContainer", "cycleLimit"]
 - !private ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
 - !private ["PSo18UIContentContainer", "init"]
 - !private ["PSo18UIContentContainer", "print"]
@@ -845,6 +861,7 @@ depends-member:
 - !private ["PSo18UIFocusEnvironment", "breakLength"]
 - !private ["PSo18UIFocusEnvironment", "breakSliderOutlet"]
 - !private ["PSo18UIFocusEnvironment", "cycleCount"]
+- !private ["PSo18UIFocusEnvironment", "cycleLimit"]
 - !private ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
 - !private ["PSo18UIFocusEnvironment", "init"]
 - !private ["PSo18UIFocusEnvironment", "isHidden"]
@@ -899,6 +916,7 @@ depends-member:
 - ["CSo11UIResponder", "breakSlider"]
 - ["CSo11UIResponder", "breakSliderOutlet"]
 - ["CSo11UIResponder", "cycleCount"]
+- ["CSo11UIResponder", "cycleLimit"]
 - ["CSo11UIResponder", "didReceiveMemoryWarning"]
 - ["CSo11UIResponder", "init"]
 - !private ["CSo11UIResponder", "isHidden"]
@@ -942,6 +960,7 @@ depends-member:
 - !private ["PSo30UIResponderStandardEditActions", "breakLength"]
 - !private ["PSo30UIResponderStandardEditActions", "breakSliderOutlet"]
 - !private ["PSo30UIResponderStandardEditActions", "cycleCount"]
+- !private ["PSo30UIResponderStandardEditActions", "cycleLimit"]
 - !private ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
 - !private ["PSo30UIResponderStandardEditActions", "init"]
 - !private ["PSo30UIResponderStandardEditActions", "isHidden"]
@@ -986,6 +1005,7 @@ depends-member:
 - !private ["PSo16UIStateRestoring", "breakLength"]
 - !private ["PSo16UIStateRestoring", "breakSliderOutlet"]
 - !private ["PSo16UIStateRestoring", "cycleCount"]
+- !private ["PSo16UIStateRestoring", "cycleLimit"]
 - !private ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
 - !private ["PSo16UIStateRestoring", "init"]
 - !private ["PSo16UIStateRestoring", "print"]
@@ -1022,6 +1042,7 @@ depends-member:
 - !private ["PSo18UITraitEnvironment", "breakLength"]
 - !private ["PSo18UITraitEnvironment", "breakSliderOutlet"]
 - !private ["PSo18UITraitEnvironment", "cycleCount"]
+- !private ["PSo18UITraitEnvironment", "cycleLimit"]
 - !private ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
 - !private ["PSo18UITraitEnvironment", "init"]
 - !private ["PSo18UITraitEnvironment", "isHidden"]
@@ -1074,6 +1095,7 @@ depends-member:
 - ["CSo16UIViewController", "breakSlider"]
 - ["CSo16UIViewController", "breakSliderOutlet"]
 - ["CSo16UIViewController", "cycleCount"]
+- ["CSo16UIViewController", "cycleLimit"]
 - ["CSo16UIViewController", "didReceiveMemoryWarning"]
 - ["CSo16UIViewController", "init"]
 - !private ["CSo16UIViewController", "print"]
@@ -1095,6 +1117,7 @@ depends-member:
 - !private ["CSo16UIViewController", "userDefaults"]
 - ["CSo16UIViewController", "viewDidLoad"]
 - !private ["V10Foundation3URL", "init"]
+- ["P9Alamofire14URLConvertible", "init"]
 - !private ["CSo12UserDefaults", "object"]
 - !private ["CSo12UserDefaults", "standard"]
 - !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "isHidden"]
@@ -1131,6 +1154,7 @@ depends-member:
 - !private ["Ps9_Hashable", "breakSliderOutlet"]
 - !private ["Ps9_Hashable", "child"]
 - !private ["Ps9_Hashable", "cycleCount"]
+- !private ["Ps9_Hashable", "cycleLimit"]
 - ["Ps9_Hashable", "database"]
 - !private ["Ps9_Hashable", "didReceiveMemoryWarning"]
 - ["Ps9_Hashable", "init"]
@@ -1242,6 +1266,7 @@ depends-nominal:
 - !private "CSo6UIView"
 - "CSo16UIViewController"
 - !private "V10Foundation3URL"
+- "P9Alamofire14URLConvertible"
 - !private "CSo12UserDefaults"
 - !private "Ps37_DefaultCustomPlaygroundQuickLookable"
 - !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
@@ -1270,8 +1295,9 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.apinotesc"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreText.apinotesc"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AudioToolbox.apinotesc"
-- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Modules/FacebookCore.swiftmodule/x86_64.swiftmodule"
-- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Modules/FacebookLogin.swiftmodule/x86_64.swiftmodule"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Modules/FacebookCore.swiftmodule/x86_64.swiftmodule"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Modules/FacebookLogin.swiftmodule/x86_64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
@@ -1285,6 +1311,114 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+<<<<<<< HEAD
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFURL.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Headers/FacebookCore-umbrella.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Headers/FacebookLogin-umbrella.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts-umbrella.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCoreKit-umbrella.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginKit-umbrella.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKProfile.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFAppLinkResolving.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCopying.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFAppLink.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFTask.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFAppLinkNavigation.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKButton.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginButton.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailPasswordAuthProvider.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginManager.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFWebViewAppLinkResolver.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKSettings.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFTask+Exceptions.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKMacros.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKConstants.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Headers/FacebookCore-Swift.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Headers/FacebookLogin-Swift.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginKit.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginManagerLoginResult.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFMeasurementEvent.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKTooltipView.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKUtility.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h"
+- "/Users/william/Projects/studySocial/studySocial/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Modules/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Modules/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Modules/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Modules/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Modules/module.modulemap"
+interface-hash: "ec7e6be409b77d651f1d2ad01aa92929"
+=======
 - "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
 - "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
 - "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFURL.h"
@@ -1387,4 +1521,5 @@ depends-external:
 - "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Modules/module.modulemap"
 - "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Modules/module.modulemap"
 - "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Modules/module.modulemap"
-interface-hash: "7156434fb28d60d57f2d2a54d46190e5"
+interface-hash: "3482a6b79f558c269d15d61c90328305"
+>>>>>>> ElleDev

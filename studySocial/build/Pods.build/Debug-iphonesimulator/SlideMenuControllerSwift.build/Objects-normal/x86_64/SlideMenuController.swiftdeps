@@ -3713,6 +3713,6 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
-- "/Users/william/Projects/studySocial/studySocial/Pods/Target Support Files/SlideMenuControllerSwift/SlideMenuControllerSwift-umbrella.h"
-- "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/SlideMenuControllerSwift.build/unextended-module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Target Support Files/SlideMenuControllerSwift/SlideMenuControllerSwift-umbrella.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/SlideMenuControllerSwift.build/unextended-module.modulemap"
 interface-hash: "d27103541e7beef72ba4378b7d747e00"

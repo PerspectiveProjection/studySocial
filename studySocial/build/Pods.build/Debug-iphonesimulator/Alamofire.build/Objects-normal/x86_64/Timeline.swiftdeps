@@ -179,6 +179,6 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
-- "/Users/william/Projects/studySocial/studySocial/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
-- "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/Alamofire.build/unextended-module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/Alamofire.build/unextended-module.modulemap"
 interface-hash: "d3f06de1e6c25d01454a71091690deee"

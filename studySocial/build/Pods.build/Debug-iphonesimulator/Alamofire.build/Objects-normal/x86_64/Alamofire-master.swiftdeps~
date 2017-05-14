@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "3bfd6861291a8e1fee432306b3324686"
+build_time: [548062556, 287707000]
+inputs:
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/AFError.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/Alamofire.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/MultipartFormData.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/Notifications.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/ParameterEncoding.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/Request.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/Response.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/ResponseSerialization.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/Result.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/ServerTrustPolicy.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/SessionDelegate.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/SessionManager.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/TaskDelegate.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/Timeline.swift": [548062518, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/Validation.swift": [548062518, 0]
