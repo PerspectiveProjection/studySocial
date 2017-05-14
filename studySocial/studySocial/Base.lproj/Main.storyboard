@@ -336,6 +336,7 @@
                         <outlet property="breakSliderOutlet" destination="ZKZ-Sw-klg" id="PuY-yi-4uQ"/>
                         <outlet property="sliderOutlet" destination="Fs0-Z5-4cb" id="o4N-7H-RLc"/>
                         <outlet property="startOutlet" destination="iSW-j2-Iq5" id="Ie1-B0-PEG"/>
+                        <outlet property="statusField" destination="KNZ-CZ-2Gg" id="1Gc-4V-wu7"/>
                         <outlet property="stopOutlet" destination="CX1-oP-Ng1" id="3vC-iv-mSJ"/>
                         <outlet property="studyLabel" destination="QZM-0U-YkP" id="5Ug-im-ooF"/>
                         <outlet property="taskButton" destination="nju-ML-VcQ" id="PbJ-Jc-Ycx"/>
