@@ -11,7 +11,7 @@ import Firebase
 import FBSDKLoginKit
 import FacebookCore
 
-class BaseViewController: UIViewController, SlideMenuDelegate {
+class BaseViewController: UIViewController, SlideMenuDelegate, UITextFieldDelegate {
 	var handle: FIRAuthStateDidChangeListenerHandle?
 	var userDefaults: UserDefaults!
 	

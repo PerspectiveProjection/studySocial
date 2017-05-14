@@ -1,5 +1,5 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
-options: "b7b99767cf40ec90f85cd424c8940fb3"
-build_time: [548052124, 863775000]
+options: "ea4bdc079aca1f80b70d6adcde9381b6"
+build_time: [548072967, 630065000]
 inputs:
-  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/SlideMenuControllerSwift/Source/SlideMenuController.swift": [548028332, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/SlideMenuControllerSwift/Source/SlideMenuController.swift": [548056492, 0]

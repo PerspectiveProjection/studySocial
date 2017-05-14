@@ -145,6 +145,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 SWIFT_CLASS("_TtC11studySocial11AppDelegate")
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 @property (nonatomic, strong) UIWindow * _Nullable window;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (BOOL)application:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions SWIFT_WARN_UNUSED_RESULT;
 - (BOOL)application:(UIApplication * _Nonnull)app openURL:(NSURL * _Nonnull)url options:(NSDictionary<UIApplicationOpenURLOptionsKey, id> * _Nonnull)options SWIFT_WARN_UNUSED_RESULT;
 - (void)applicationWillResignActive:(UIApplication * _Nonnull)application;
@@ -152,7 +153,6 @@ SWIFT_CLASS("_TtC11studySocial11AppDelegate")
 - (void)applicationWillEnterForeground:(UIApplication * _Nonnull)application;
 - (void)applicationDidBecomeActive:(UIApplication * _Nonnull)application;
 - (void)applicationWillTerminate:(UIApplication * _Nonnull)application;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 @protocol NSObject;
@@ -163,7 +163,7 @@ SWIFT_CLASS("_TtC11studySocial11AppDelegate")
 @class NSCoder;
 
 SWIFT_CLASS("_TtC11studySocial18BaseViewController")
-@interface BaseViewController : UIViewController
+@interface BaseViewController : UIViewController <UITextFieldDelegate>
 @property (nonatomic, strong) FIRAuthStateDidChangeListenerHandle _Nullable handle;
 @property (nonatomic, strong) NSUserDefaults * _Null_unspecified userDefaults;
 - (void)viewDidLoad;
@@ -194,6 +194,7 @@ SWIFT_CLASS("_TtC11studySocial25FriendStatusTableViewCell")
 @end
 
 @class NSArray;
+@class FIRDatabaseReference;
 @class UITableView;
 
 SWIFT_CLASS("_TtC11studySocial25FriendTableViewController")
@@ -201,6 +202,7 @@ SWIFT_CLASS("_TtC11studySocial25FriendTableViewController")
 @property (nonatomic, strong) FIRAuthStateDidChangeListenerHandle _Nullable handle;
 @property (nonatomic, strong) NSArray * _Null_unspecified friendArray;
 @property (nonatomic, strong) NSUserDefaults * _Null_unspecified userDefaults;
+@property (nonatomic, readonly, strong) FIRDatabaseReference * _Nonnull ref;
 - (void)viewDidLoad;
 - (void)didReceiveMemoryWarning;
 - (NSInteger)numberOfSectionsInTableView:(UITableView * _Nonnull)tableView SWIFT_WARN_UNUSED_RESULT;
@@ -247,6 +249,7 @@ SWIFT_CLASS("_TtC11studySocial24GroupTableViewController")
 SWIFT_CLASS("_TtC11studySocial19LoginViewController")
 @interface LoginViewController : UIViewController
 @property (nonatomic, strong) NSUserDefaults * _Null_unspecified userDefaults;
+@property (nonatomic, readonly, strong) FIRDatabaseReference * _Nonnull ref;
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified emailAddressField;
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified passwordField;
 - (IBAction)facebookLogin:(id _Nonnull)sender;
@@ -313,16 +316,19 @@ SWIFT_CLASS("_TtC11studySocial24ModeSelectViewController")
 @class UISlider;
 
 SWIFT_CLASS("_TtC11studySocial19TimerViewController")
-@interface TimerViewController : BaseViewController
+@interface TimerViewController : BaseViewController <UIScrollViewDelegate, UITextViewDelegate>
+@property (nonatomic, readonly, strong) FIRDatabaseReference * _Nonnull ref;
 @property (nonatomic) NSInteger studyCount;
 @property (nonatomic) NSInteger breakCount;
 @property (nonatomic) NSInteger cycleCount;
+@property (nonatomic) NSInteger cycleLimit;
 @property (nonatomic, strong) NSTimer * _Nonnull timer;
 @property (nonatomic, strong) AVAudioPlayer * _Nonnull studyAudioPlayer;
 @property (nonatomic, strong) AVAudioPlayer * _Nonnull breakAudioPlayer;
 @property (nonatomic) NSInteger breakLength;
 @property (nonatomic) NSInteger studyLength;
 @property (nonatomic, weak) IBOutlet UIBarButtonItem * _Null_unspecified taskButton;
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified statusField;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified studyLabel;
 @property (nonatomic, weak) IBOutlet UISlider * _Null_unspecified sliderOutlet;
 - (IBAction)studySlider:(UISlider * _Nonnull)sender;
@@ -336,16 +342,18 @@ SWIFT_CLASS("_TtC11studySocial19TimerViewController")
 @property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified stopOutlet;
 - (IBAction)stop:(id _Nonnull)sender;
 - (void)viewDidLoad;
+- (BOOL)textFieldShouldReturn:(UITextField * _Nonnull)scoreText SWIFT_WARN_UNUSED_RESULT;
 - (void)didReceiveMemoryWarning;
+- (void)dismissKeyboard;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class FIRDatabaseReference;
 
 SWIFT_CLASS("_TtC11studySocial27ToDoItemTableViewController")
 @interface ToDoItemTableViewController : UITableViewController
 @property (nonatomic, strong) FIRDatabaseReference * _Nonnull ref;
+@property (nonatomic, strong) NSUserDefaults * _Null_unspecified userDefaults;
 - (void)viewDidAppear:(BOOL)animated;
 - (void)viewDidLoad;
 - (void)addTodoItemButton;

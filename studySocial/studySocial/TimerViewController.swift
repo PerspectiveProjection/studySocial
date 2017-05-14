@@ -240,10 +240,12 @@ class TimerViewController: BaseViewController, UITextViewDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         userDefaults = UserDefaults.standard
-		let tap: UITapGestureRecognizer = UITapGestureRecognizer(target: self, action: "dismissKeyboard")
+		//let tap: UITapGestureRecognizer = UITapGestureRecognizer(target: self, action: "dismissKeyboard")
 		
-		view.addGestureRecognizer(tap)
+		//view.addGestureRecognizer(tap)
 
+		statusField.delegate = self
+		
         self.addSlideMenuButton()
         
         do

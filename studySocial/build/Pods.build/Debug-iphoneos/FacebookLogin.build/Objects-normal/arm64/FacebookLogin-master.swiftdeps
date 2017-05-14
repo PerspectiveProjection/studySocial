@@ -1,12 +1,12 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
-options: "ea6d5134864a212bc91b4d3350384a1d"
-build_time: [548052108, 447901000]
+options: "c031bb3db2ee3465511cc2e09127c4a2"
+build_time: [548072984, 773206000]
 inputs:
-  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginBehavior.swift": [548028322, 0]
-  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButton.swift": [548028322, 0]
-  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButton.Tooltip.swift": [548028322, 0]
-  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButtonDelegate.swift": [548028322, 0]
-  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButtonDelegateBridge.swift": [548028322, 0]
-  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginDefaultAudience.swift": [548028322, 0]
-  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginManager.swift": [548028322, 0]
-  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginResult.swift": [548028322, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginBehavior.swift": [548056491, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButton.swift": [548056491, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButton.Tooltip.swift": [548056491, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButtonDelegate.swift": [548056491, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButtonDelegateBridge.swift": [548056491, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginDefaultAudience.swift": [548056491, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginManager.swift": [548056491, 0]
+  "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginResult.swift": [548056491, 0]

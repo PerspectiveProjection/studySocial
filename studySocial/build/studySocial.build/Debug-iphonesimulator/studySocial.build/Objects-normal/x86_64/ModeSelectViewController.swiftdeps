@@ -105,6 +105,11 @@ depends-member:
 - !private ["PSo16UIStateRestoring", "init"]
 - !private ["PSo16UIStateRestoring", "viewDidLoad"]
 - ["PSo16UIStateRestoring", ""]
+- !private ["PSo19UITextFieldDelegate", "addSlideMenuButton"]
+- !private ["PSo19UITextFieldDelegate", "didReceiveMemoryWarning"]
+- !private ["PSo19UITextFieldDelegate", "init"]
+- !private ["PSo19UITextFieldDelegate", "viewDidLoad"]
+- ["PSo19UITextFieldDelegate", ""]
 - !private ["PSo18UITraitEnvironment", "addSlideMenuButton"]
 - !private ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
 - !private ["PSo18UITraitEnvironment", "init"]
@@ -139,6 +144,7 @@ depends-nominal:
 - "CSo11UIResponder"
 - "PSo30UIResponderStandardEditActions"
 - "PSo16UIStateRestoring"
+- "PSo19UITextFieldDelegate"
 - "PSo18UITraitEnvironment"
 - "CSo16UIViewController"
 - "Ps9_Hashable"

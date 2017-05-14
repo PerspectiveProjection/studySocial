@@ -1,6 +1,6 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
 options: "6a7b903ea37fcc4d8265592254f5dca9"
-build_time: [548072793, 587745000]
+build_time: [548073507, 442866000]
 inputs:
   "/Users/william/Projects/studySocial/studySocial/studySocial/GroupTableViewController.swift": [548055503, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/GroupSelectViewController.swift": [548055503, 0]
@@ -13,6 +13,6 @@ inputs:
   "/Users/william/Projects/studySocial/studySocial/studySocial/LoginViewController.swift": [548064024, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/FriendStatusTableViewCell.swift": [548055503, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/ModeSelectViewController.swift": [548063964, 0]
-  "/Users/william/Projects/studySocial/studySocial/studySocial/BaseViewController.swift": [548069069, 0]
-  "/Users/william/Projects/studySocial/studySocial/studySocial/TimerViewController.swift": [548072792, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/BaseViewController.swift": [548073468, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/TimerViewController.swift": [548073503, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/FriendViewController.swift": [548055503, 0]

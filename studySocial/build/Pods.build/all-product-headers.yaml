@@ -4,12 +4,12 @@
   'roots': [
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "Alamofire-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
         },
         {
           'type': 'file',
@@ -20,18 +20,18 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -116,7 +116,7 @@
         {
           'type': 'file',
           'name': "Bolts-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/Bolts-Swift.h"
         },
         {
           'type': 'file',
@@ -132,18 +132,18 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/Bolts.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/Bolts.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -188,7 +188,7 @@
         {
           'type': 'file',
           'name': "FBSDKCoreKit-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCoreKit-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCoreKit-Swift.h"
         },
         {
           'type': 'file',
@@ -259,18 +259,18 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/FBSDKCoreKit.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -285,7 +285,7 @@
         {
           'type': 'file',
           'name': "FBSDKLoginKit-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginKit-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginKit-Swift.h"
         },
         {
           'type': 'file',
@@ -321,18 +321,18 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/FBSDKLoginKit.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/FBSDKLoginKit.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKShareKit/FBSDKShareKit.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FBSDKShareKit/FBSDKShareKit.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -432,7 +432,7 @@
         {
           'type': 'file',
           'name': "FBSDKShareKit-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKShareKit/FBSDKShareKit.framework/Headers/FBSDKShareKit-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FBSDKShareKit/FBSDKShareKit.framework/Headers/FBSDKShareKit-Swift.h"
         },
         {
           'type': 'file',
@@ -513,23 +513,23 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKShareKit/FBSDKShareKit.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FBSDKShareKit/FBSDKShareKit.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/FBSDKShareKit.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/FBSDKShareKit.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FacebookCore/FacebookCore.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "FacebookCore-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Headers/FacebookCore-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FacebookCore/FacebookCore.framework/Headers/FacebookCore-Swift.h"
         },
         {
           'type': 'file',
@@ -540,23 +540,23 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FacebookCore/FacebookCore.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/FacebookCore.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/FacebookCore.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FacebookLogin/FacebookLogin.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "FacebookLogin-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Headers/FacebookLogin-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FacebookLogin/FacebookLogin.framework/Headers/FacebookLogin-Swift.h"
         },
         {
           'type': 'file',
@@ -567,23 +567,23 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FacebookLogin/FacebookLogin.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/FacebookLogin.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/FacebookLogin.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookShare/FacebookShare.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FacebookShare/FacebookShare.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "FacebookShare-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookShare/FacebookShare.framework/Headers/FacebookShare-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FacebookShare/FacebookShare.framework/Headers/FacebookShare-Swift.h"
         },
         {
           'type': 'file',
@@ -594,23 +594,23 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookShare/FacebookShare.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/FacebookShare/FacebookShare.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/FacebookShare.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/FacebookShare.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "GTMSessionFetcher-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
         },
         {
           'type': 'file',
@@ -641,18 +641,18 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/GTMSessionFetcher.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -692,7 +692,7 @@
         {
           'type': 'file',
           'name': "GoogleToolboxForMac-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
         },
         {
           'type': 'file',
@@ -703,18 +703,18 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/GoogleToolboxForMac.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/GoogleToolboxForMac.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Pods_studySocial.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/Pods_studySocial.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -724,29 +724,29 @@
         {
           'type': 'file',
           'name': "Pods_studySocial-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Pods_studySocial.framework/Headers/Pods_studySocial-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/Pods_studySocial.framework/Headers/Pods_studySocial-Swift.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Pods_studySocial.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/Pods_studySocial.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/Pods-studySocial.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/Pods-studySocial.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/SlideMenuControllerSwift/SlideMenuControllerSwift.framework/Headers",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/SlideMenuControllerSwift/SlideMenuControllerSwift.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "SlideMenuControllerSwift-Swift.h",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/SlideMenuControllerSwift/SlideMenuControllerSwift.framework/Headers/SlideMenuControllerSwift-Swift.h"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/SlideMenuControllerSwift/SlideMenuControllerSwift.framework/Headers/SlideMenuControllerSwift-Swift.h"
         },
         {
           'type': 'file',
@@ -757,12 +757,12 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/SlideMenuControllerSwift/SlideMenuControllerSwift.framework/Modules",
+      'name': "/Users/william/Projects/studySocial/studySocial/build/Debug-iphoneos/SlideMenuControllerSwift/SlideMenuControllerSwift.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphonesimulator/SlideMenuControllerSwift.build/module.modulemap"
+          'external-contents': "/Users/william/Projects/studySocial/studySocial/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/module.modulemap"
         }
       ]
     }

@@ -163,7 +163,7 @@ SWIFT_CLASS("_TtC11studySocial11AppDelegate")
 @class NSCoder;
 
 SWIFT_CLASS("_TtC11studySocial18BaseViewController")
-@interface BaseViewController : UIViewController
+@interface BaseViewController : UIViewController <UITextFieldDelegate>
 @property (nonatomic, strong) FIRAuthStateDidChangeListenerHandle _Nullable handle;
 @property (nonatomic, strong) NSUserDefaults * _Null_unspecified userDefaults;
 - (void)viewDidLoad;
