@@ -1,15 +1,6 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
-<<<<<<< HEAD
-options: "f22e0e470e1a1922f34063b8e646408b"
-<<<<<<< HEAD
-build_time: [548062576, 435503000]
-=======
-options: "34ec7a25b23281859f1eaa0bf608462e"
-build_time: [548059863, 216583000]
->>>>>>> ElleDev
-=======
-build_time: [548064031, 453159000]
->>>>>>> willDev
+options: "427dd1ff9f5336d40c057ae543f66048"
+build_time: [548068356, 50634000]
 inputs:
   "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginBehavior.swift": [548056491, 0]
   "/Users/william/Projects/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButton.swift": [548056491, 0]
