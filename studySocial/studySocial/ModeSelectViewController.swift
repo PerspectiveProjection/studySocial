@@ -12,9 +12,10 @@ import FBSDKLoginKit
 import FacebookCore
 
 class ModeSelectViewController: BaseViewController {
+
     override func viewDidLoad() {
         super.viewDidLoad()
-		
+
         self.addSlideMenuButton()
 		
         // Do any additional setup after loading the view.

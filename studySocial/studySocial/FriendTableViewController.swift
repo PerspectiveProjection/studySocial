@@ -15,12 +15,14 @@ class FriendTableViewController: UITableViewController {
 	var handle: FIRAuthStateDidChangeListenerHandle?
 	var friendArray: NSArray!
 	var userDefaults: UserDefaults!
+	let ref = FIRDatabase.database().reference(withPath: "userdata")
 	
     override func viewDidLoad() {
         super.viewDidLoad()
 		userDefaults = UserDefaults.standard
 		friendArray = userDefaults!.object(forKey: "friendArray") as! NSArray
 		tableView.tableFooterView = UIView(frame: .zero)
+		
 
         // Uncomment the following line to preserve selection between presentations
         // self.clearsSelectionOnViewWillAppear = false
@@ -56,7 +58,7 @@ class FriendTableViewController: UITableViewController {
         // Configure the cell...
 		let friend = friendArray[indexPath.row] as! [String: Any?]
 		print(friend["name"]!!)
-		cell.username.text = friend["name"]!! as! String
+		cell.username.text = friend["name"]!! as? String
 		let user_id = friend["id"] as! String
 		print(user_id)
 		cell.userPicture.image = getProfPic(fid: user_id)
@@ -65,10 +67,10 @@ class FriendTableViewController: UITableViewController {
 	
 	func getProfPic(fid: String) -> UIImage? {
 		if (fid != "") {
-			var imgURLString = "https://graph.facebook.com/" + fid + "/picture?type=large" //type=normal
-			var imgURL = NSURL(string: imgURLString)
-			var imageData = NSData(contentsOf: imgURL! as URL)
-			var image = UIImage(data: imageData! as Data)
+			let imgURLString = "https://graph.facebook.com/" + fid + "/picture?type=large" //type=normal
+			let imgURL = NSURL(string: imgURLString)
+			let imageData = NSData(contentsOf: imgURL! as URL)
+			let image = UIImage(data: imageData! as Data)
 			return image
 		}
 		return nil

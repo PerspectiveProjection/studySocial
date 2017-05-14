@@ -194,6 +194,7 @@ SWIFT_CLASS("_TtC11studySocial25FriendStatusTableViewCell")
 @end
 
 @class NSArray;
+@class FIRDatabaseReference;
 @class UITableView;
 
 SWIFT_CLASS("_TtC11studySocial25FriendTableViewController")
@@ -201,6 +202,7 @@ SWIFT_CLASS("_TtC11studySocial25FriendTableViewController")
 @property (nonatomic, strong) FIRAuthStateDidChangeListenerHandle _Nullable handle;
 @property (nonatomic, strong) NSArray * _Null_unspecified friendArray;
 @property (nonatomic, strong) NSUserDefaults * _Null_unspecified userDefaults;
+@property (nonatomic, readonly, strong) FIRDatabaseReference * _Nonnull ref;
 - (void)viewDidLoad;
 - (void)didReceiveMemoryWarning;
 - (NSInteger)numberOfSectionsInTableView:(UITableView * _Nonnull)tableView SWIFT_WARN_UNUSED_RESULT;
@@ -242,7 +244,6 @@ SWIFT_CLASS("_TtC11studySocial24GroupTableViewController")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class FIRDatabaseReference;
 @class UITextField;
 
 SWIFT_CLASS("_TtC11studySocial19LoginViewController")

@@ -13,5 +13,6 @@ target 'studySocial' do
   pod 'Firebase/Auth'
   pod 'Firebase/Core'
   pod 'Firebase/Database'
+  pod 'Alamofire'
 
 end

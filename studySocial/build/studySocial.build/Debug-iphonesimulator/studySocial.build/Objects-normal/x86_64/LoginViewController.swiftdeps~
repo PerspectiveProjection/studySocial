@@ -22,12 +22,17 @@ depends-top-level:
 - "AssignmentPrecedence"
 - "Bool"
 - "BooleanLiteralType"
+- !private "CastingPrecedence"
+- "Dictionary"
 - !private "FBSDKAccessToken"
+- !private "FBSDKGraphRequest"
+- !private "FBSDKGraphRequestConnection"
 - !private "FBSDKLoginManager"
 - !private "FIRAuth"
 - "FIRDatabase"
 - !private "FIRFacebookAuthProvider"
 - "LoginViewController"
+- !private "String"
 - "StringLiteralType"
 - !private "UIAlertAction"
 - !private "UIAlertController"
@@ -39,6 +44,8 @@ depends-top-level:
 - !private "||"
 depends-member:
 - !private ["Ps9AnyObject", "FBSDKAccessToken"]
+- !private ["Ps9AnyObject", "FBSDKGraphRequest"]
+- !private ["Ps9AnyObject", "FBSDKGraphRequestConnection"]
 - !private ["Ps9AnyObject", "FBSDKLoginManager"]
 - !private ["Ps9AnyObject", "FIRAuth"]
 - ["Ps9AnyObject", "FIRDatabase"]
@@ -47,6 +54,7 @@ depends-member:
 - !private ["Ps9AnyObject", "UIAlertController"]
 - !private ["Ps9AnyObject", "User"]
 - !private ["Ps9AnyObject", "UserDefaults"]
+- !private ["Ps9AnyObject", "add"]
 - !private ["Ps9AnyObject", "addAction"]
 - !private ["Ps9AnyObject", "auth"]
 - !private ["Ps9AnyObject", "child"]
@@ -70,10 +78,10 @@ depends-member:
 - !private ["Ps9AnyObject", "setValue"]
 - !private ["Ps9AnyObject", "signIn"]
 - !private ["Ps9AnyObject", "standard"]
+- !private ["Ps9AnyObject", "start"]
 - !private ["Ps9AnyObject", "synchronize"]
 - !private ["Ps9AnyObject", "text"]
 - !private ["Ps9AnyObject", "tokenString"]
-- !private ["Ps9AnyObject", "uid"]
 - !private ["Ps9AnyObject", "userDefaults"]
 - !private ["Ps9AnyObject", "viewDidLoad"]
 - ["Ps9AnyObject", ""]
@@ -81,6 +89,8 @@ depends-member:
 - !private ["Sb", "_getBuiltinLogicValue"]
 - !private ["PSo15CALayerDelegate", "text"]
 - !private ["Ps7CVarArg", "FBSDKAccessToken"]
+- !private ["Ps7CVarArg", "FBSDKGraphRequest"]
+- !private ["Ps7CVarArg", "FBSDKGraphRequestConnection"]
 - !private ["Ps7CVarArg", "FBSDKLoginManager"]
 - !private ["Ps7CVarArg", "FIRAuth"]
 - ["Ps7CVarArg", "FIRDatabase"]
@@ -89,6 +99,7 @@ depends-member:
 - !private ["Ps7CVarArg", "UIAlertController"]
 - !private ["Ps7CVarArg", "User"]
 - !private ["Ps7CVarArg", "UserDefaults"]
+- !private ["Ps7CVarArg", "add"]
 - !private ["Ps7CVarArg", "addAction"]
 - !private ["Ps7CVarArg", "auth"]
 - !private ["Ps7CVarArg", "child"]
@@ -112,15 +123,19 @@ depends-member:
 - !private ["Ps7CVarArg", "setValue"]
 - !private ["Ps7CVarArg", "signIn"]
 - !private ["Ps7CVarArg", "standard"]
+- !private ["Ps7CVarArg", "start"]
+- !private ["Ps7CVarArg", "subscript"]
 - !private ["Ps7CVarArg", "synchronize"]
 - !private ["Ps7CVarArg", "text"]
 - !private ["Ps7CVarArg", "tokenString"]
-- !private ["Ps7CVarArg", "uid"]
 - !private ["Ps7CVarArg", "userDefaults"]
 - !private ["Ps7CVarArg", "viewDidLoad"]
 - ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "subscript"]
 - ["Ps10Comparable", "init"]
 - !private ["Ps28CustomDebugStringConvertible", "FBSDKAccessToken"]
+- !private ["Ps28CustomDebugStringConvertible", "FBSDKGraphRequest"]
+- !private ["Ps28CustomDebugStringConvertible", "FBSDKGraphRequestConnection"]
 - !private ["Ps28CustomDebugStringConvertible", "FBSDKLoginManager"]
 - !private ["Ps28CustomDebugStringConvertible", "FIRAuth"]
 - ["Ps28CustomDebugStringConvertible", "FIRDatabase"]
@@ -129,6 +144,7 @@ depends-member:
 - !private ["Ps28CustomDebugStringConvertible", "UIAlertController"]
 - !private ["Ps28CustomDebugStringConvertible", "User"]
 - !private ["Ps28CustomDebugStringConvertible", "UserDefaults"]
+- !private ["Ps28CustomDebugStringConvertible", "add"]
 - !private ["Ps28CustomDebugStringConvertible", "addAction"]
 - !private ["Ps28CustomDebugStringConvertible", "auth"]
 - !private ["Ps28CustomDebugStringConvertible", "child"]
@@ -152,10 +168,11 @@ depends-member:
 - !private ["Ps28CustomDebugStringConvertible", "setValue"]
 - !private ["Ps28CustomDebugStringConvertible", "signIn"]
 - !private ["Ps28CustomDebugStringConvertible", "standard"]
+- !private ["Ps28CustomDebugStringConvertible", "start"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
 - !private ["Ps28CustomDebugStringConvertible", "synchronize"]
 - !private ["Ps28CustomDebugStringConvertible", "text"]
 - !private ["Ps28CustomDebugStringConvertible", "tokenString"]
-- !private ["Ps28CustomDebugStringConvertible", "uid"]
 - !private ["Ps28CustomDebugStringConvertible", "userDefaults"]
 - !private ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
 - ["Ps28CustomDebugStringConvertible", ""]
@@ -163,7 +180,10 @@ depends-member:
 - ["Ps29CustomPlaygroundQuickLookable", "init"]
 - !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
 - ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "subscript"]
 - !private ["Ps23CustomStringConvertible", "FBSDKAccessToken"]
+- !private ["Ps23CustomStringConvertible", "FBSDKGraphRequest"]
+- !private ["Ps23CustomStringConvertible", "FBSDKGraphRequestConnection"]
 - !private ["Ps23CustomStringConvertible", "FBSDKLoginManager"]
 - !private ["Ps23CustomStringConvertible", "FIRAuth"]
 - ["Ps23CustomStringConvertible", "FIRDatabase"]
@@ -173,6 +193,7 @@ depends-member:
 - !private ["Ps23CustomStringConvertible", "User"]
 - !private ["Ps23CustomStringConvertible", "UserDefaults"]
 - !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "add"]
 - !private ["Ps23CustomStringConvertible", "addAction"]
 - !private ["Ps23CustomStringConvertible", "auth"]
 - !private ["Ps23CustomStringConvertible", "child"]
@@ -196,14 +217,18 @@ depends-member:
 - !private ["Ps23CustomStringConvertible", "setValue"]
 - !private ["Ps23CustomStringConvertible", "signIn"]
 - !private ["Ps23CustomStringConvertible", "standard"]
+- !private ["Ps23CustomStringConvertible", "start"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
 - !private ["Ps23CustomStringConvertible", "synchronize"]
 - !private ["Ps23CustomStringConvertible", "text"]
 - !private ["Ps23CustomStringConvertible", "tokenString"]
-- !private ["Ps23CustomStringConvertible", "uid"]
 - !private ["Ps23CustomStringConvertible", "userDefaults"]
 - !private ["Ps23CustomStringConvertible", "viewDidLoad"]
 - ["Ps23CustomStringConvertible", ""]
+- !private ["Vs10Dictionary", "subscript"]
 - !private ["Ps9Equatable", "FBSDKAccessToken"]
+- !private ["Ps9Equatable", "FBSDKGraphRequest"]
+- !private ["Ps9Equatable", "FBSDKGraphRequestConnection"]
 - !private ["Ps9Equatable", "FBSDKLoginManager"]
 - !private ["Ps9Equatable", "FIRAuth"]
 - ["Ps9Equatable", "FIRDatabase"]
@@ -213,6 +238,7 @@ depends-member:
 - !private ["Ps9Equatable", "User"]
 - !private ["Ps9Equatable", "UserDefaults"]
 - !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "add"]
 - !private ["Ps9Equatable", "addAction"]
 - !private ["Ps9Equatable", "alert"]
 - !private ["Ps9Equatable", "auth"]
@@ -238,15 +264,16 @@ depends-member:
 - !private ["Ps9Equatable", "setValue"]
 - !private ["Ps9Equatable", "signIn"]
 - !private ["Ps9Equatable", "standard"]
+- !private ["Ps9Equatable", "start"]
 - !private ["Ps9Equatable", "synchronize"]
 - !private ["Ps9Equatable", "text"]
 - !private ["Ps9Equatable", "tokenString"]
-- !private ["Ps9Equatable", "uid"]
 - !private ["Ps9Equatable", "userDefaults"]
 - !private ["Ps9Equatable", "viewDidLoad"]
 - ["Ps9Equatable", ""]
 - !private ["Ps5Error", "localizedDescription"]
 - !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "subscript"]
 - ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
 - ["Ps26ExpressibleByStringLiteral", "init"]
 - ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
@@ -254,6 +281,10 @@ depends-member:
 - !private ["CSo16FBSDKAccessToken", "tokenString"]
 - !private ["PSo12FBSDKCopying", "current"]
 - !private ["PSo12FBSDKCopying", "tokenString"]
+- !private ["CSo17FBSDKGraphRequest", "init"]
+- !private ["CSo27FBSDKGraphRequestConnection", "add"]
+- !private ["CSo27FBSDKGraphRequestConnection", "init"]
+- !private ["CSo27FBSDKGraphRequestConnection", "start"]
 - !private ["CSo17FBSDKLoginManager", "init"]
 - !private ["CSo17FBSDKLoginManager", "logIn"]
 - !private ["CSo7FIRAuth", "auth"]
@@ -267,11 +298,11 @@ depends-member:
 - !private ["CSo23FIRFacebookAuthProvider", "credential"]
 - !private ["CSo7FIRUser", "displayName"]
 - !private ["CSo7FIRUser", "email"]
-- !private ["CSo7FIRUser", "uid"]
 - !private ["PSo11FIRUserInfo", "displayName"]
 - !private ["PSo11FIRUserInfo", "email"]
-- !private ["PSo11FIRUserInfo", "uid"]
 - !private ["Ps8Hashable", "FBSDKAccessToken"]
+- !private ["Ps8Hashable", "FBSDKGraphRequest"]
+- !private ["Ps8Hashable", "FBSDKGraphRequestConnection"]
 - !private ["Ps8Hashable", "FBSDKLoginManager"]
 - !private ["Ps8Hashable", "FIRAuth"]
 - ["Ps8Hashable", "FIRDatabase"]
@@ -281,6 +312,7 @@ depends-member:
 - !private ["Ps8Hashable", "User"]
 - !private ["Ps8Hashable", "UserDefaults"]
 - !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "add"]
 - !private ["Ps8Hashable", "addAction"]
 - !private ["Ps8Hashable", "alert"]
 - !private ["Ps8Hashable", "auth"]
@@ -306,19 +338,22 @@ depends-member:
 - !private ["Ps8Hashable", "setValue"]
 - !private ["Ps8Hashable", "signIn"]
 - !private ["Ps8Hashable", "standard"]
+- !private ["Ps8Hashable", "start"]
 - !private ["Ps8Hashable", "synchronize"]
 - !private ["Ps8Hashable", "text"]
 - !private ["Ps8Hashable", "tokenString"]
-- !private ["Ps8Hashable", "uid"]
 - !private ["Ps8Hashable", "userDefaults"]
 - !private ["Ps8Hashable", "viewDidLoad"]
 - ["Ps8Hashable", ""]
 - ["C11studySocial19LoginViewController", "Bool"]
 - !private ["C11studySocial19LoginViewController", "FBSDKAccessToken"]
+- !private ["C11studySocial19LoginViewController", "FBSDKGraphRequest"]
+- !private ["C11studySocial19LoginViewController", "FBSDKGraphRequestConnection"]
 - !private ["C11studySocial19LoginViewController", "FBSDKLoginManager"]
 - !private ["C11studySocial19LoginViewController", "FIRAuth"]
 - ["C11studySocial19LoginViewController", "FIRDatabase"]
 - !private ["C11studySocial19LoginViewController", "FIRFacebookAuthProvider"]
+- !private ["C11studySocial19LoginViewController", "String"]
 - !private ["C11studySocial19LoginViewController", "UIAlertAction"]
 - !private ["C11studySocial19LoginViewController", "UIAlertController"]
 - ["C11studySocial19LoginViewController", "UITextField"]
@@ -342,6 +377,8 @@ depends-member:
 - ["Ps25LosslessStringConvertible", "init"]
 - ["Ps10MirrorPath", "init"]
 - !private ["PSo8NSCoding", "FBSDKAccessToken"]
+- !private ["PSo8NSCoding", "FBSDKGraphRequest"]
+- !private ["PSo8NSCoding", "FBSDKGraphRequestConnection"]
 - !private ["PSo8NSCoding", "FBSDKLoginManager"]
 - !private ["PSo8NSCoding", "FIRAuth"]
 - ["PSo8NSCoding", "FIRDatabase"]
@@ -369,6 +406,8 @@ depends-member:
 - ["PSo9NSCopying", "init"]
 - !private ["PSo9NSCopying", "tokenString"]
 - !private ["PSo26NSExtensionRequestHandling", "FBSDKAccessToken"]
+- !private ["PSo26NSExtensionRequestHandling", "FBSDKGraphRequest"]
+- !private ["PSo26NSExtensionRequestHandling", "FBSDKGraphRequestConnection"]
 - !private ["PSo26NSExtensionRequestHandling", "FBSDKLoginManager"]
 - !private ["PSo26NSExtensionRequestHandling", "FIRAuth"]
 - ["PSo26NSExtensionRequestHandling", "FIRDatabase"]
@@ -392,15 +431,19 @@ depends-member:
 - ["PSo16NSMutableCopying", "init"]
 - ["CSo8NSObject", "Bool"]
 - !private ["CSo8NSObject", "FBSDKAccessToken"]
+- !private ["CSo8NSObject", "FBSDKGraphRequest"]
+- !private ["CSo8NSObject", "FBSDKGraphRequestConnection"]
 - !private ["CSo8NSObject", "FBSDKLoginManager"]
 - !private ["CSo8NSObject", "FIRAuth"]
 - ["CSo8NSObject", "FIRDatabase"]
 - !private ["CSo8NSObject", "FIRFacebookAuthProvider"]
+- !private ["CSo8NSObject", "String"]
 - !private ["CSo8NSObject", "UIAlertAction"]
 - !private ["CSo8NSObject", "UIAlertController"]
 - ["CSo8NSObject", "UITextField"]
 - !private ["CSo8NSObject", "User"]
 - ["CSo8NSObject", "UserDefaults"]
+- !private ["CSo8NSObject", "add"]
 - !private ["CSo8NSObject", "addAction"]
 - !private ["CSo8NSObject", "auth"]
 - !private ["CSo8NSObject", "child"]
@@ -426,14 +469,16 @@ depends-member:
 - !private ["CSo8NSObject", "setValue"]
 - !private ["CSo8NSObject", "signIn"]
 - !private ["CSo8NSObject", "standard"]
+- !private ["CSo8NSObject", "start"]
 - !private ["CSo8NSObject", "synchronize"]
 - !private ["CSo8NSObject", "text"]
 - !private ["CSo8NSObject", "tokenString"]
-- !private ["CSo8NSObject", "uid"]
 - ["CSo8NSObject", "userDefaults"]
 - ["CSo8NSObject", "viewDidAppear"]
 - ["CSo8NSObject", "viewDidLoad"]
 - !private ["PSo16NSObjectProtocol", "FBSDKAccessToken"]
+- !private ["PSo16NSObjectProtocol", "FBSDKGraphRequest"]
+- !private ["PSo16NSObjectProtocol", "FBSDKGraphRequestConnection"]
 - !private ["PSo16NSObjectProtocol", "FBSDKLoginManager"]
 - !private ["PSo16NSObjectProtocol", "FIRAuth"]
 - ["PSo16NSObjectProtocol", "FIRDatabase"]
@@ -442,6 +487,7 @@ depends-member:
 - !private ["PSo16NSObjectProtocol", "UIAlertController"]
 - !private ["PSo16NSObjectProtocol", "User"]
 - !private ["PSo16NSObjectProtocol", "UserDefaults"]
+- !private ["PSo16NSObjectProtocol", "add"]
 - !private ["PSo16NSObjectProtocol", "addAction"]
 - !private ["PSo16NSObjectProtocol", "auth"]
 - !private ["PSo16NSObjectProtocol", "child"]
@@ -465,10 +511,10 @@ depends-member:
 - !private ["PSo16NSObjectProtocol", "setValue"]
 - !private ["PSo16NSObjectProtocol", "signIn"]
 - !private ["PSo16NSObjectProtocol", "standard"]
+- !private ["PSo16NSObjectProtocol", "start"]
 - !private ["PSo16NSObjectProtocol", "synchronize"]
 - !private ["PSo16NSObjectProtocol", "text"]
 - !private ["PSo16NSObjectProtocol", "tokenString"]
-- !private ["PSo16NSObjectProtocol", "uid"]
 - !private ["PSo16NSObjectProtocol", "userDefaults"]
 - !private ["PSo16NSObjectProtocol", "viewDidLoad"]
 - ["PSo16NSObjectProtocol", ""]
@@ -478,6 +524,7 @@ depends-member:
 - ["CSo8NSString", "init"]
 - !private ["Ps16RawRepresentable", "alert"]
 - !private ["Ps16RawRepresentable", "cancel"]
+- !private ["Ps8Sequence", "subscript"]
 - ["SS", "init"]
 - ["Ps16TextOutputStream", "init"]
 - ["Ps20TextOutputStreamable", "init"]
@@ -489,6 +536,8 @@ depends-member:
 - !private ["OSC22UIAlertControllerStyle", "alert"]
 - !private ["PSo12UIAppearance", "text"]
 - !private ["PSo21UIAppearanceContainer", "FBSDKAccessToken"]
+- !private ["PSo21UIAppearanceContainer", "FBSDKGraphRequest"]
+- !private ["PSo21UIAppearanceContainer", "FBSDKGraphRequestConnection"]
 - !private ["PSo21UIAppearanceContainer", "FBSDKLoginManager"]
 - !private ["PSo21UIAppearanceContainer", "FIRAuth"]
 - ["PSo21UIAppearanceContainer", "FIRDatabase"]
@@ -511,6 +560,8 @@ depends-member:
 - !private ["PSo21UIAppearanceContainer", "viewDidLoad"]
 - ["PSo21UIAppearanceContainer", ""]
 - !private ["PSo18UIContentContainer", "FBSDKAccessToken"]
+- !private ["PSo18UIContentContainer", "FBSDKGraphRequest"]
+- !private ["PSo18UIContentContainer", "FBSDKGraphRequestConnection"]
 - !private ["PSo18UIContentContainer", "FBSDKLoginManager"]
 - !private ["PSo18UIContentContainer", "FIRAuth"]
 - ["PSo18UIContentContainer", "FIRDatabase"]
@@ -536,6 +587,8 @@ depends-member:
 - !private ["PSo17UICoordinateSpace", "text"]
 - !private ["PSo13UIDynamicItem", "text"]
 - !private ["PSo18UIFocusEnvironment", "FBSDKAccessToken"]
+- !private ["PSo18UIFocusEnvironment", "FBSDKGraphRequest"]
+- !private ["PSo18UIFocusEnvironment", "FBSDKGraphRequestConnection"]
 - !private ["PSo18UIFocusEnvironment", "FBSDKLoginManager"]
 - !private ["PSo18UIFocusEnvironment", "FIRAuth"]
 - ["PSo18UIFocusEnvironment", "FIRDatabase"]
@@ -561,10 +614,13 @@ depends-member:
 - !private ["PSo10UIKeyInput", "text"]
 - ["CSo11UIResponder", "Bool"]
 - !private ["CSo11UIResponder", "FBSDKAccessToken"]
+- !private ["CSo11UIResponder", "FBSDKGraphRequest"]
+- !private ["CSo11UIResponder", "FBSDKGraphRequestConnection"]
 - !private ["CSo11UIResponder", "FBSDKLoginManager"]
 - !private ["CSo11UIResponder", "FIRAuth"]
 - ["CSo11UIResponder", "FIRDatabase"]
 - !private ["CSo11UIResponder", "FIRFacebookAuthProvider"]
+- !private ["CSo11UIResponder", "String"]
 - !private ["CSo11UIResponder", "UIAlertAction"]
 - !private ["CSo11UIResponder", "UIAlertController"]
 - ["CSo11UIResponder", "UITextField"]
@@ -586,6 +642,8 @@ depends-member:
 - ["CSo11UIResponder", "viewDidAppear"]
 - ["CSo11UIResponder", "viewDidLoad"]
 - !private ["PSo30UIResponderStandardEditActions", "FBSDKAccessToken"]
+- !private ["PSo30UIResponderStandardEditActions", "FBSDKGraphRequest"]
+- !private ["PSo30UIResponderStandardEditActions", "FBSDKGraphRequestConnection"]
 - !private ["PSo30UIResponderStandardEditActions", "FBSDKLoginManager"]
 - !private ["PSo30UIResponderStandardEditActions", "FIRAuth"]
 - ["PSo30UIResponderStandardEditActions", "FIRDatabase"]
@@ -608,6 +666,8 @@ depends-member:
 - !private ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
 - ["PSo30UIResponderStandardEditActions", ""]
 - !private ["PSo16UIStateRestoring", "FBSDKAccessToken"]
+- !private ["PSo16UIStateRestoring", "FBSDKGraphRequest"]
+- !private ["PSo16UIStateRestoring", "FBSDKGraphRequestConnection"]
 - !private ["PSo16UIStateRestoring", "FBSDKLoginManager"]
 - !private ["PSo16UIStateRestoring", "FIRAuth"]
 - ["PSo16UIStateRestoring", "FIRDatabase"]
@@ -632,6 +692,8 @@ depends-member:
 - !private ["PSo11UITextInput", "text"]
 - !private ["PSo17UITextInputTraits", "text"]
 - !private ["PSo18UITraitEnvironment", "FBSDKAccessToken"]
+- !private ["PSo18UITraitEnvironment", "FBSDKGraphRequest"]
+- !private ["PSo18UITraitEnvironment", "FBSDKGraphRequestConnection"]
 - !private ["PSo18UITraitEnvironment", "FBSDKLoginManager"]
 - !private ["PSo18UITraitEnvironment", "FIRAuth"]
 - ["PSo18UITraitEnvironment", "FIRDatabase"]
@@ -656,10 +718,13 @@ depends-member:
 - !private ["CSo6UIView", "text"]
 - ["CSo16UIViewController", "Bool"]
 - !private ["CSo16UIViewController", "FBSDKAccessToken"]
+- !private ["CSo16UIViewController", "FBSDKGraphRequest"]
+- !private ["CSo16UIViewController", "FBSDKGraphRequestConnection"]
 - !private ["CSo16UIViewController", "FBSDKLoginManager"]
 - !private ["CSo16UIViewController", "FIRAuth"]
 - ["CSo16UIViewController", "FIRDatabase"]
 - !private ["CSo16UIViewController", "FIRFacebookAuthProvider"]
+- !private ["CSo16UIViewController", "String"]
 - !private ["CSo16UIViewController", "UIAlertAction"]
 - !private ["CSo16UIViewController", "UIAlertController"]
 - ["CSo16UIViewController", "UITextField"]
@@ -680,6 +745,7 @@ depends-member:
 - ["CSo16UIViewController", "viewDidAppear"]
 - ["CSo16UIViewController", "viewDidLoad"]
 - ["CSo16UIViewController", ""]
+- ["P9Alamofire14URLConvertible", "init"]
 - !private ["V11studySocial4User", "init"]
 - !private ["V11studySocial4User", "toDict"]
 - !private ["CSo12UserDefaults", "object"]
@@ -695,6 +761,8 @@ depends-member:
 - ["Ps33_ExpressibleByStringInterpolation", "init"]
 - ["Ps35_HasCustomAnyHashableRepresentation", "init"]
 - !private ["Ps9_Hashable", "FBSDKAccessToken"]
+- !private ["Ps9_Hashable", "FBSDKGraphRequest"]
+- !private ["Ps9_Hashable", "FBSDKGraphRequestConnection"]
 - !private ["Ps9_Hashable", "FBSDKLoginManager"]
 - !private ["Ps9_Hashable", "FIRAuth"]
 - ["Ps9_Hashable", "FIRDatabase"]
@@ -704,6 +772,7 @@ depends-member:
 - !private ["Ps9_Hashable", "User"]
 - !private ["Ps9_Hashable", "UserDefaults"]
 - !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "add"]
 - !private ["Ps9_Hashable", "addAction"]
 - !private ["Ps9_Hashable", "alert"]
 - !private ["Ps9_Hashable", "auth"]
@@ -729,34 +798,42 @@ depends-member:
 - !private ["Ps9_Hashable", "setValue"]
 - !private ["Ps9_Hashable", "signIn"]
 - !private ["Ps9_Hashable", "standard"]
+- !private ["Ps9_Hashable", "start"]
 - !private ["Ps9_Hashable", "synchronize"]
 - !private ["Ps9_Hashable", "text"]
 - !private ["Ps9_Hashable", "tokenString"]
-- !private ["Ps9_Hashable", "uid"]
 - !private ["Ps9_Hashable", "userDefaults"]
 - !private ["Ps9_Hashable", "viewDidLoad"]
 - ["Ps9_Hashable", ""]
+- !private ["Ps10_Indexable", "subscript"]
+- !private ["Ps14_IndexableBase", "subscript"]
 - !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
 - ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "subscript"]
 depends-nominal:
 - "Ps9AnyObject"
 - "P12FacebookCore26AppEventParameterValueType"
 - !private "Sb"
 - !private "PSo15CALayerDelegate"
 - "Ps7CVarArg"
+- !private "Ps10Collection"
 - "Ps10Comparable"
 - "Ps28CustomDebugStringConvertible"
 - "Ps29CustomPlaygroundQuickLookable"
 - "Ps17CustomReflectable"
 - "Ps23CustomStringConvertible"
+- !private "Vs10Dictionary"
 - "Ps9Equatable"
 - !private "Ps5Error"
 - !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps30ExpressibleByDictionaryLiteral"
 - "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
 - "Ps26ExpressibleByStringLiteral"
 - "Ps33ExpressibleByUnicodeScalarLiteral"
 - !private "CSo16FBSDKAccessToken"
 - !private "PSo12FBSDKCopying"
+- !private "CSo17FBSDKGraphRequest"
+- !private "CSo27FBSDKGraphRequestConnection"
 - !private "CSo17FBSDKLoginManager"
 - !private "CSo7FIRAuth"
 - "CSo11FIRDatabase"
@@ -778,6 +855,7 @@ depends-nominal:
 - "PSo14NSSecureCoding"
 - "CSo8NSString"
 - !private "Ps16RawRepresentable"
+- !private "Ps8Sequence"
 - "SS"
 - "Ps16TextOutputStream"
 - "Ps20TextOutputStreamable"
@@ -805,6 +883,7 @@ depends-nominal:
 - "PSo18UITraitEnvironment"
 - !private "CSo6UIView"
 - "CSo16UIViewController"
+- "P9Alamofire14URLConvertible"
 - !private "V11studySocial4User"
 - !private "CSo12UserDefaults"
 - !private "Ps37_DefaultCustomPlaygroundQuickLookable"
@@ -816,6 +895,8 @@ depends-nominal:
 - "Ps33_ExpressibleByStringInterpolation"
 - "Ps35_HasCustomAnyHashableRepresentation"
 - "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
 - "Ps21_ObjectiveCBridgeable"
 depends-dynamic-lookup:
 depends-external:
@@ -827,6 +908,7 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.apinotesc"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreText.apinotesc"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AudioToolbox.apinotesc"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Modules/FacebookCore.swiftmodule/x86_64.swiftmodule"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Modules/FacebookLogin.swiftmodule/x86_64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
@@ -845,6 +927,7 @@ depends-external:
 - "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
 - "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFURL.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Headers/FacebookCore-umbrella.h"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Headers/FacebookLogin-umbrella.h"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts-umbrella.h"
@@ -916,6 +999,7 @@ depends-external:
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Headers/FacebookCore-Swift.h"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookLogin/FacebookLogin.framework/Headers/FacebookLogin-Swift.h"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h"
@@ -935,6 +1019,7 @@ depends-external:
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h"
 - "/Users/william/Projects/studySocial/studySocial/Pods/Firebase/Core/Sources/module.modulemap"
 - "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
 - "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FacebookCore/FacebookCore.framework/Modules/module.modulemap"
 - "/Users/william/Projects/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
@@ -944,4 +1029,4 @@ depends-external:
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Modules/module.modulemap"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Modules/module.modulemap"
 - "/Users/william/Projects/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Modules/module.modulemap"
-interface-hash: "fed7a53545efbaf874f467aa32226c19"
+interface-hash: "d00b4e9a615fa4c286e8131598b773d8"

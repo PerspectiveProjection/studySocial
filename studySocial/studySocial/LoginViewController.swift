@@ -11,10 +11,13 @@ import Firebase
 import FirebaseAuth
 import FBSDKLoginKit
 import FacebookLogin
+import FacebookCore
+import Alamofire
 
 class LoginViewController: UIViewController {
 	var userDefaults : UserDefaults!
 	let ref = FIRDatabase.database().reference(withPath: "userdata")
+
 	@IBOutlet weak var emailAddressField: UITextField!
 	@IBOutlet weak var passwordField: UITextField!
 	
@@ -48,15 +51,31 @@ class LoginViewController: UIViewController {
 					
 					return
 				}
+				let params = ["fields": "id, first_name, last_name, name, email, picture"]
 				
-				self.userDefaults.set(user?.displayName, forKey: "userName")
-				self.userDefaults.set(user?.email, forKey: "userEmail")
-                self.userDefaults.set(user?.uid, forKey: "uid")
-				self.userDefaults.synchronize()
-				var currentUser = User(name: (user?.displayName)!, userEmail: (user?.email)!)
+				let graphRequest = FBSDKGraphRequest(graphPath: "/me", parameters: params)
+				let connection = FBSDKGraphRequestConnection()
+				connection.add(graphRequest, completionHandler: { (connection, result, error) in
+					if error == nil {
+						if let userData = result as? [String:Any] {
+							print(userData["id"])
+							self.userDefaults.set(user?.displayName, forKey: "userName")
+							self.userDefaults.set(user?.email, forKey: "userEmail")
+							self.userDefaults.set(userData["id"], forKey: "fid")
+							self.userDefaults.synchronize()
+							let currentUser = User(name: (user?.displayName)!, userEmail: (user?.email)!)
+							
+							let currentUserRef = self.ref.child((self.userDefaults.object(forKey: "fid"))! as! String)
+							currentUserRef.setValue(currentUser.toDict())
+							
+						}
+					} else {
+						print("Error Getting userData \(error)")
+					}
+				})
 				
-				let currentUserRef = self.ref.child((user?.uid)!)
-				currentUserRef.setValue(currentUser.toDict())
+				connection.start()
+				
 				
 				self.performSegue(withIdentifier: "ToModeSelect", sender: self)
 			})

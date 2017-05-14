@@ -56,7 +56,7 @@ class BaseViewController: UIViewController, SlideMenuDelegate {
 						self.openViewControllerBasedOnIdentifier("friendViewController")
 					}
 				} else {
-					print("Error Getting Friends \(error)");
+					print("Error Getting Friends \(error)")
 				}
 			})
 			

@@ -38,7 +38,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		+afa1unoRowJ+TB70WjS1ee+IL4=
+		eRbOQWSdQEuFsDWdJxEKm8lyw5E=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -46,23 +46,23 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		vhmTP19nDmlR2udRFkyucCgbwKw=
+		F+hCicXGvBBqoL6ZxTtFts1vW6c=
 		</data>
 		<key>Base.lproj/Main.storyboardc/2Xa-qy-mhp-view-VnP-5j-cuK.nib</key>
 		<data>
-		DtUU7d1Z7e/jPPIfYMb0WSH/YV0=
+		0RoS2KYVEaiGpDsOv77GomLaw9s=
 		</data>
 		<key>Base.lproj/Main.storyboardc/8rJ-Kc-sve-view-QS5-Rx-YEW.nib</key>
 		<data>
-		BD0uc+MT6L688w9qu7wUUeFwwmc=
+		V3NhH4KBwrJYjAleTXHGNF3fMPk=
 		</data>
 		<key>Base.lproj/Main.storyboardc/9pv-A4-QxB-view-tsR-hK-woN.nib</key>
 		<data>
-		hzwE1mAWpK12m00fPYOu6oB7RKM=
+		1mh9G6xXkyeExz3lZIjTqJV6pWc=
 		</data>
 		<key>Base.lproj/Main.storyboardc/ACi-8p-RMA-view-f1j-Ro-aI1.nib</key>
 		<data>
-		tOyDIPrDlOwfu+Z032gouD37e4s=
+		heBjcKpXh6iiMpzFphH8cjVlRHk=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -70,47 +70,47 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/MenuViewController.nib</key>
 		<data>
-		jm+q0Sb110WxDbQtD+MTkl0NJpQ=
+		FUXOrrF0Kf1RtijGUNe68Ntm5XM=
 		</data>
 		<key>Base.lproj/Main.storyboardc/OQ0-0h-SLE-view-bOe-UJ-hHc.nib</key>
 		<data>
-		1NJ/1BspD9l5vVPbnObcaU9kCwM=
+		w+chfJSvbR0BNZV+/2w1Uta1W3Q=
 		</data>
 		<key>Base.lproj/Main.storyboardc/SeJ-pl-yxF-view-wmU-5c-5I0.nib</key>
 		<data>
-		lJAAYXbQnws0ImOhnhb4xKOehTs=
+		epefMgAVW5vQT+1RZfJcIqGFong=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-f58-1f-AeS.nib</key>
 		<data>
-		OST+CIF9e313cgMq2Nqn2hiuY8s=
+		0+BeZFTbbZoYZibFJ3CWqlQ0tss=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UITableViewController-ACi-8p-RMA.nib</key>
 		<data>
-		K7t+SrnFACAZkpgkMueEwNxRrac=
+		wd6Mmtpar4Ifmbthc2m+4dPNflk=
 		</data>
 		<key>Base.lproj/Main.storyboardc/a5Q-DL-NSk-view-52r-4J-7dS.nib</key>
 		<data>
-		SW6YLIIA9039BfyFlomSwYcaI6I=
+		0tI3cpVwYTWheyvWCx90L8eAHF0=
 		</data>
 		<key>Base.lproj/Main.storyboardc/friendViewController.nib</key>
 		<data>
-		RVajoMg3Seqn+Rb2OZ6d0O0O+ZU=
+		0xI0mNZM4nOA7KT9PrcpFH/h7g4=
 		</data>
 		<key>Base.lproj/Main.storyboardc/loginViewController.nib</key>
 		<data>
-		GyKtgeJ8/QJonn3l/bdX/BPh4GY=
+		27Ed5fZS1ucJJ3wSo2MMQc1PkTE=
 		</data>
 		<key>Base.lproj/Main.storyboardc/modeViewController.nib</key>
 		<data>
-		9hiZoYe+X2ttkFVdquxVP5HC0pw=
+		z7JY1cx9hXmDYuvm/qW72JQuuVs=
 		</data>
 		<key>Base.lproj/Main.storyboardc/timerViewController.nib</key>
 		<data>
-		I93XEuCD1pGdNV9aPkoF3f/dAvY=
+		JAMfIabEzcFfolvjoXd4B+gEANM=
 		</data>
 		<key>Base.lproj/Main.storyboardc/toDoItemTableViewController.nib</key>
 		<data>
-		lPjLKeQE93+lEFGOj+ykKOtCihY=
+		5FAh/dknnuWVjmls2xQi6q7ir8M=
 		</data>
 		<key>Dlc_rick_and_morty_announcer_about_to_start_burp.mp3</key>
 		<data>
@@ -120,9 +120,21 @@
 		<data>
 		i46WN/LCYaXRFHXpyxWa5OuxYBw=
 		</data>
+		<key>Frameworks/Alamofire.framework/Alamofire</key>
+		<data>
+		9oWyH6Q33rng/BPf1N+2dIlqs9g=
+		</data>
+		<key>Frameworks/Alamofire.framework/Info.plist</key>
+		<data>
+		0K7Mf3yc6DniDziL+xASXBYwMt4=
+		</data>
+		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
+		<data>
+		JWWkYA9mRcv89JH1jBzftRFFHbU=
+		</data>
 		<key>Frameworks/Bolts.framework/Bolts</key>
 		<data>
-		YoxFhC2cXdC5Aj5OTNwBTVEMR/4=
+		mh+l+/o5308AXn4rwHdlTEveZD8=
 		</data>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
 		<data>
@@ -134,7 +146,7 @@
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/FBSDKCoreKit</key>
 		<data>
-		sXiZ5J3rRUOMczZn71KUpZ9fPiU=
+		g5bIQkazhsjJk/u6XkcOBHtYcO4=
 		</data>
 		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
 		<dict>
@@ -542,7 +554,7 @@
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/FBSDKLoginKit</key>
 		<data>
-		YanInFtCbL+MiSh9qRw/MELZDQI=
+		/ReSNk+z5cu8yW2MzGjcGG4s8sA=
 		</data>
 		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
 		<data>
@@ -554,7 +566,7 @@
 		</data>
 		<key>Frameworks/FBSDKShareKit.framework/FBSDKShareKit</key>
 		<data>
-		TXqgpwQIRIsbPXqk4S5b/DJyXx4=
+		2HJZ3JuUeR7hJBiVR00EpA6Xlk4=
 		</data>
 		<key>Frameworks/FBSDKShareKit.framework/Info.plist</key>
 		<data>
@@ -566,7 +578,7 @@
 		</data>
 		<key>Frameworks/FacebookCore.framework/FacebookCore</key>
 		<data>
-		rDKnFe8vj0l0C7VYV/gGai/lCRA=
+		wqj8looT1T4VQm5NAWDSI7HUNtw=
 		</data>
 		<key>Frameworks/FacebookCore.framework/Info.plist</key>
 		<data>
@@ -578,7 +590,7 @@
 		</data>
 		<key>Frameworks/FacebookLogin.framework/FacebookLogin</key>
 		<data>
-		BAmwU6aqjKHoJSkoHO29Ibveu0w=
+		m67ryB3fanqhig3YfEkPvRuST3E=
 		</data>
 		<key>Frameworks/FacebookLogin.framework/Info.plist</key>
 		<data>
@@ -590,7 +602,7 @@
 		</data>
 		<key>Frameworks/FacebookShare.framework/FacebookShare</key>
 		<data>
-		XEq/X7wfsDxOfm59BJRsT8tPZ2k=
+		S+PQsr5Rnbe9Pf97V0yt4lCLJVI=
 		</data>
 		<key>Frameworks/FacebookShare.framework/Info.plist</key>
 		<data>
@@ -602,7 +614,7 @@
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
-		aZVn+S7gCzADak1htE+uMIsBZCI=
+		v1y9AC0RK3mRkrJO8To2ncilDkU=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
@@ -614,7 +626,7 @@
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<data>
-		2d9GUHn2B8LB3fKYsF6tzTdEIyc=
+		cTJY5oGz/y7aU/8aaVwWcEY7Kco=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<data>
@@ -630,7 +642,7 @@
 		</data>
 		<key>Frameworks/SlideMenuControllerSwift.framework/SlideMenuControllerSwift</key>
 		<data>
-		yDFqAFZnOBQftbUDl4me+nCClyM=
+		Y7PuMkvEK0URB/2XTL+KUO4W0VU=
 		</data>
 		<key>Frameworks/SlideMenuControllerSwift.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -694,7 +706,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		doIZqBmlb32DkEFTJTg86/i5bzE=
+		YmtRPuXgqqUyP+hIMB6VBA3fevc=
 		</data>
 		<key>OSRSBeatz - Sea Shanty 2.mp3</key>
 		<data>
@@ -811,11 +823,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+afa1unoRowJ+TB70WjS1ee+IL4=
+			eRbOQWSdQEuFsDWdJxEKm8lyw5E=
 			</data>
 			<key>hash2</key>
 			<data>
-			rINaXB7lNIqzvov4TsKcmUaUolRUzkCIktZUVBPvT2U=
+			xPrOgIucjy1izAsaEPU0Qa2XIimd0shBfF6pRrjXOtY=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -833,55 +845,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vhmTP19nDmlR2udRFkyucCgbwKw=
+			F+hCicXGvBBqoL6ZxTtFts1vW6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			nHQONHEmgGrAhq//K5mJ8lG4SwsFye+vxAZSv/2THDE=
+			h5hC5zP7E401SjW8tXgIYCvoZxE9P8TBZFirO1whzPI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/2Xa-qy-mhp-view-VnP-5j-cuK.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DtUU7d1Z7e/jPPIfYMb0WSH/YV0=
+			0RoS2KYVEaiGpDsOv77GomLaw9s=
 			</data>
 			<key>hash2</key>
 			<data>
-			npWvvJTcB8cdM2I/Opt5ySbFHs9sm9uOuuLvqQritjI=
+			V5SoJbeyOTuUaG36FE5eTqGa7quugk1Wd9pT+n7obnk=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/8rJ-Kc-sve-view-QS5-Rx-YEW.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BD0uc+MT6L688w9qu7wUUeFwwmc=
+			V3NhH4KBwrJYjAleTXHGNF3fMPk=
 			</data>
 			<key>hash2</key>
 			<data>
-			bWUOSvdFvSpFRVZpNDGH9j7Scs20INl8nEqQ5prWx9o=
+			zqBdYNTjnbeG9wDVDPQ4hjHkRu5YJCyOj4RnOMyPkwo=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/9pv-A4-QxB-view-tsR-hK-woN.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hzwE1mAWpK12m00fPYOu6oB7RKM=
+			1mh9G6xXkyeExz3lZIjTqJV6pWc=
 			</data>
 			<key>hash2</key>
 			<data>
-			g/7ZrrAc4jg3YE8PHp2JhUh8CPtJYY1VS8PWi+X+1xE=
+			W6aW7XCmmpHFPlqd5+sixFCCU0gA5BM1aVTRlJLWH0w=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/ACi-8p-RMA-view-f1j-Ro-aI1.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tOyDIPrDlOwfu+Z032gouD37e4s=
+			heBjcKpXh6iiMpzFphH8cjVlRHk=
 			</data>
 			<key>hash2</key>
 			<data>
-			8DoCQvV6gaGomaNJHOcw173rlNeMJpG3G+NPhBvY8G0=
+			sQFZXZfKCZsBCyA52NryMSMApA++4B7khymqoyhXDZc=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -899,121 +911,121 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jm+q0Sb110WxDbQtD+MTkl0NJpQ=
+			FUXOrrF0Kf1RtijGUNe68Ntm5XM=
 			</data>
 			<key>hash2</key>
 			<data>
-			IyldTFz11YcrCLbQdWSO+VaJsi2PkWOw8fUJVEGrJSo=
+			hGg/Jw5bwCVVeOMsFctAXH93MRlFAGAc/0LSfnBFkEw=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/OQ0-0h-SLE-view-bOe-UJ-hHc.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1NJ/1BspD9l5vVPbnObcaU9kCwM=
+			w+chfJSvbR0BNZV+/2w1Uta1W3Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q/UTnffkAS4QXeTJcTO7YXe1FT8tCpsfJOeVjYsolHk=
+			gga0umwrMGrjl46k7/43CqqiWkj7+9SVj9IuZiVAgFE=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/SeJ-pl-yxF-view-wmU-5c-5I0.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lJAAYXbQnws0ImOhnhb4xKOehTs=
+			epefMgAVW5vQT+1RZfJcIqGFong=
 			</data>
 			<key>hash2</key>
 			<data>
-			DimSx4PYDg0dpxWLfQ8uTEzic7ZMVishfH564+eKPk4=
+			IRm9HvfS/kdbxmXoidMN0M94EkjD/kZvGZbilR7sxhI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-f58-1f-AeS.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OST+CIF9e313cgMq2Nqn2hiuY8s=
+			0+BeZFTbbZoYZibFJ3CWqlQ0tss=
 			</data>
 			<key>hash2</key>
 			<data>
-			KsfiJgoNu0JYLn2YA6ZwmueRDt/1ZfWH/wvJLE+vzZE=
+			8RhAi0PRARJUgqQNzqv7ze7zTaMbDoIWONp9x5JzDwI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UITableViewController-ACi-8p-RMA.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K7t+SrnFACAZkpgkMueEwNxRrac=
+			wd6Mmtpar4Ifmbthc2m+4dPNflk=
 			</data>
 			<key>hash2</key>
 			<data>
-			PAUYJEj3yBeXYiu+psBGGoCEGH6ZKDnPNqrJvGm6FfM=
+			JKoqetqnI8BlpmV3QerBVH+Wp5bHVIRCpTEYDxu3ueI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/a5Q-DL-NSk-view-52r-4J-7dS.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SW6YLIIA9039BfyFlomSwYcaI6I=
+			0tI3cpVwYTWheyvWCx90L8eAHF0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pwar1NjPpx5z3coxlpvdPcabErP81U+lkeadqMQW/1Y=
+			FBjqvYcHS3FIxzYqEs0YGiW/zLgzNSQFHdZ9fBQVZzE=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/friendViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RVajoMg3Seqn+Rb2OZ6d0O0O+ZU=
+			0xI0mNZM4nOA7KT9PrcpFH/h7g4=
 			</data>
 			<key>hash2</key>
 			<data>
-			mxtMuC2guCj5bRvbauOn5RhLC4fY12Ct9x/mzI7skG0=
+			qjnluVLGTU5kNoqccAquN8hTFgzm8UQ3bgboE0xj9bM=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/loginViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GyKtgeJ8/QJonn3l/bdX/BPh4GY=
+			27Ed5fZS1ucJJ3wSo2MMQc1PkTE=
 			</data>
 			<key>hash2</key>
 			<data>
-			6ag/EEkMdYvOqDwMNDLuj+aEjVDG5DRBRuYSGSP7ruQ=
+			64AJuwDiO6HHiIT8RjFnN0B5X9uZWyP2WS9zyVSiFG8=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/modeViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9hiZoYe+X2ttkFVdquxVP5HC0pw=
+			z7JY1cx9hXmDYuvm/qW72JQuuVs=
 			</data>
 			<key>hash2</key>
 			<data>
-			9NBCgTQMdanOeFhmWhcKTHnFuHVYvzGCuuNXUDkNbXs=
+			M2lcK6sh+IDnOqg87faz5go6pnEN8Wieb/Tkeb8BU3k=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/timerViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I93XEuCD1pGdNV9aPkoF3f/dAvY=
+			JAMfIabEzcFfolvjoXd4B+gEANM=
 			</data>
 			<key>hash2</key>
 			<data>
-			2tf+CRcfNX4CXKDUSkukmm654Fv++Vx0gFYJ2BFHxwE=
+			Vq2GEQjaCkxrpYHTBzHRzd4D8JvlnqO0uMqPPaqiWqs=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/toDoItemTableViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lPjLKeQE93+lEFGOj+ykKOtCihY=
+			5FAh/dknnuWVjmls2xQi6q7ir8M=
 			</data>
 			<key>hash2</key>
 			<data>
-			9qWAgSVe60rEaCyX4fCZZOG/sjz3XJ8QoXZHiMwCkEc=
+			HSjN08hjyOXJ/5V3yiDH1Oc2f5v1MLZKySvOCiZi4kU=
 			</data>
 		</dict>
 		<key>Dlc_rick_and_morty_announcer_about_to_start_burp.mp3</key>
@@ -1038,15 +1050,48 @@
 			gbjuCm4naoD3cVoawfJE7rUQDqVNGWOc8ytK3cHpDl8=
 			</data>
 		</dict>
+		<key>Frameworks/Alamofire.framework/Alamofire</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9oWyH6Q33rng/BPf1N+2dIlqs9g=
+			</data>
+			<key>hash2</key>
+			<data>
+			bdfWtkSwbIlC9TiGw1Dw2a9RbRlVrXrFVfYiD9WMTLo=
+			</data>
+		</dict>
+		<key>Frameworks/Alamofire.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0K7Mf3yc6DniDziL+xASXBYwMt4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kfno99IZw3fFrQTre3uAWX01A9RUxMXNCuYUwzdo3Vc=
+			</data>
+		</dict>
+		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JWWkYA9mRcv89JH1jBzftRFFHbU=
+			</data>
+			<key>hash2</key>
+			<data>
+			UUwL68LZsPQwAYKJLQs/SlRlP8lINvAib4tmP5MoDWg=
+			</data>
+		</dict>
 		<key>Frameworks/Bolts.framework/Bolts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YoxFhC2cXdC5Aj5OTNwBTVEMR/4=
+			mh+l+/o5308AXn4rwHdlTEveZD8=
 			</data>
 			<key>hash2</key>
 			<data>
-			kY2lxorVBV50HwMYYdoQTSQZKo7vHVYbe/fZVvqP/yU=
+			aKiXEIbD4GXvjmlIEgAQjX+V40gCo4sryC/uN6UTbYI=
 			</data>
 		</dict>
 		<key>Frameworks/Bolts.framework/Info.plist</key>
@@ -1075,11 +1120,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sXiZ5J3rRUOMczZn71KUpZ9fPiU=
+			g5bIQkazhsjJk/u6XkcOBHtYcO4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zh5azHq7N0nYgtuKMaZ3VTMYDmw++dH561SCFAbpfl4=
+			Cr5jgImDgqz/JD8wFEnJhunr4gcCKLrRKx3lYuFk0/Q=
 			</data>
 		</dict>
 		<key>Frameworks/FBSDKCoreKit.framework/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings</key>
@@ -1680,11 +1725,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YanInFtCbL+MiSh9qRw/MELZDQI=
+			/ReSNk+z5cu8yW2MzGjcGG4s8sA=
 			</data>
 			<key>hash2</key>
 			<data>
-			4mk/Tshfe5pFQwoLRtxjK5k9kVmUI0BrfArHWLBKaic=
+			VZiKzE12LtIBEcyOje1GjKY3R45BYo4q4GXzEjZj//8=
 			</data>
 		</dict>
 		<key>Frameworks/FBSDKLoginKit.framework/Info.plist</key>
@@ -1713,11 +1758,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TXqgpwQIRIsbPXqk4S5b/DJyXx4=
+			2HJZ3JuUeR7hJBiVR00EpA6Xlk4=
 			</data>
 			<key>hash2</key>
 			<data>
-			CQbVKqpQ1Hz3FVcJU6JDQnaotXbHRT2wQcLKfZWPzso=
+			iYzxcwFFhcH6o6R2EUpD1MHF1ng2FiPcWc8atvnlCEg=
 			</data>
 		</dict>
 		<key>Frameworks/FBSDKShareKit.framework/Info.plist</key>
@@ -1746,11 +1791,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rDKnFe8vj0l0C7VYV/gGai/lCRA=
+			wqj8looT1T4VQm5NAWDSI7HUNtw=
 			</data>
 			<key>hash2</key>
 			<data>
-			BL0dpyh5RFxpjynzfgfMeCjTVXiy/dstTvVnx5YeQ70=
+			0bUIfOSlI+ftGw2Tf1+LXZpGWS0H+znLQuvnNIpGv1o=
 			</data>
 		</dict>
 		<key>Frameworks/FacebookCore.framework/Info.plist</key>
@@ -1779,11 +1824,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BAmwU6aqjKHoJSkoHO29Ibveu0w=
+			m67ryB3fanqhig3YfEkPvRuST3E=
 			</data>
 			<key>hash2</key>
 			<data>
-			/fPWzmyiV5muDlo/LD29H+YvCkBT57+vYaW3gOAP4Ow=
+			TbBXXf1YxEcabF+A1YLNHszi9XdXfDCCvsxDw6ca6wM=
 			</data>
 		</dict>
 		<key>Frameworks/FacebookLogin.framework/Info.plist</key>
@@ -1812,11 +1857,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XEq/X7wfsDxOfm59BJRsT8tPZ2k=
+			S+PQsr5Rnbe9Pf97V0yt4lCLJVI=
 			</data>
 			<key>hash2</key>
 			<data>
-			ecuLhgOLlgAJNVQSYzLWBx6ptNyQUryEx9W/CrrK614=
+			QmniZtCkzUFxyeq3dogR5M2nEMpkzKHR/ssQRve/AYQ=
 			</data>
 		</dict>
 		<key>Frameworks/FacebookShare.framework/Info.plist</key>
@@ -1845,11 +1890,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aZVn+S7gCzADak1htE+uMIsBZCI=
+			v1y9AC0RK3mRkrJO8To2ncilDkU=
 			</data>
 			<key>hash2</key>
 			<data>
-			+S/lQ7tIjjbTV+UCmra9eQACurmnOwH9TnyHV48BWMM=
+			lnx6w4mwdD01FeJDQf1zsO1G21Cthi4RaC1pLosUMHQ=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
@@ -1878,11 +1923,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2d9GUHn2B8LB3fKYsF6tzTdEIyc=
+			cTJY5oGz/y7aU/8aaVwWcEY7Kco=
 			</data>
 			<key>hash2</key>
 			<data>
-			iY15EchOjGEAYruNXX6/9RzUAgpnXjBiSb4egHA482g=
+			ylEapd0lSUnTHEpHtBfz1+U7Xk9YyxKUWUAK+sYIBV4=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
@@ -1922,11 +1967,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yDFqAFZnOBQftbUDl4me+nCClyM=
+			Y7PuMkvEK0URB/2XTL+KUO4W0VU=
 			</data>
 			<key>hash2</key>
 			<data>
-			iZTWOjfKh0hOgJbP805bXLIqWVm6pUyGG3gkZpjQc4A=
+			zINjbjabZKeZErX1FNUBMH31sYI+sOjGifS6Jv8dFes=
 			</data>
 		</dict>
 		<key>Frameworks/SlideMenuControllerSwift.framework/_CodeSignature/CodeResources</key>
