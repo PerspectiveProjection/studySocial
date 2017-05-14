@@ -1,6 +1,6 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
 options: "c928d9c45dad4b31f6629922fa279d97"
-build_time: [548062579, 400193000]
+build_time: [548064025, 485314000]
 inputs:
   "/Users/william/Projects/studySocial/studySocial/Pods/FacebookShare/Sources/Share/Dialogs/AppInvite/AppInvite.DeliveryMethod.swift": [548056491, 0]
   "/Users/william/Projects/studySocial/studySocial/Pods/FacebookShare/Sources/Share/Dialogs/AppInvite/AppInvite.Dialog.swift": [548056491, 0]

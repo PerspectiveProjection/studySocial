@@ -62,6 +62,11 @@ class FriendTableViewController: UITableViewController {
 		let user_id = friend["id"] as! String
 		print(user_id)
 		cell.userPicture.image = getProfPic(fid: user_id)
+		
+		let userRef = ref.child(user_id)
+		let statusRef = userRef.child("status")
+		cell.userStatus.text = statusRef.key
+		
         return cell
     }
 	
