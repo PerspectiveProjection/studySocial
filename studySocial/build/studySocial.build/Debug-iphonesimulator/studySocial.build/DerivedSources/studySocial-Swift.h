@@ -316,7 +316,7 @@ SWIFT_CLASS("_TtC11studySocial24ModeSelectViewController")
 @class UISlider;
 
 SWIFT_CLASS("_TtC11studySocial19TimerViewController")
-@interface TimerViewController : BaseViewController
+@interface TimerViewController : BaseViewController <UIScrollViewDelegate, UITextViewDelegate>
 @property (nonatomic, readonly, strong) FIRDatabaseReference * _Nonnull ref;
 @property (nonatomic) NSInteger studyCount;
 @property (nonatomic) NSInteger breakCount;
@@ -342,7 +342,9 @@ SWIFT_CLASS("_TtC11studySocial19TimerViewController")
 @property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified stopOutlet;
 - (IBAction)stop:(id _Nonnull)sender;
 - (void)viewDidLoad;
+- (BOOL)textFieldShouldReturn:(UITextField * _Nonnull)scoreText SWIFT_WARN_UNUSED_RESULT;
 - (void)didReceiveMemoryWarning;
+- (void)dismissKeyboard;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end

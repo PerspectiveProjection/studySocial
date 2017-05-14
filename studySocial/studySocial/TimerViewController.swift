@@ -10,7 +10,7 @@ import UIKit
 import AVFoundation
 import Firebase
 
-class TimerViewController: BaseViewController {
+class TimerViewController: BaseViewController, UITextViewDelegate {
     let ref = FIRDatabase.database().reference(withPath: "userdata")
     
     var studyCount = 1500
@@ -240,6 +240,10 @@ class TimerViewController: BaseViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         userDefaults = UserDefaults.standard
+		let tap: UITapGestureRecognizer = UITapGestureRecognizer(target: self, action: "dismissKeyboard")
+		
+		view.addGestureRecognizer(tap)
+
         self.addSlideMenuButton()
         
         do
@@ -259,11 +263,19 @@ class TimerViewController: BaseViewController {
         // Do any additional setup after loading the view.
     }
 
+	func textFieldShouldReturn(_ scoreText: UITextField) -> Bool {
+		dismissKeyboard()
+		return true
+	}
+	
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-    
+	func dismissKeyboard() {
+		//Causes the view (or one of its embedded text fields) to resign the first responder status.
+		view.endEditing(true)
+	}
 
     /*
     // MARK: - Navigation
