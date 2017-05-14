@@ -22,8 +22,7 @@ class ToDoItemTableViewController: UITableViewController {
             var newItems: [Todo] = []
             
             for item in (snapshot.children) {
-				//let itemComparison = Todo(snapshot: item as! FIRDataSnapshot)
-				//if(itemComparison["userEmail"] as! String == self.userDefaults.object(forKey: "userEmail") as! String) {
+				
 				let currentToDo = Todo(snapshot: item as! FIRDataSnapshot)
 				if(currentToDo.getEmail() == self.userDefaults.object(forKey: "userEmail") as! String) {
 					newItems.append(Todo(snapshot: item as! FIRDataSnapshot))

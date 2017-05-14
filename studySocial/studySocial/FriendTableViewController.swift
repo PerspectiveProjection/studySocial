@@ -23,6 +23,9 @@ class FriendTableViewController: UITableViewController {
 		friendArray = userDefaults!.object(forKey: "friendArray") as! NSArray
 		tableView.tableFooterView = UIView(frame: .zero)
 		
+		self.ref.observe(.value, with: { snapshot in
+			self.tableView.reloadData()
+		})
 
         // Uncomment the following line to preserve selection between presentations
         // self.clearsSelectionOnViewWillAppear = false
@@ -65,7 +68,20 @@ class FriendTableViewController: UITableViewController {
 		
 		let userRef = ref.child(user_id)
 		let statusRef = userRef.child("status")
-		cell.userStatus.text = statusRef.key
+		statusRef.observe(.value, with: { snapshot in
+			if(snapshot.value as! String == "") {
+				cell.userStatus.text = "Inactive"
+			}
+			else {
+				cell.userStatus.text = snapshot.value as! String
+			}
+		})
+		
+		let cyclesRef = userRef.child("pomodoroCycles")
+		cyclesRef.observe(.value, with: { snapshot in
+			cell.userCycles.text = String(describing: snapshot.value!) + " 🍅"
+		})
+		//cell.userStatus.text =
 		
         return cell
     }
