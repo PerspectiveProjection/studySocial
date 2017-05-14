@@ -1,6 +1,6 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
 options: "217775fafe10d29393b6aa3320618931"
-build_time: [548058443, 450550000]
+build_time: [548065854, 927207000]
 inputs:
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookCore/Sources/Core/Common/AccessToken.swift": [548056054, 0]
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookCore/Sources/Core/AppEvents/AppEvent.Builtin.swift": [548056054, 0]

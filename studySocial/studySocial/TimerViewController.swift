@@ -52,7 +52,7 @@ class TimerViewController: BaseViewController {
     @IBAction func studyStart(_ sender: AnyObject)
     {
         var status = statusField.text
-        let userRef = ref.child(userDefaults.object(forKey: "uid") as! String)
+        let userRef = ref.child(userDefaults.object(forKey: "fid") as! String)
         
         let statusRef = userRef.child("status")
         statusRef.setValue(status)
@@ -109,6 +109,11 @@ class TimerViewController: BaseViewController {
             timer.invalidate()
             breakAudioPlayer.play()
             cycleCount += 1
+            
+            let userRef = ref.child(userDefaults.object(forKey: "uid") as! String)
+            let cycleRef = userRef.child("pomodoroCycles")
+            cycleRef.setValue(cycleCount)
+            
             
             timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(TimerViewController.studyCounter), userInfo: nil, repeats: true)
             
