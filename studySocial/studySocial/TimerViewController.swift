@@ -11,6 +11,8 @@ import AVFoundation
 import Firebase
 
 class TimerViewController: BaseViewController {
+    let ref = FIRDatabase.database().reference(withPath: "userdata")
+    
     var studyCount = 1500
     var breakCount = 300
     var cycleCount = 1
@@ -22,6 +24,10 @@ class TimerViewController: BaseViewController {
     var studyLength = 0
 
     @IBOutlet weak var taskButton: UIBarButtonItem!
+    
+    
+    @IBOutlet weak var statusField: UITextField!
+    
 
     @IBOutlet weak var studyLabel: UILabel!
     
@@ -44,6 +50,8 @@ class TimerViewController: BaseViewController {
     @IBOutlet weak var startOutlet: UIButton!
     @IBAction func studyStart(_ sender: AnyObject)
     {
+        var status = statusField.text
+                
         timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(TimerViewController.studyCounter), userInfo: nil, repeats: true)
         
         sliderOutlet.isHidden = true
