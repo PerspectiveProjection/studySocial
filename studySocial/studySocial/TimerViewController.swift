@@ -51,12 +51,11 @@ class TimerViewController: BaseViewController {
     @IBAction func studyStart(_ sender: AnyObject)
     {
         var status = statusField.text
-        
         let userRef = ref.child(userDefaults.object(forKey: "uid") as! String)
         
         let statusRef = userRef.child("status")
         statusRef.setValue(status)
-        print(userRef)
+
         timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(TimerViewController.studyCounter), userInfo: nil, repeats: true)
         
         sliderOutlet.isHidden = true
