@@ -1,0 +1,493 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3D14CD171EC78BDD00EE3686 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D14CD161EC78BDD00EE3686 /* AppDelegate.swift */; };
+		3D14CD1C1EC78BDD00EE3686 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D14CD1A1EC78BDD00EE3686 /* Main.storyboard */; };
+		3D14CD1E1EC78BDD00EE3686 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D14CD1D1EC78BDD00EE3686 /* Assets.xcassets */; };
+		3D14CD211EC78BDD00EE3686 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D14CD1F1EC78BDD00EE3686 /* LaunchScreen.storyboard */; };
+		3D14CD291EC78F1F00EE3686 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3D14CD281EC78F1F00EE3686 /* GoogleService-Info.plist */; };
+		3D1BA0F81EC7E4CE00380653 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1BA0F71EC7E4CE00380653 /* User.swift */; };
+		3D3DBC0E1EC7B8630040967D /* Dlc_rick_and_morty_announcer_about_to_start_burp.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D3DBC091EC7B8630040967D /* Dlc_rick_and_morty_announcer_about_to_start_burp.mp3 */; };
+		3D3DBC0F1EC7B8630040967D /* Dlc_rick_and_morty_announcer_your_team_is_complete_01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D3DBC0A1EC7B8630040967D /* Dlc_rick_and_morty_announcer_your_team_is_complete_01.mp3 */; };
+		3D3DBC101EC7B8630040967D /* OSRSBeatz - Sea Shanty 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D3DBC0B1EC7B8630040967D /* OSRSBeatz - Sea Shanty 2.mp3 */; };
+		3D3DBC111EC7B8630040967D /* Shooting Stars FINAL.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D3DBC0C1EC7B8630040967D /* Shooting Stars FINAL.mp3 */; };
+		3D3DBC121EC7B8630040967D /* ShootingStars.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D3DBC0D1EC7B8630040967D /* ShootingStars.mp3 */; };
+		3DFA169C1EC7A32700F4F714 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFA16921EC7A32700F4F714 /* BaseViewController.swift */; };
+		3DFA169D1EC7A32700F4F714 /* FriendStatusTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFA16931EC7A32700F4F714 /* FriendStatusTableViewCell.swift */; };
+		3DFA169E1EC7A32700F4F714 /* FriendTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFA16941EC7A32700F4F714 /* FriendTableViewController.swift */; };
+		3DFA169F1EC7A32700F4F714 /* FriendViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFA16951EC7A32700F4F714 /* FriendViewController.swift */; };
+		3DFA16A01EC7A32700F4F714 /* GroupSelectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFA16961EC7A32700F4F714 /* GroupSelectViewController.swift */; };
+		3DFA16A11EC7A32700F4F714 /* GroupTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFA16971EC7A32700F4F714 /* GroupTableViewController.swift */; };
+		3DFA16A21EC7A32700F4F714 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFA16981EC7A32700F4F714 /* LoginViewController.swift */; };
+		3DFA16A31EC7A32700F4F714 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFA16991EC7A32700F4F714 /* MenuViewController.swift */; };
+		3DFA16A41EC7A32700F4F714 /* ModeSelectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFA169A1EC7A32700F4F714 /* ModeSelectViewController.swift */; };
+		3DFA16A51EC7A32700F4F714 /* TimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFA169B1EC7A32700F4F714 /* TimerViewController.swift */; };
+		55302D111EC7C9B800DB2872 /* TodoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55302D101EC7C9B800DB2872 /* TodoList.swift */; };
+		55302D131EC7D04700DB2872 /* ToDoItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55302D121EC7D04700DB2872 /* ToDoItemTableViewController.swift */; };
+		581268A491C162F517E4CB8C /* Pods_studySocial.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B128F62262F61ECF2B1AD751 /* Pods_studySocial.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3389094537DCF558492F5540 /* Pods-studySocial.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-studySocial.release.xcconfig"; path = "Pods/Target Support Files/Pods-studySocial/Pods-studySocial.release.xcconfig"; sourceTree = "<group>"; };
+		3D14CD131EC78BDD00EE3686 /* studySocial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = studySocial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D14CD161EC78BDD00EE3686 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3D14CD1B1EC78BDD00EE3686 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3D14CD1D1EC78BDD00EE3686 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3D14CD201EC78BDD00EE3686 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3D14CD221EC78BDD00EE3686 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D14CD281EC78F1F00EE3686 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
+		3D1BA0F71EC7E4CE00380653 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		3D3DBC091EC7B8630040967D /* Dlc_rick_and_morty_announcer_about_to_start_burp.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Dlc_rick_and_morty_announcer_about_to_start_burp.mp3; sourceTree = "<group>"; };
+		3D3DBC0A1EC7B8630040967D /* Dlc_rick_and_morty_announcer_your_team_is_complete_01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Dlc_rick_and_morty_announcer_your_team_is_complete_01.mp3; sourceTree = "<group>"; };
+		3D3DBC0B1EC7B8630040967D /* OSRSBeatz - Sea Shanty 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "OSRSBeatz - Sea Shanty 2.mp3"; sourceTree = "<group>"; };
+		3D3DBC0C1EC7B8630040967D /* Shooting Stars FINAL.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Shooting Stars FINAL.mp3"; sourceTree = "<group>"; };
+		3D3DBC0D1EC7B8630040967D /* ShootingStars.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ShootingStars.mp3; sourceTree = "<group>"; };
+		3DFA16921EC7A32700F4F714 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		3DFA16931EC7A32700F4F714 /* FriendStatusTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FriendStatusTableViewCell.swift; sourceTree = "<group>"; };
+		3DFA16941EC7A32700F4F714 /* FriendTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FriendTableViewController.swift; sourceTree = "<group>"; };
+		3DFA16951EC7A32700F4F714 /* FriendViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FriendViewController.swift; sourceTree = "<group>"; };
+		3DFA16961EC7A32700F4F714 /* GroupSelectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroupSelectViewController.swift; sourceTree = "<group>"; };
+		3DFA16971EC7A32700F4F714 /* GroupTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroupTableViewController.swift; sourceTree = "<group>"; };
+		3DFA16981EC7A32700F4F714 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		3DFA16991EC7A32700F4F714 /* MenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		3DFA169A1EC7A32700F4F714 /* ModeSelectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModeSelectViewController.swift; sourceTree = "<group>"; };
+		3DFA169B1EC7A32700F4F714 /* TimerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimerViewController.swift; sourceTree = "<group>"; };
+		55302D101EC7C9B800DB2872 /* TodoList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodoList.swift; sourceTree = "<group>"; };
+		55302D121EC7D04700DB2872 /* ToDoItemTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToDoItemTableViewController.swift; sourceTree = "<group>"; };
+		B128F62262F61ECF2B1AD751 /* Pods_studySocial.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_studySocial.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B194F02A1A4DDB72AF2F289F /* Pods-studySocial.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-studySocial.debug.xcconfig"; path = "Pods/Target Support Files/Pods-studySocial/Pods-studySocial.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3D14CD101EC78BDC00EE3686 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				581268A491C162F517E4CB8C /* Pods_studySocial.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3D14CD0A1EC78BDC00EE3686 = {
+			isa = PBXGroup;
+			children = (
+				3D14CD151EC78BDD00EE3686 /* studySocial */,
+				3D14CD141EC78BDD00EE3686 /* Products */,
+				63C556443CDDE82B46A79D45 /* Pods */,
+				7A90871E29996D33664AAFD5 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		3D14CD141EC78BDD00EE3686 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3D14CD131EC78BDD00EE3686 /* studySocial.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3D14CD151EC78BDD00EE3686 /* studySocial */ = {
+			isa = PBXGroup;
+			children = (
+				3D1BA0F61EC7E44A00380653 /* Models */,
+				3D3DBC131EC7B8740040967D /* Audio */,
+				3DFA16A71EC7A39100F4F714 /* Table Cells */,
+				3DFA16A61EC7A36700F4F714 /* View Controllers */,
+				3D14CD161EC78BDD00EE3686 /* AppDelegate.swift */,
+				3D14CD1A1EC78BDD00EE3686 /* Main.storyboard */,
+				3D14CD1D1EC78BDD00EE3686 /* Assets.xcassets */,
+				3D14CD1F1EC78BDD00EE3686 /* LaunchScreen.storyboard */,
+				3D14CD221EC78BDD00EE3686 /* Info.plist */,
+				3D14CD281EC78F1F00EE3686 /* GoogleService-Info.plist */,
+			);
+			path = studySocial;
+			sourceTree = "<group>";
+		};
+		3D1BA0F61EC7E44A00380653 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				55302D101EC7C9B800DB2872 /* TodoList.swift */,
+				3D1BA0F71EC7E4CE00380653 /* User.swift */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		3D3DBC131EC7B8740040967D /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				3D3DBC091EC7B8630040967D /* Dlc_rick_and_morty_announcer_about_to_start_burp.mp3 */,
+				3D3DBC0A1EC7B8630040967D /* Dlc_rick_and_morty_announcer_your_team_is_complete_01.mp3 */,
+				3D3DBC0B1EC7B8630040967D /* OSRSBeatz - Sea Shanty 2.mp3 */,
+				3D3DBC0C1EC7B8630040967D /* Shooting Stars FINAL.mp3 */,
+				3D3DBC0D1EC7B8630040967D /* ShootingStars.mp3 */,
+			);
+			name = Audio;
+			sourceTree = "<group>";
+		};
+		3DFA16A61EC7A36700F4F714 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				55302D121EC7D04700DB2872 /* ToDoItemTableViewController.swift */,
+				3DFA16921EC7A32700F4F714 /* BaseViewController.swift */,
+				3DFA16941EC7A32700F4F714 /* FriendTableViewController.swift */,
+				3DFA16951EC7A32700F4F714 /* FriendViewController.swift */,
+				3DFA16961EC7A32700F4F714 /* GroupSelectViewController.swift */,
+				3DFA16971EC7A32700F4F714 /* GroupTableViewController.swift */,
+				3DFA16981EC7A32700F4F714 /* LoginViewController.swift */,
+				3DFA16991EC7A32700F4F714 /* MenuViewController.swift */,
+				3DFA169A1EC7A32700F4F714 /* ModeSelectViewController.swift */,
+				3DFA169B1EC7A32700F4F714 /* TimerViewController.swift */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		3DFA16A71EC7A39100F4F714 /* Table Cells */ = {
+			isa = PBXGroup;
+			children = (
+				3DFA16931EC7A32700F4F714 /* FriendStatusTableViewCell.swift */,
+			);
+			name = "Table Cells";
+			sourceTree = "<group>";
+		};
+		63C556443CDDE82B46A79D45 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B194F02A1A4DDB72AF2F289F /* Pods-studySocial.debug.xcconfig */,
+				3389094537DCF558492F5540 /* Pods-studySocial.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		7A90871E29996D33664AAFD5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B128F62262F61ECF2B1AD751 /* Pods_studySocial.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3D14CD121EC78BDC00EE3686 /* studySocial */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D14CD251EC78BDD00EE3686 /* Build configuration list for PBXNativeTarget "studySocial" */;
+			buildPhases = (
+				1FBB0A4F7B5CD0D88A7FDD81 /* [CP] Check Pods Manifest.lock */,
+				3D14CD0F1EC78BDC00EE3686 /* Sources */,
+				3D14CD101EC78BDC00EE3686 /* Frameworks */,
+				3D14CD111EC78BDC00EE3686 /* Resources */,
+				5F2D34C9D353A6631DF1C36B /* [CP] Embed Pods Frameworks */,
+				C70A11FD84E6EAB0B02FE152 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = studySocial;
+			productName = studySocial;
+			productReference = 3D14CD131EC78BDD00EE3686 /* studySocial.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3D14CD0B1EC78BDC00EE3686 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = perspectiveProjection;
+				TargetAttributes = {
+					3D14CD121EC78BDC00EE3686 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = RF9HBW2NP8;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 3D14CD0E1EC78BDC00EE3686 /* Build configuration list for PBXProject "studySocial" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3D14CD0A1EC78BDC00EE3686;
+			productRefGroup = 3D14CD141EC78BDD00EE3686 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3D14CD121EC78BDC00EE3686 /* studySocial */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3D14CD111EC78BDC00EE3686 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D3DBC121EC7B8630040967D /* ShootingStars.mp3 in Resources */,
+				3D3DBC111EC7B8630040967D /* Shooting Stars FINAL.mp3 in Resources */,
+				3D14CD211EC78BDD00EE3686 /* LaunchScreen.storyboard in Resources */,
+				3D3DBC101EC7B8630040967D /* OSRSBeatz - Sea Shanty 2.mp3 in Resources */,
+				3D3DBC0F1EC7B8630040967D /* Dlc_rick_and_morty_announcer_your_team_is_complete_01.mp3 in Resources */,
+				3D14CD291EC78F1F00EE3686 /* GoogleService-Info.plist in Resources */,
+				3D14CD1E1EC78BDD00EE3686 /* Assets.xcassets in Resources */,
+				3D3DBC0E1EC7B8630040967D /* Dlc_rick_and_morty_announcer_about_to_start_burp.mp3 in Resources */,
+				3D14CD1C1EC78BDD00EE3686 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1FBB0A4F7B5CD0D88A7FDD81 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		5F2D34C9D353A6631DF1C36B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-studySocial/Pods-studySocial-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C70A11FD84E6EAB0B02FE152 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-studySocial/Pods-studySocial-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3D14CD0F1EC78BDC00EE3686 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DFA16A11EC7A32700F4F714 /* GroupTableViewController.swift in Sources */,
+				3DFA16A01EC7A32700F4F714 /* GroupSelectViewController.swift in Sources */,
+				3D14CD171EC78BDD00EE3686 /* AppDelegate.swift in Sources */,
+				55302D111EC7C9B800DB2872 /* TodoList.swift in Sources */,
+				55302D131EC7D04700DB2872 /* ToDoItemTableViewController.swift in Sources */,
+				3DFA169E1EC7A32700F4F714 /* FriendTableViewController.swift in Sources */,
+				3D1BA0F81EC7E4CE00380653 /* User.swift in Sources */,
+				3DFA16A31EC7A32700F4F714 /* MenuViewController.swift in Sources */,
+				3DFA16A21EC7A32700F4F714 /* LoginViewController.swift in Sources */,
+				3DFA169D1EC7A32700F4F714 /* FriendStatusTableViewCell.swift in Sources */,
+				3DFA16A41EC7A32700F4F714 /* ModeSelectViewController.swift in Sources */,
+				3DFA169C1EC7A32700F4F714 /* BaseViewController.swift in Sources */,
+				3DFA16A51EC7A32700F4F714 /* TimerViewController.swift in Sources */,
+				3DFA169F1EC7A32700F4F714 /* FriendViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3D14CD1A1EC78BDD00EE3686 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3D14CD1B1EC78BDD00EE3686 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3D14CD1F1EC78BDD00EE3686 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3D14CD201EC78BDD00EE3686 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3D14CD231EC78BDD00EE3686 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3D14CD241EC78BDD00EE3686 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3D14CD261EC78BDD00EE3686 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B194F02A1A4DDB72AF2F289F /* Pods-studySocial.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RF9HBW2NP8;
+				INFOPLIST_FILE = studySocial/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.perspectiveprojection.studySocial;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		3D14CD271EC78BDD00EE3686 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3389094537DCF558492F5540 /* Pods-studySocial.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RF9HBW2NP8;
+				INFOPLIST_FILE = studySocial/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.perspectiveprojection.studySocial;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3D14CD0E1EC78BDC00EE3686 /* Build configuration list for PBXProject "studySocial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D14CD231EC78BDD00EE3686 /* Debug */,
+				3D14CD241EC78BDD00EE3686 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3D14CD251EC78BDD00EE3686 /* Build configuration list for PBXNativeTarget "studySocial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D14CD261EC78BDD00EE3686 /* Debug */,
+				3D14CD271EC78BDD00EE3686 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3D14CD0B1EC78BDC00EE3686 /* Project object */;
+}

@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "62adab594fdc6b9d57e6808884282dc6"
+build_time: [548054735, 43655000]
+inputs:
+  "/Users/william/Projects/studySocial/studySocial/studySocial/GroupTableViewController.swift": [548038919, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/GroupSelectViewController.swift": [548042960, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/AppDelegate.swift": [548050613, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/TodoList.swift": [548051893, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/ToDoItemTableViewController.swift": [548052437, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/FriendTableViewController.swift": [548038919, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/User.swift": [548048864, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/MenuViewController.swift": [548038919, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/LoginViewController.swift": [548052486, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/FriendStatusTableViewCell.swift": [548038919, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/ModeSelectViewController.swift": [548038919, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/BaseViewController.swift": [548044812, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/TimerViewController.swift": [548045104, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/FriendViewController.swift": [548038919, 0]

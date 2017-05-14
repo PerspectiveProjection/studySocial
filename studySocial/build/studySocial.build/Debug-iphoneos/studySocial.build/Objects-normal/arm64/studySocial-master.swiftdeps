@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "66427e3c27b3bdaaea15494e3368e743"
+build_time: [548044718, 652429000]
+inputs:
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/GroupTableViewController.swift": [548028129, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/GroupSelectViewController.swift": [548028129, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/AppDelegate.swift": [548028129, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/TodoList.swift": [548033141, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/ToDoItemTableViewController.swift": [548037429, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendTableViewController.swift": [548028129, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/User.swift": [9223372036854775807, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/Task.swift": [9223372036854775807, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/MenuViewController.swift": [548028129, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/LoginViewController.swift": [548044714, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendStatusTableViewCell.swift": [548028129, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/ModeSelectViewController.swift": [548028129, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/BaseViewController.swift": [548044714, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/TimerViewController.swift": [548044662, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendViewController.swift": [548028129, 0]

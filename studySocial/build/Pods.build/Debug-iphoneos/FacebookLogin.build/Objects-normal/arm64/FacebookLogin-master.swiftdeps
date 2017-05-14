@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "ea6d5134864a212bc91b4d3350384a1d"
+build_time: [548052108, 447901000]
+inputs:
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginBehavior.swift": [548028322, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButton.swift": [548028322, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButton.Tooltip.swift": [548028322, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButtonDelegate.swift": [548028322, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginButtonDelegateBridge.swift": [548028322, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginDefaultAudience.swift": [548028322, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginManager.swift": [548028322, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FacebookLogin/Sources/Login/LoginResult.swift": [548028322, 0]

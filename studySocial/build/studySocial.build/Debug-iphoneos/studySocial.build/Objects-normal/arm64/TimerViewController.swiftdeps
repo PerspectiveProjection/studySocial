@@ -1,0 +1,1204 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TimerViewController"
+provides-nominal:
+- "C11studySocial19TimerViewController"
+provides-member:
+- ["C11studySocial19TimerViewController", ""]
+provides-dynamic-lookup:
+- "breakAudioPlayer"
+- "breakCount"
+- "breakCounter"
+- "breakLabel"
+- "breakLength"
+- "breakSlider"
+- "breakSliderOutlet"
+- "cycleCount"
+- "didReceiveMemoryWarning"
+- "sliderOutlet"
+- "startOutlet"
+- "stop"
+- "stopOutlet"
+- "studyAudioPlayer"
+- "studyCount"
+- "studyCounter"
+- "studyLabel"
+- "studyLength"
+- "studySlider"
+- "studyStart"
+- "taskButton"
+- "timer"
+- "viewDidLoad"
+depends-top-level:
+- !private "!="
+- !private "%"
+- !private "&&"
+- !private "*"
+- !private "+"
+- !private "+="
+- !private "-="
+- !private "/"
+- !private "<"
+- !private "=="
+- !private ">"
+- "AVAudioPlayer"
+- "AnyObject"
+- "AssignmentPrecedence"
+- "BaseViewController"
+- !private "BooleanLiteralType"
+- !private "Bundle"
+- !private "Int"
+- !private "String"
+- !private "StringLiteralType"
+- "Timer"
+- "TimerViewController"
+- "UIBarButtonItem"
+- "UIButton"
+- "UILabel"
+- "UISlider"
+- !private "URL"
+- !private "UnicodeScalarType"
+- !private "print"
+depends-member:
+- ["CSo13AVAudioPlayer", "init"]
+- !private ["CSo13AVAudioPlayer", "play"]
+- !private ["CSo13AVAudioPlayer", "stop"]
+- ["Ps9AnyObject", "AVAudioPlayer"]
+- !private ["Ps9AnyObject", "Bundle"]
+- !private ["Ps9AnyObject", "Int"]
+- !private ["Ps9AnyObject", "String"]
+- ["Ps9AnyObject", "Timer"]
+- !private ["Ps9AnyObject", "TimerViewController"]
+- !private ["Ps9AnyObject", "URL"]
+- !private ["Ps9AnyObject", "addSlideMenuButton"]
+- !private ["Ps9AnyObject", "breakAudioPlayer"]
+- !private ["Ps9AnyObject", "breakCount"]
+- !private ["Ps9AnyObject", "breakCounter"]
+- !private ["Ps9AnyObject", "breakLabel"]
+- !private ["Ps9AnyObject", "breakLength"]
+- !private ["Ps9AnyObject", "breakSliderOutlet"]
+- !private ["Ps9AnyObject", "cycleCount"]
+- !private ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "invalidate"]
+- !private ["Ps9AnyObject", "isHidden"]
+- !private ["Ps9AnyObject", "main"]
+- !private ["Ps9AnyObject", "maximumValue"]
+- !private ["Ps9AnyObject", "minimumValue"]
+- !private ["Ps9AnyObject", "path"]
+- !private ["Ps9AnyObject", "play"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "scheduledTimer"]
+- !private ["Ps9AnyObject", "setValue"]
+- !private ["Ps9AnyObject", "sliderOutlet"]
+- !private ["Ps9AnyObject", "startOutlet"]
+- !private ["Ps9AnyObject", "stop"]
+- !private ["Ps9AnyObject", "studyAudioPlayer"]
+- !private ["Ps9AnyObject", "studyCount"]
+- !private ["Ps9AnyObject", "studyCounter"]
+- !private ["Ps9AnyObject", "studyLabel"]
+- !private ["Ps9AnyObject", "studyLength"]
+- !private ["Ps9AnyObject", "text"]
+- !private ["Ps9AnyObject", "timer"]
+- !private ["Ps9AnyObject", "value"]
+- !private ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["P12FacebookCore26AppEventParameterValueType", "init"]
+- ["C11studySocial18BaseViewController", "AVAudioPlayer"]
+- ["C11studySocial18BaseViewController", "AnyObject"]
+- !private ["C11studySocial18BaseViewController", "Bundle"]
+- !private ["C11studySocial18BaseViewController", "Int"]
+- !private ["C11studySocial18BaseViewController", "String"]
+- ["C11studySocial18BaseViewController", "Timer"]
+- !private ["C11studySocial18BaseViewController", "TimerViewController"]
+- ["C11studySocial18BaseViewController", "UIBarButtonItem"]
+- ["C11studySocial18BaseViewController", "UIButton"]
+- ["C11studySocial18BaseViewController", "UILabel"]
+- ["C11studySocial18BaseViewController", "UISlider"]
+- !private ["C11studySocial18BaseViewController", "URL"]
+- !private ["C11studySocial18BaseViewController", "addSlideMenuButton"]
+- ["C11studySocial18BaseViewController", "breakAudioPlayer"]
+- ["C11studySocial18BaseViewController", "breakCount"]
+- ["C11studySocial18BaseViewController", "breakCounter"]
+- ["C11studySocial18BaseViewController", "breakLabel"]
+- ["C11studySocial18BaseViewController", "breakLength"]
+- ["C11studySocial18BaseViewController", "breakSlider"]
+- ["C11studySocial18BaseViewController", "breakSliderOutlet"]
+- ["C11studySocial18BaseViewController", "cycleCount"]
+- ["C11studySocial18BaseViewController", "didReceiveMemoryWarning"]
+- ["C11studySocial18BaseViewController", "init"]
+- !private ["C11studySocial18BaseViewController", "print"]
+- ["C11studySocial18BaseViewController", "sliderOutlet"]
+- ["C11studySocial18BaseViewController", "startOutlet"]
+- ["C11studySocial18BaseViewController", "stop"]
+- ["C11studySocial18BaseViewController", "stopOutlet"]
+- ["C11studySocial18BaseViewController", "studyAudioPlayer"]
+- ["C11studySocial18BaseViewController", "studyCount"]
+- ["C11studySocial18BaseViewController", "studyCounter"]
+- ["C11studySocial18BaseViewController", "studyLabel"]
+- ["C11studySocial18BaseViewController", "studyLength"]
+- ["C11studySocial18BaseViewController", "studySlider"]
+- ["C11studySocial18BaseViewController", "studyStart"]
+- ["C11studySocial18BaseViewController", "taskButton"]
+- ["C11studySocial18BaseViewController", "timer"]
+- ["C11studySocial18BaseViewController", "viewDidLoad"]
+- ["C11studySocial18BaseViewController", ""]
+- !private ["Ps17BitwiseOperations", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["CSo6Bundle", "main"]
+- !private ["CSo6Bundle", "path"]
+- !private ["PSo15CALayerDelegate", "isHidden"]
+- !private ["PSo15CALayerDelegate", "maximumValue"]
+- !private ["PSo15CALayerDelegate", "minimumValue"]
+- !private ["PSo15CALayerDelegate", "setValue"]
+- !private ["PSo15CALayerDelegate", "text"]
+- !private ["PSo15CALayerDelegate", "value"]
+- ["Ps7CVarArg", "AVAudioPlayer"]
+- !private ["Ps7CVarArg", "Bundle"]
+- !private ["Ps7CVarArg", "Int"]
+- !private ["Ps7CVarArg", "String"]
+- ["Ps7CVarArg", "Timer"]
+- !private ["Ps7CVarArg", "TimerViewController"]
+- !private ["Ps7CVarArg", "URL"]
+- !private ["Ps7CVarArg", "addSlideMenuButton"]
+- !private ["Ps7CVarArg", "breakAudioPlayer"]
+- !private ["Ps7CVarArg", "breakCount"]
+- !private ["Ps7CVarArg", "breakCounter"]
+- !private ["Ps7CVarArg", "breakLabel"]
+- !private ["Ps7CVarArg", "breakLength"]
+- !private ["Ps7CVarArg", "breakSliderOutlet"]
+- !private ["Ps7CVarArg", "cycleCount"]
+- !private ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "invalidate"]
+- !private ["Ps7CVarArg", "isHidden"]
+- !private ["Ps7CVarArg", "main"]
+- !private ["Ps7CVarArg", "maximumValue"]
+- !private ["Ps7CVarArg", "minimumValue"]
+- !private ["Ps7CVarArg", "path"]
+- !private ["Ps7CVarArg", "play"]
+- !private ["Ps7CVarArg", "print"]
+- !private ["Ps7CVarArg", "scheduledTimer"]
+- !private ["Ps7CVarArg", "setValue"]
+- !private ["Ps7CVarArg", "sliderOutlet"]
+- !private ["Ps7CVarArg", "startOutlet"]
+- !private ["Ps7CVarArg", "stop"]
+- !private ["Ps7CVarArg", "studyAudioPlayer"]
+- !private ["Ps7CVarArg", "studyCount"]
+- !private ["Ps7CVarArg", "studyCounter"]
+- !private ["Ps7CVarArg", "studyLabel"]
+- !private ["Ps7CVarArg", "studyLength"]
+- !private ["Ps7CVarArg", "text"]
+- !private ["Ps7CVarArg", "timer"]
+- !private ["Ps7CVarArg", "value"]
+- !private ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "AVAudioPlayer"]
+- !private ["Ps28CustomDebugStringConvertible", "Bundle"]
+- !private ["Ps28CustomDebugStringConvertible", "Int"]
+- !private ["Ps28CustomDebugStringConvertible", "String"]
+- ["Ps28CustomDebugStringConvertible", "Timer"]
+- !private ["Ps28CustomDebugStringConvertible", "TimerViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "URL"]
+- !private ["Ps28CustomDebugStringConvertible", "addSlideMenuButton"]
+- !private ["Ps28CustomDebugStringConvertible", "breakAudioPlayer"]
+- !private ["Ps28CustomDebugStringConvertible", "breakCount"]
+- !private ["Ps28CustomDebugStringConvertible", "breakCounter"]
+- !private ["Ps28CustomDebugStringConvertible", "breakLabel"]
+- !private ["Ps28CustomDebugStringConvertible", "breakLength"]
+- !private ["Ps28CustomDebugStringConvertible", "breakSliderOutlet"]
+- !private ["Ps28CustomDebugStringConvertible", "cycleCount"]
+- !private ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "invalidate"]
+- !private ["Ps28CustomDebugStringConvertible", "isHidden"]
+- !private ["Ps28CustomDebugStringConvertible", "main"]
+- !private ["Ps28CustomDebugStringConvertible", "maximumValue"]
+- !private ["Ps28CustomDebugStringConvertible", "minimumValue"]
+- !private ["Ps28CustomDebugStringConvertible", "path"]
+- !private ["Ps28CustomDebugStringConvertible", "play"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- !private ["Ps28CustomDebugStringConvertible", "scheduledTimer"]
+- !private ["Ps28CustomDebugStringConvertible", "setValue"]
+- !private ["Ps28CustomDebugStringConvertible", "sliderOutlet"]
+- !private ["Ps28CustomDebugStringConvertible", "startOutlet"]
+- !private ["Ps28CustomDebugStringConvertible", "stop"]
+- !private ["Ps28CustomDebugStringConvertible", "studyAudioPlayer"]
+- !private ["Ps28CustomDebugStringConvertible", "studyCount"]
+- !private ["Ps28CustomDebugStringConvertible", "studyCounter"]
+- !private ["Ps28CustomDebugStringConvertible", "studyLabel"]
+- !private ["Ps28CustomDebugStringConvertible", "studyLength"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- !private ["Ps28CustomDebugStringConvertible", "timer"]
+- !private ["Ps28CustomDebugStringConvertible", "value"]
+- !private ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "AVAudioPlayer"]
+- !private ["Ps23CustomStringConvertible", "Bundle"]
+- !private ["Ps23CustomStringConvertible", "Int"]
+- !private ["Ps23CustomStringConvertible", "String"]
+- ["Ps23CustomStringConvertible", "Timer"]
+- !private ["Ps23CustomStringConvertible", "TimerViewController"]
+- !private ["Ps23CustomStringConvertible", "URL"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "addSlideMenuButton"]
+- !private ["Ps23CustomStringConvertible", "breakAudioPlayer"]
+- !private ["Ps23CustomStringConvertible", "breakCount"]
+- !private ["Ps23CustomStringConvertible", "breakCounter"]
+- !private ["Ps23CustomStringConvertible", "breakLabel"]
+- !private ["Ps23CustomStringConvertible", "breakLength"]
+- !private ["Ps23CustomStringConvertible", "breakSliderOutlet"]
+- !private ["Ps23CustomStringConvertible", "cycleCount"]
+- !private ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "invalidate"]
+- !private ["Ps23CustomStringConvertible", "isHidden"]
+- !private ["Ps23CustomStringConvertible", "main"]
+- !private ["Ps23CustomStringConvertible", "maximumValue"]
+- !private ["Ps23CustomStringConvertible", "minimumValue"]
+- !private ["Ps23CustomStringConvertible", "path"]
+- !private ["Ps23CustomStringConvertible", "play"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- !private ["Ps23CustomStringConvertible", "scheduledTimer"]
+- !private ["Ps23CustomStringConvertible", "setValue"]
+- !private ["Ps23CustomStringConvertible", "sliderOutlet"]
+- !private ["Ps23CustomStringConvertible", "startOutlet"]
+- !private ["Ps23CustomStringConvertible", "stop"]
+- !private ["Ps23CustomStringConvertible", "studyAudioPlayer"]
+- !private ["Ps23CustomStringConvertible", "studyCount"]
+- !private ["Ps23CustomStringConvertible", "studyCounter"]
+- !private ["Ps23CustomStringConvertible", "studyLabel"]
+- !private ["Ps23CustomStringConvertible", "studyLength"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- !private ["Ps23CustomStringConvertible", "timer"]
+- !private ["Ps23CustomStringConvertible", "value"]
+- !private ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "AVAudioPlayer"]
+- !private ["Ps9Equatable", "Bundle"]
+- !private ["Ps9Equatable", "Int"]
+- !private ["Ps9Equatable", "String"]
+- ["Ps9Equatable", "Timer"]
+- !private ["Ps9Equatable", "TimerViewController"]
+- !private ["Ps9Equatable", "URL"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "addSlideMenuButton"]
+- !private ["Ps9Equatable", "breakAudioPlayer"]
+- !private ["Ps9Equatable", "breakCount"]
+- !private ["Ps9Equatable", "breakCounter"]
+- !private ["Ps9Equatable", "breakLabel"]
+- !private ["Ps9Equatable", "breakLength"]
+- !private ["Ps9Equatable", "breakSliderOutlet"]
+- !private ["Ps9Equatable", "cycleCount"]
+- !private ["Ps9Equatable", "didReceiveMemoryWarning"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "invalidate"]
+- !private ["Ps9Equatable", "isHidden"]
+- !private ["Ps9Equatable", "main"]
+- !private ["Ps9Equatable", "maximumValue"]
+- !private ["Ps9Equatable", "minimumValue"]
+- !private ["Ps9Equatable", "path"]
+- !private ["Ps9Equatable", "play"]
+- !private ["Ps9Equatable", "print"]
+- !private ["Ps9Equatable", "scheduledTimer"]
+- !private ["Ps9Equatable", "setValue"]
+- !private ["Ps9Equatable", "sliderOutlet"]
+- !private ["Ps9Equatable", "startOutlet"]
+- !private ["Ps9Equatable", "stop"]
+- !private ["Ps9Equatable", "studyAudioPlayer"]
+- !private ["Ps9Equatable", "studyCount"]
+- !private ["Ps9Equatable", "studyCounter"]
+- !private ["Ps9Equatable", "studyLabel"]
+- !private ["Ps9Equatable", "studyLength"]
+- !private ["Ps9Equatable", "text"]
+- !private ["Ps9Equatable", "timer"]
+- !private ["Ps9Equatable", "value"]
+- !private ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps8Hashable", "AVAudioPlayer"]
+- !private ["Ps8Hashable", "Bundle"]
+- !private ["Ps8Hashable", "Int"]
+- !private ["Ps8Hashable", "String"]
+- ["Ps8Hashable", "Timer"]
+- !private ["Ps8Hashable", "TimerViewController"]
+- !private ["Ps8Hashable", "URL"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "addSlideMenuButton"]
+- !private ["Ps8Hashable", "breakAudioPlayer"]
+- !private ["Ps8Hashable", "breakCount"]
+- !private ["Ps8Hashable", "breakCounter"]
+- !private ["Ps8Hashable", "breakLabel"]
+- !private ["Ps8Hashable", "breakLength"]
+- !private ["Ps8Hashable", "breakSliderOutlet"]
+- !private ["Ps8Hashable", "cycleCount"]
+- !private ["Ps8Hashable", "didReceiveMemoryWarning"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "invalidate"]
+- !private ["Ps8Hashable", "isHidden"]
+- !private ["Ps8Hashable", "main"]
+- !private ["Ps8Hashable", "maximumValue"]
+- !private ["Ps8Hashable", "minimumValue"]
+- !private ["Ps8Hashable", "path"]
+- !private ["Ps8Hashable", "play"]
+- !private ["Ps8Hashable", "print"]
+- !private ["Ps8Hashable", "scheduledTimer"]
+- !private ["Ps8Hashable", "setValue"]
+- !private ["Ps8Hashable", "sliderOutlet"]
+- !private ["Ps8Hashable", "startOutlet"]
+- !private ["Ps8Hashable", "stop"]
+- !private ["Ps8Hashable", "studyAudioPlayer"]
+- !private ["Ps8Hashable", "studyCount"]
+- !private ["Ps8Hashable", "studyCounter"]
+- !private ["Ps8Hashable", "studyLabel"]
+- !private ["Ps8Hashable", "studyLength"]
+- !private ["Ps8Hashable", "text"]
+- !private ["Ps8Hashable", "timer"]
+- !private ["Ps8Hashable", "value"]
+- !private ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- !private ["Si", "init"]
+- !private ["Ps7Integer", "init"]
+- !private ["Ps17IntegerArithmetic", "init"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["PSo8NSCoding", "AVAudioPlayer"]
+- !private ["PSo8NSCoding", "Bundle"]
+- !private ["PSo8NSCoding", "Int"]
+- !private ["PSo8NSCoding", "String"]
+- ["PSo8NSCoding", "Timer"]
+- !private ["PSo8NSCoding", "TimerViewController"]
+- !private ["PSo8NSCoding", "URL"]
+- !private ["PSo8NSCoding", "addSlideMenuButton"]
+- !private ["PSo8NSCoding", "breakAudioPlayer"]
+- !private ["PSo8NSCoding", "breakCount"]
+- !private ["PSo8NSCoding", "breakCounter"]
+- !private ["PSo8NSCoding", "breakLabel"]
+- !private ["PSo8NSCoding", "breakLength"]
+- !private ["PSo8NSCoding", "breakSliderOutlet"]
+- !private ["PSo8NSCoding", "cycleCount"]
+- !private ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "isHidden"]
+- !private ["PSo8NSCoding", "maximumValue"]
+- !private ["PSo8NSCoding", "minimumValue"]
+- !private ["PSo8NSCoding", "print"]
+- !private ["PSo8NSCoding", "setValue"]
+- !private ["PSo8NSCoding", "sliderOutlet"]
+- !private ["PSo8NSCoding", "startOutlet"]
+- !private ["PSo8NSCoding", "studyAudioPlayer"]
+- !private ["PSo8NSCoding", "studyCount"]
+- !private ["PSo8NSCoding", "studyCounter"]
+- !private ["PSo8NSCoding", "studyLabel"]
+- !private ["PSo8NSCoding", "studyLength"]
+- !private ["PSo8NSCoding", "text"]
+- !private ["PSo8NSCoding", "timer"]
+- !private ["PSo8NSCoding", "value"]
+- !private ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- ["PSo26NSExtensionRequestHandling", "AVAudioPlayer"]
+- !private ["PSo26NSExtensionRequestHandling", "Bundle"]
+- !private ["PSo26NSExtensionRequestHandling", "Int"]
+- !private ["PSo26NSExtensionRequestHandling", "String"]
+- ["PSo26NSExtensionRequestHandling", "Timer"]
+- !private ["PSo26NSExtensionRequestHandling", "TimerViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "URL"]
+- !private ["PSo26NSExtensionRequestHandling", "addSlideMenuButton"]
+- !private ["PSo26NSExtensionRequestHandling", "breakAudioPlayer"]
+- !private ["PSo26NSExtensionRequestHandling", "breakCount"]
+- !private ["PSo26NSExtensionRequestHandling", "breakCounter"]
+- !private ["PSo26NSExtensionRequestHandling", "breakLabel"]
+- !private ["PSo26NSExtensionRequestHandling", "breakLength"]
+- !private ["PSo26NSExtensionRequestHandling", "breakSliderOutlet"]
+- !private ["PSo26NSExtensionRequestHandling", "cycleCount"]
+- !private ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "print"]
+- !private ["PSo26NSExtensionRequestHandling", "sliderOutlet"]
+- !private ["PSo26NSExtensionRequestHandling", "startOutlet"]
+- !private ["PSo26NSExtensionRequestHandling", "studyAudioPlayer"]
+- !private ["PSo26NSExtensionRequestHandling", "studyCount"]
+- !private ["PSo26NSExtensionRequestHandling", "studyCounter"]
+- !private ["PSo26NSExtensionRequestHandling", "studyLabel"]
+- !private ["PSo26NSExtensionRequestHandling", "studyLength"]
+- !private ["PSo26NSExtensionRequestHandling", "timer"]
+- !private ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "AVAudioPlayer"]
+- ["CSo8NSObject", "AnyObject"]
+- !private ["CSo8NSObject", "Bundle"]
+- !private ["CSo8NSObject", "Int"]
+- !private ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "Timer"]
+- !private ["CSo8NSObject", "TimerViewController"]
+- ["CSo8NSObject", "UIBarButtonItem"]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "UISlider"]
+- !private ["CSo8NSObject", "URL"]
+- !private ["CSo8NSObject", "addSlideMenuButton"]
+- ["CSo8NSObject", "breakAudioPlayer"]
+- ["CSo8NSObject", "breakCount"]
+- ["CSo8NSObject", "breakCounter"]
+- ["CSo8NSObject", "breakLabel"]
+- ["CSo8NSObject", "breakLength"]
+- ["CSo8NSObject", "breakSlider"]
+- ["CSo8NSObject", "breakSliderOutlet"]
+- ["CSo8NSObject", "cycleCount"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "invalidate"]
+- !private ["CSo8NSObject", "isHidden"]
+- !private ["CSo8NSObject", "main"]
+- !private ["CSo8NSObject", "maximumValue"]
+- !private ["CSo8NSObject", "minimumValue"]
+- !private ["CSo8NSObject", "path"]
+- !private ["CSo8NSObject", "play"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "scheduledTimer"]
+- !private ["CSo8NSObject", "setValue"]
+- ["CSo8NSObject", "sliderOutlet"]
+- ["CSo8NSObject", "startOutlet"]
+- ["CSo8NSObject", "stop"]
+- ["CSo8NSObject", "stopOutlet"]
+- ["CSo8NSObject", "studyAudioPlayer"]
+- ["CSo8NSObject", "studyCount"]
+- ["CSo8NSObject", "studyCounter"]
+- ["CSo8NSObject", "studyLabel"]
+- ["CSo8NSObject", "studyLength"]
+- ["CSo8NSObject", "studySlider"]
+- ["CSo8NSObject", "studyStart"]
+- ["CSo8NSObject", "taskButton"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "timer"]
+- !private ["CSo8NSObject", "value"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "AVAudioPlayer"]
+- !private ["PSo16NSObjectProtocol", "Bundle"]
+- !private ["PSo16NSObjectProtocol", "Int"]
+- !private ["PSo16NSObjectProtocol", "String"]
+- ["PSo16NSObjectProtocol", "Timer"]
+- !private ["PSo16NSObjectProtocol", "TimerViewController"]
+- !private ["PSo16NSObjectProtocol", "URL"]
+- !private ["PSo16NSObjectProtocol", "addSlideMenuButton"]
+- !private ["PSo16NSObjectProtocol", "breakAudioPlayer"]
+- !private ["PSo16NSObjectProtocol", "breakCount"]
+- !private ["PSo16NSObjectProtocol", "breakCounter"]
+- !private ["PSo16NSObjectProtocol", "breakLabel"]
+- !private ["PSo16NSObjectProtocol", "breakLength"]
+- !private ["PSo16NSObjectProtocol", "breakSliderOutlet"]
+- !private ["PSo16NSObjectProtocol", "cycleCount"]
+- !private ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "invalidate"]
+- !private ["PSo16NSObjectProtocol", "isHidden"]
+- !private ["PSo16NSObjectProtocol", "main"]
+- !private ["PSo16NSObjectProtocol", "maximumValue"]
+- !private ["PSo16NSObjectProtocol", "minimumValue"]
+- !private ["PSo16NSObjectProtocol", "path"]
+- !private ["PSo16NSObjectProtocol", "play"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "scheduledTimer"]
+- !private ["PSo16NSObjectProtocol", "setValue"]
+- !private ["PSo16NSObjectProtocol", "sliderOutlet"]
+- !private ["PSo16NSObjectProtocol", "startOutlet"]
+- !private ["PSo16NSObjectProtocol", "stop"]
+- !private ["PSo16NSObjectProtocol", "studyAudioPlayer"]
+- !private ["PSo16NSObjectProtocol", "studyCount"]
+- !private ["PSo16NSObjectProtocol", "studyCounter"]
+- !private ["PSo16NSObjectProtocol", "studyLabel"]
+- !private ["PSo16NSObjectProtocol", "studyLength"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- !private ["PSo16NSObjectProtocol", "timer"]
+- !private ["PSo16NSObjectProtocol", "value"]
+- !private ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["P10Foundation20ReferenceConvertible", "init"]
+- !private ["Ps13SignedInteger", "init"]
+- !private ["Ps12SignedNumber", "init"]
+- ["P11studySocial17SlideMenuDelegate", "AVAudioPlayer"]
+- !private ["P11studySocial17SlideMenuDelegate", "Bundle"]
+- !private ["P11studySocial17SlideMenuDelegate", "Int"]
+- !private ["P11studySocial17SlideMenuDelegate", "String"]
+- ["P11studySocial17SlideMenuDelegate", "Timer"]
+- !private ["P11studySocial17SlideMenuDelegate", "TimerViewController"]
+- !private ["P11studySocial17SlideMenuDelegate", "URL"]
+- !private ["P11studySocial17SlideMenuDelegate", "addSlideMenuButton"]
+- !private ["P11studySocial17SlideMenuDelegate", "breakAudioPlayer"]
+- !private ["P11studySocial17SlideMenuDelegate", "breakCount"]
+- !private ["P11studySocial17SlideMenuDelegate", "breakCounter"]
+- !private ["P11studySocial17SlideMenuDelegate", "breakLabel"]
+- !private ["P11studySocial17SlideMenuDelegate", "breakLength"]
+- !private ["P11studySocial17SlideMenuDelegate", "breakSliderOutlet"]
+- !private ["P11studySocial17SlideMenuDelegate", "cycleCount"]
+- !private ["P11studySocial17SlideMenuDelegate", "didReceiveMemoryWarning"]
+- !private ["P11studySocial17SlideMenuDelegate", "init"]
+- !private ["P11studySocial17SlideMenuDelegate", "print"]
+- !private ["P11studySocial17SlideMenuDelegate", "sliderOutlet"]
+- !private ["P11studySocial17SlideMenuDelegate", "startOutlet"]
+- !private ["P11studySocial17SlideMenuDelegate", "studyAudioPlayer"]
+- !private ["P11studySocial17SlideMenuDelegate", "studyCount"]
+- !private ["P11studySocial17SlideMenuDelegate", "studyCounter"]
+- !private ["P11studySocial17SlideMenuDelegate", "studyLabel"]
+- !private ["P11studySocial17SlideMenuDelegate", "studyLength"]
+- !private ["P11studySocial17SlideMenuDelegate", "timer"]
+- !private ["P11studySocial17SlideMenuDelegate", "viewDidLoad"]
+- ["P11studySocial17SlideMenuDelegate", ""]
+- !private ["Ps10Strideable", "init"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["CSo5Timer", "init"]
+- !private ["CSo5Timer", "invalidate"]
+- !private ["CSo5Timer", "scheduledTimer"]
+- ["C11studySocial19TimerViewController", "AVAudioPlayer"]
+- ["C11studySocial19TimerViewController", "AnyObject"]
+- !private ["C11studySocial19TimerViewController", "Bundle"]
+- !private ["C11studySocial19TimerViewController", "Int"]
+- !private ["C11studySocial19TimerViewController", "String"]
+- ["C11studySocial19TimerViewController", "Timer"]
+- !private ["C11studySocial19TimerViewController", "TimerViewController"]
+- ["C11studySocial19TimerViewController", "UIBarButtonItem"]
+- ["C11studySocial19TimerViewController", "UIButton"]
+- ["C11studySocial19TimerViewController", "UILabel"]
+- ["C11studySocial19TimerViewController", "UISlider"]
+- !private ["C11studySocial19TimerViewController", "URL"]
+- !private ["C11studySocial19TimerViewController", "addSlideMenuButton"]
+- ["C11studySocial19TimerViewController", "breakAudioPlayer"]
+- ["C11studySocial19TimerViewController", "breakCount"]
+- ["C11studySocial19TimerViewController", "breakCounter"]
+- ["C11studySocial19TimerViewController", "breakLabel"]
+- ["C11studySocial19TimerViewController", "breakLength"]
+- ["C11studySocial19TimerViewController", "breakSlider"]
+- ["C11studySocial19TimerViewController", "breakSliderOutlet"]
+- ["C11studySocial19TimerViewController", "cycleCount"]
+- ["C11studySocial19TimerViewController", "deinit"]
+- ["C11studySocial19TimerViewController", "didReceiveMemoryWarning"]
+- ["C11studySocial19TimerViewController", "init"]
+- !private ["C11studySocial19TimerViewController", "print"]
+- ["C11studySocial19TimerViewController", "sliderOutlet"]
+- ["C11studySocial19TimerViewController", "startOutlet"]
+- ["C11studySocial19TimerViewController", "stop"]
+- ["C11studySocial19TimerViewController", "stopOutlet"]
+- ["C11studySocial19TimerViewController", "studyAudioPlayer"]
+- ["C11studySocial19TimerViewController", "studyCount"]
+- ["C11studySocial19TimerViewController", "studyCounter"]
+- ["C11studySocial19TimerViewController", "studyLabel"]
+- ["C11studySocial19TimerViewController", "studyLength"]
+- ["C11studySocial19TimerViewController", "studySlider"]
+- ["C11studySocial19TimerViewController", "studyStart"]
+- ["C11studySocial19TimerViewController", "taskButton"]
+- ["C11studySocial19TimerViewController", "timer"]
+- ["C11studySocial19TimerViewController", "viewDidLoad"]
+- !private ["PSo29UIAccessibilityIdentification", "isHidden"]
+- !private ["PSo29UIAccessibilityIdentification", "maximumValue"]
+- !private ["PSo29UIAccessibilityIdentification", "minimumValue"]
+- !private ["PSo29UIAccessibilityIdentification", "setValue"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo29UIAccessibilityIdentification", "value"]
+- !private ["PSo12UIAppearance", "isHidden"]
+- !private ["PSo12UIAppearance", "maximumValue"]
+- !private ["PSo12UIAppearance", "minimumValue"]
+- !private ["PSo12UIAppearance", "setValue"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo12UIAppearance", "value"]
+- ["PSo21UIAppearanceContainer", "AVAudioPlayer"]
+- !private ["PSo21UIAppearanceContainer", "Bundle"]
+- !private ["PSo21UIAppearanceContainer", "Int"]
+- !private ["PSo21UIAppearanceContainer", "String"]
+- ["PSo21UIAppearanceContainer", "Timer"]
+- !private ["PSo21UIAppearanceContainer", "TimerViewController"]
+- !private ["PSo21UIAppearanceContainer", "URL"]
+- !private ["PSo21UIAppearanceContainer", "addSlideMenuButton"]
+- !private ["PSo21UIAppearanceContainer", "breakAudioPlayer"]
+- !private ["PSo21UIAppearanceContainer", "breakCount"]
+- !private ["PSo21UIAppearanceContainer", "breakCounter"]
+- !private ["PSo21UIAppearanceContainer", "breakLabel"]
+- !private ["PSo21UIAppearanceContainer", "breakLength"]
+- !private ["PSo21UIAppearanceContainer", "breakSliderOutlet"]
+- !private ["PSo21UIAppearanceContainer", "cycleCount"]
+- !private ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "isHidden"]
+- !private ["PSo21UIAppearanceContainer", "maximumValue"]
+- !private ["PSo21UIAppearanceContainer", "minimumValue"]
+- !private ["PSo21UIAppearanceContainer", "print"]
+- !private ["PSo21UIAppearanceContainer", "setValue"]
+- !private ["PSo21UIAppearanceContainer", "sliderOutlet"]
+- !private ["PSo21UIAppearanceContainer", "startOutlet"]
+- !private ["PSo21UIAppearanceContainer", "studyAudioPlayer"]
+- !private ["PSo21UIAppearanceContainer", "studyCount"]
+- !private ["PSo21UIAppearanceContainer", "studyCounter"]
+- !private ["PSo21UIAppearanceContainer", "studyLabel"]
+- !private ["PSo21UIAppearanceContainer", "studyLength"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- !private ["PSo21UIAppearanceContainer", "timer"]
+- !private ["PSo21UIAppearanceContainer", "value"]
+- !private ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo8UIButton", "isHidden"]
+- ["PSo18UIContentContainer", "AVAudioPlayer"]
+- !private ["PSo18UIContentContainer", "Bundle"]
+- !private ["PSo18UIContentContainer", "Int"]
+- !private ["PSo18UIContentContainer", "String"]
+- ["PSo18UIContentContainer", "Timer"]
+- !private ["PSo18UIContentContainer", "TimerViewController"]
+- !private ["PSo18UIContentContainer", "URL"]
+- !private ["PSo18UIContentContainer", "addSlideMenuButton"]
+- !private ["PSo18UIContentContainer", "breakAudioPlayer"]
+- !private ["PSo18UIContentContainer", "breakCount"]
+- !private ["PSo18UIContentContainer", "breakCounter"]
+- !private ["PSo18UIContentContainer", "breakLabel"]
+- !private ["PSo18UIContentContainer", "breakLength"]
+- !private ["PSo18UIContentContainer", "breakSliderOutlet"]
+- !private ["PSo18UIContentContainer", "cycleCount"]
+- !private ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "print"]
+- !private ["PSo18UIContentContainer", "sliderOutlet"]
+- !private ["PSo18UIContentContainer", "startOutlet"]
+- !private ["PSo18UIContentContainer", "studyAudioPlayer"]
+- !private ["PSo18UIContentContainer", "studyCount"]
+- !private ["PSo18UIContentContainer", "studyCounter"]
+- !private ["PSo18UIContentContainer", "studyLabel"]
+- !private ["PSo18UIContentContainer", "studyLength"]
+- !private ["PSo18UIContentContainer", "timer"]
+- !private ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "text"]
+- !private ["CSo9UIControl", "isHidden"]
+- !private ["CSo9UIControl", "maximumValue"]
+- !private ["CSo9UIControl", "minimumValue"]
+- !private ["CSo9UIControl", "setValue"]
+- !private ["CSo9UIControl", "value"]
+- !private ["PSo17UICoordinateSpace", "isHidden"]
+- !private ["PSo17UICoordinateSpace", "maximumValue"]
+- !private ["PSo17UICoordinateSpace", "minimumValue"]
+- !private ["PSo17UICoordinateSpace", "setValue"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo17UICoordinateSpace", "value"]
+- !private ["PSo13UIDynamicItem", "isHidden"]
+- !private ["PSo13UIDynamicItem", "maximumValue"]
+- !private ["PSo13UIDynamicItem", "minimumValue"]
+- !private ["PSo13UIDynamicItem", "setValue"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo13UIDynamicItem", "value"]
+- ["PSo18UIFocusEnvironment", "AVAudioPlayer"]
+- !private ["PSo18UIFocusEnvironment", "Bundle"]
+- !private ["PSo18UIFocusEnvironment", "Int"]
+- !private ["PSo18UIFocusEnvironment", "String"]
+- ["PSo18UIFocusEnvironment", "Timer"]
+- !private ["PSo18UIFocusEnvironment", "TimerViewController"]
+- !private ["PSo18UIFocusEnvironment", "URL"]
+- !private ["PSo18UIFocusEnvironment", "addSlideMenuButton"]
+- !private ["PSo18UIFocusEnvironment", "breakAudioPlayer"]
+- !private ["PSo18UIFocusEnvironment", "breakCount"]
+- !private ["PSo18UIFocusEnvironment", "breakCounter"]
+- !private ["PSo18UIFocusEnvironment", "breakLabel"]
+- !private ["PSo18UIFocusEnvironment", "breakLength"]
+- !private ["PSo18UIFocusEnvironment", "breakSliderOutlet"]
+- !private ["PSo18UIFocusEnvironment", "cycleCount"]
+- !private ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "isHidden"]
+- !private ["PSo18UIFocusEnvironment", "maximumValue"]
+- !private ["PSo18UIFocusEnvironment", "minimumValue"]
+- !private ["PSo18UIFocusEnvironment", "print"]
+- !private ["PSo18UIFocusEnvironment", "setValue"]
+- !private ["PSo18UIFocusEnvironment", "sliderOutlet"]
+- !private ["PSo18UIFocusEnvironment", "startOutlet"]
+- !private ["PSo18UIFocusEnvironment", "studyAudioPlayer"]
+- !private ["PSo18UIFocusEnvironment", "studyCount"]
+- !private ["PSo18UIFocusEnvironment", "studyCounter"]
+- !private ["PSo18UIFocusEnvironment", "studyLabel"]
+- !private ["PSo18UIFocusEnvironment", "studyLength"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- !private ["PSo18UIFocusEnvironment", "timer"]
+- !private ["PSo18UIFocusEnvironment", "value"]
+- !private ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "isHidden"]
+- !private ["PSo11UIFocusItem", "maximumValue"]
+- !private ["PSo11UIFocusItem", "minimumValue"]
+- !private ["PSo11UIFocusItem", "setValue"]
+- !private ["PSo11UIFocusItem", "text"]
+- !private ["PSo11UIFocusItem", "value"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "AVAudioPlayer"]
+- ["CSo11UIResponder", "AnyObject"]
+- !private ["CSo11UIResponder", "Bundle"]
+- !private ["CSo11UIResponder", "Int"]
+- !private ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "Timer"]
+- !private ["CSo11UIResponder", "TimerViewController"]
+- ["CSo11UIResponder", "UIBarButtonItem"]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "UISlider"]
+- !private ["CSo11UIResponder", "URL"]
+- !private ["CSo11UIResponder", "addSlideMenuButton"]
+- ["CSo11UIResponder", "breakAudioPlayer"]
+- ["CSo11UIResponder", "breakCount"]
+- ["CSo11UIResponder", "breakCounter"]
+- ["CSo11UIResponder", "breakLabel"]
+- ["CSo11UIResponder", "breakLength"]
+- ["CSo11UIResponder", "breakSlider"]
+- ["CSo11UIResponder", "breakSliderOutlet"]
+- ["CSo11UIResponder", "cycleCount"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "isHidden"]
+- !private ["CSo11UIResponder", "maximumValue"]
+- !private ["CSo11UIResponder", "minimumValue"]
+- !private ["CSo11UIResponder", "print"]
+- !private ["CSo11UIResponder", "setValue"]
+- ["CSo11UIResponder", "sliderOutlet"]
+- ["CSo11UIResponder", "startOutlet"]
+- ["CSo11UIResponder", "stop"]
+- ["CSo11UIResponder", "stopOutlet"]
+- ["CSo11UIResponder", "studyAudioPlayer"]
+- ["CSo11UIResponder", "studyCount"]
+- ["CSo11UIResponder", "studyCounter"]
+- ["CSo11UIResponder", "studyLabel"]
+- ["CSo11UIResponder", "studyLength"]
+- ["CSo11UIResponder", "studySlider"]
+- ["CSo11UIResponder", "studyStart"]
+- ["CSo11UIResponder", "taskButton"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "timer"]
+- !private ["CSo11UIResponder", "value"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", "AVAudioPlayer"]
+- !private ["PSo30UIResponderStandardEditActions", "Bundle"]
+- !private ["PSo30UIResponderStandardEditActions", "Int"]
+- !private ["PSo30UIResponderStandardEditActions", "String"]
+- ["PSo30UIResponderStandardEditActions", "Timer"]
+- !private ["PSo30UIResponderStandardEditActions", "TimerViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "URL"]
+- !private ["PSo30UIResponderStandardEditActions", "addSlideMenuButton"]
+- !private ["PSo30UIResponderStandardEditActions", "breakAudioPlayer"]
+- !private ["PSo30UIResponderStandardEditActions", "breakCount"]
+- !private ["PSo30UIResponderStandardEditActions", "breakCounter"]
+- !private ["PSo30UIResponderStandardEditActions", "breakLabel"]
+- !private ["PSo30UIResponderStandardEditActions", "breakLength"]
+- !private ["PSo30UIResponderStandardEditActions", "breakSliderOutlet"]
+- !private ["PSo30UIResponderStandardEditActions", "cycleCount"]
+- !private ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "isHidden"]
+- !private ["PSo30UIResponderStandardEditActions", "maximumValue"]
+- !private ["PSo30UIResponderStandardEditActions", "minimumValue"]
+- !private ["PSo30UIResponderStandardEditActions", "print"]
+- !private ["PSo30UIResponderStandardEditActions", "setValue"]
+- !private ["PSo30UIResponderStandardEditActions", "sliderOutlet"]
+- !private ["PSo30UIResponderStandardEditActions", "startOutlet"]
+- !private ["PSo30UIResponderStandardEditActions", "studyAudioPlayer"]
+- !private ["PSo30UIResponderStandardEditActions", "studyCount"]
+- !private ["PSo30UIResponderStandardEditActions", "studyCounter"]
+- !private ["PSo30UIResponderStandardEditActions", "studyLabel"]
+- !private ["PSo30UIResponderStandardEditActions", "studyLength"]
+- !private ["PSo30UIResponderStandardEditActions", "text"]
+- !private ["PSo30UIResponderStandardEditActions", "timer"]
+- !private ["PSo30UIResponderStandardEditActions", "value"]
+- !private ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["CSo8UISlider", "isHidden"]
+- !private ["CSo8UISlider", "maximumValue"]
+- !private ["CSo8UISlider", "minimumValue"]
+- !private ["CSo8UISlider", "setValue"]
+- !private ["CSo8UISlider", "value"]
+- ["PSo16UIStateRestoring", "AVAudioPlayer"]
+- !private ["PSo16UIStateRestoring", "Bundle"]
+- !private ["PSo16UIStateRestoring", "Int"]
+- !private ["PSo16UIStateRestoring", "String"]
+- ["PSo16UIStateRestoring", "Timer"]
+- !private ["PSo16UIStateRestoring", "TimerViewController"]
+- !private ["PSo16UIStateRestoring", "URL"]
+- !private ["PSo16UIStateRestoring", "addSlideMenuButton"]
+- !private ["PSo16UIStateRestoring", "breakAudioPlayer"]
+- !private ["PSo16UIStateRestoring", "breakCount"]
+- !private ["PSo16UIStateRestoring", "breakCounter"]
+- !private ["PSo16UIStateRestoring", "breakLabel"]
+- !private ["PSo16UIStateRestoring", "breakLength"]
+- !private ["PSo16UIStateRestoring", "breakSliderOutlet"]
+- !private ["PSo16UIStateRestoring", "cycleCount"]
+- !private ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "print"]
+- !private ["PSo16UIStateRestoring", "sliderOutlet"]
+- !private ["PSo16UIStateRestoring", "startOutlet"]
+- !private ["PSo16UIStateRestoring", "studyAudioPlayer"]
+- !private ["PSo16UIStateRestoring", "studyCount"]
+- !private ["PSo16UIStateRestoring", "studyCounter"]
+- !private ["PSo16UIStateRestoring", "studyLabel"]
+- !private ["PSo16UIStateRestoring", "studyLength"]
+- !private ["PSo16UIStateRestoring", "timer"]
+- !private ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "AVAudioPlayer"]
+- !private ["PSo18UITraitEnvironment", "Bundle"]
+- !private ["PSo18UITraitEnvironment", "Int"]
+- !private ["PSo18UITraitEnvironment", "String"]
+- ["PSo18UITraitEnvironment", "Timer"]
+- !private ["PSo18UITraitEnvironment", "TimerViewController"]
+- !private ["PSo18UITraitEnvironment", "URL"]
+- !private ["PSo18UITraitEnvironment", "addSlideMenuButton"]
+- !private ["PSo18UITraitEnvironment", "breakAudioPlayer"]
+- !private ["PSo18UITraitEnvironment", "breakCount"]
+- !private ["PSo18UITraitEnvironment", "breakCounter"]
+- !private ["PSo18UITraitEnvironment", "breakLabel"]
+- !private ["PSo18UITraitEnvironment", "breakLength"]
+- !private ["PSo18UITraitEnvironment", "breakSliderOutlet"]
+- !private ["PSo18UITraitEnvironment", "cycleCount"]
+- !private ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "isHidden"]
+- !private ["PSo18UITraitEnvironment", "maximumValue"]
+- !private ["PSo18UITraitEnvironment", "minimumValue"]
+- !private ["PSo18UITraitEnvironment", "print"]
+- !private ["PSo18UITraitEnvironment", "setValue"]
+- !private ["PSo18UITraitEnvironment", "sliderOutlet"]
+- !private ["PSo18UITraitEnvironment", "startOutlet"]
+- !private ["PSo18UITraitEnvironment", "studyAudioPlayer"]
+- !private ["PSo18UITraitEnvironment", "studyCount"]
+- !private ["PSo18UITraitEnvironment", "studyCounter"]
+- !private ["PSo18UITraitEnvironment", "studyLabel"]
+- !private ["PSo18UITraitEnvironment", "studyLength"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- !private ["PSo18UITraitEnvironment", "timer"]
+- !private ["PSo18UITraitEnvironment", "value"]
+- !private ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "isHidden"]
+- !private ["CSo6UIView", "maximumValue"]
+- !private ["CSo6UIView", "minimumValue"]
+- !private ["CSo6UIView", "setValue"]
+- !private ["CSo6UIView", "text"]
+- !private ["CSo6UIView", "value"]
+- ["CSo16UIViewController", "AVAudioPlayer"]
+- ["CSo16UIViewController", "AnyObject"]
+- !private ["CSo16UIViewController", "Bundle"]
+- !private ["CSo16UIViewController", "Int"]
+- !private ["CSo16UIViewController", "String"]
+- ["CSo16UIViewController", "Timer"]
+- !private ["CSo16UIViewController", "TimerViewController"]
+- ["CSo16UIViewController", "UIBarButtonItem"]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "UILabel"]
+- ["CSo16UIViewController", "UISlider"]
+- !private ["CSo16UIViewController", "URL"]
+- !private ["CSo16UIViewController", "addSlideMenuButton"]
+- ["CSo16UIViewController", "breakAudioPlayer"]
+- ["CSo16UIViewController", "breakCount"]
+- ["CSo16UIViewController", "breakCounter"]
+- ["CSo16UIViewController", "breakLabel"]
+- ["CSo16UIViewController", "breakLength"]
+- ["CSo16UIViewController", "breakSlider"]
+- ["CSo16UIViewController", "breakSliderOutlet"]
+- ["CSo16UIViewController", "cycleCount"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "print"]
+- ["CSo16UIViewController", "sliderOutlet"]
+- ["CSo16UIViewController", "startOutlet"]
+- ["CSo16UIViewController", "stop"]
+- ["CSo16UIViewController", "stopOutlet"]
+- ["CSo16UIViewController", "studyAudioPlayer"]
+- ["CSo16UIViewController", "studyCount"]
+- ["CSo16UIViewController", "studyCounter"]
+- ["CSo16UIViewController", "studyLabel"]
+- ["CSo16UIViewController", "studyLength"]
+- ["CSo16UIViewController", "studySlider"]
+- ["CSo16UIViewController", "studyStart"]
+- ["CSo16UIViewController", "taskButton"]
+- ["CSo16UIViewController", "timer"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- !private ["V10Foundation3URL", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "isHidden"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "maximumValue"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "minimumValue"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "setValue"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "text"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "value"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps34_ExpressibleByFileReferenceLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "AVAudioPlayer"]
+- !private ["Ps9_Hashable", "Bundle"]
+- !private ["Ps9_Hashable", "Int"]
+- !private ["Ps9_Hashable", "String"]
+- ["Ps9_Hashable", "Timer"]
+- !private ["Ps9_Hashable", "TimerViewController"]
+- !private ["Ps9_Hashable", "URL"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "addSlideMenuButton"]
+- !private ["Ps9_Hashable", "breakAudioPlayer"]
+- !private ["Ps9_Hashable", "breakCount"]
+- !private ["Ps9_Hashable", "breakCounter"]
+- !private ["Ps9_Hashable", "breakLabel"]
+- !private ["Ps9_Hashable", "breakLength"]
+- !private ["Ps9_Hashable", "breakSliderOutlet"]
+- !private ["Ps9_Hashable", "cycleCount"]
+- !private ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "invalidate"]
+- !private ["Ps9_Hashable", "isHidden"]
+- !private ["Ps9_Hashable", "main"]
+- !private ["Ps9_Hashable", "maximumValue"]
+- !private ["Ps9_Hashable", "minimumValue"]
+- !private ["Ps9_Hashable", "path"]
+- !private ["Ps9_Hashable", "play"]
+- !private ["Ps9_Hashable", "print"]
+- !private ["Ps9_Hashable", "scheduledTimer"]
+- !private ["Ps9_Hashable", "setValue"]
+- !private ["Ps9_Hashable", "sliderOutlet"]
+- !private ["Ps9_Hashable", "startOutlet"]
+- !private ["Ps9_Hashable", "stop"]
+- !private ["Ps9_Hashable", "studyAudioPlayer"]
+- !private ["Ps9_Hashable", "studyCount"]
+- !private ["Ps9_Hashable", "studyCounter"]
+- !private ["Ps9_Hashable", "studyLabel"]
+- !private ["Ps9_Hashable", "studyLength"]
+- !private ["Ps9_Hashable", "text"]
+- !private ["Ps9_Hashable", "timer"]
+- !private ["Ps9_Hashable", "value"]
+- !private ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps14_Incrementable", "init"]
+- !private ["Ps8_Integer", "init"]
+- !private ["Ps18_IntegerArithmetic", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps14_SignedInteger", "init"]
+- !private ["Ps11_Strideable", "init"]
+depends-nominal:
+- "CSo13AVAudioPlayer"
+- "Ps9AnyObject"
+- !private "P12FacebookCore26AppEventParameterValueType"
+- "C11studySocial18BaseViewController"
+- !private "Ps17BitwiseOperations"
+- !private "Sb"
+- !private "CSo6Bundle"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Si"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "P10Foundation20ReferenceConvertible"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- "P11studySocial17SlideMenuDelegate"
+- !private "Ps10Strideable"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "CSo5Timer"
+- "C11studySocial19TimerViewController"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo8UIButton"
+- "PSo18UIContentContainer"
+- !private "PSo30UIContentSizeCategoryAdjusting"
+- !private "CSo9UIControl"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- !private "CSo8UISlider"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "V10Foundation3URL"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps34_ExpressibleByFileReferenceLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AudioToolbox.apinotesc"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FacebookCore/FacebookCore.framework/Modules/FacebookCore.swiftmodule/arm64.swiftmodule"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FacebookLogin/FacebookLogin.framework/Modules/FacebookLogin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFURL.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FacebookCore/FacebookCore.framework/Headers/FacebookCore-umbrella.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FacebookLogin/FacebookLogin.framework/Headers/FacebookLogin-umbrella.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/Bolts-umbrella.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCoreKit-umbrella.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginKit-umbrella.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKProfile.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFAppLinkResolving.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCopying.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFAppLink.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFTask.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFAppLinkNavigation.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKButton.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginButton.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailPasswordAuthProvider.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginManager.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFWebViewAppLinkResolver.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKSettings.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFTask+Exceptions.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKMacros.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/Bolts.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKConstants.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FacebookCore/FacebookCore.framework/Headers/FacebookCore-Swift.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FacebookLogin/FacebookLogin.framework/Headers/FacebookLogin-Swift.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginKit.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginManagerLoginResult.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFMeasurementEvent.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKTooltipView.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKUtility.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FacebookCore/FacebookCore.framework/Modules/module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FacebookLogin/FacebookLogin.framework/Modules/module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/Bolts/Bolts.framework/Modules/module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKCoreKit/FBSDKCoreKit.framework/Modules/module.modulemap"
+- "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphoneos/FBSDKLoginKit/FBSDKLoginKit.framework/Modules/module.modulemap"
+interface-hash: "7b9f2dac519b6c22e8b2e10539dc52e2"
