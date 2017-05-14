@@ -16,6 +16,7 @@ class TimerViewController: BaseViewController {
     var studyCount = 1500
     var breakCount = 300
     var cycleCount = 1
+    var cycleLimit = 4
     var timer = Timer()
     var studyAudioPlayer = AVAudioPlayer()
     var breakAudioPlayer = AVAudioPlayer()
@@ -33,7 +34,7 @@ class TimerViewController: BaseViewController {
     
     @IBOutlet weak var sliderOutlet: UISlider!
     @IBAction func studySlider(_ sender: UISlider) {
-        sliderOutlet.minimumValue = 20
+        sliderOutlet.minimumValue = 1//20
         sliderOutlet.maximumValue = 30
         studyLength = Int(sender.value) * 60
         studyCount = studyLength
@@ -137,6 +138,7 @@ class TimerViewController: BaseViewController {
     }
     
     func studyCounter() {
+        print(studyCount)
         
         if (studyCount > 0) {
             studyCount -= 1
@@ -160,11 +162,12 @@ class TimerViewController: BaseViewController {
         else if (studyCount == 0) {
             timer.invalidate()
             studyAudioPlayer.play()
+            print("Start break timer")
             
             timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(TimerViewController.breakCounter), userInfo: nil, repeats: true)
             
             studyCount = studyLength
-            if (cycleCount % 3 == 0) {
+            if (cycleCount % cycleLimit == 0) {
                 breakCount = breakLength + (1 * breakLength)
                 
                 if (breakCount < 10 && studyCount < 10) {
@@ -184,7 +187,7 @@ class TimerViewController: BaseViewController {
                     breakLabel.text = String(breakCount / 60) + ":00"
                 }
             }
-            else if (cycleCount % 3 != 0) {
+            else if (cycleCount % cycleLimit != 0) {
                 breakCount = breakLength
                 
                 if (breakCount < 10 && studyCount < 10) {

@@ -320,6 +320,7 @@ SWIFT_CLASS("_TtC11studySocial19TimerViewController")
 @property (nonatomic) NSInteger studyCount;
 @property (nonatomic) NSInteger breakCount;
 @property (nonatomic) NSInteger cycleCount;
+@property (nonatomic) NSInteger cycleLimit;
 @property (nonatomic, strong) NSTimer * _Nonnull timer;
 @property (nonatomic, strong) AVAudioPlayer * _Nonnull studyAudioPlayer;
 @property (nonatomic, strong) AVAudioPlayer * _Nonnull breakAudioPlayer;

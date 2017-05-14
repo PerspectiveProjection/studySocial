@@ -390,7 +390,9 @@ depends-member:
 - ["CSo11FIRDatabase", "database"]
 - ["CSo11FIRDatabase", "reference"]
 - !private ["CSo16FIRDatabaseQuery", "child"]
+- !private ["CSo16FIRDatabaseQuery", "setValue"]
 - !private ["CSo20FIRDatabaseReference", "child"]
+- !private ["CSo20FIRDatabaseReference", "setValue"]
 - ["Ps8Hashable", "AVAudioPlayer"]
 - !private ["Ps8Hashable", "Bundle"]
 - ["Ps8Hashable", "FIRDatabase"]
@@ -1385,4 +1387,4 @@ depends-external:
 - "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphonesimulator/Bolts/Bolts.framework/Modules/module.modulemap"
 - "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.framework/Modules/module.modulemap"
 - "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/build/Debug-iphonesimulator/FBSDKLoginKit/FBSDKLoginKit.framework/Modules/module.modulemap"
-interface-hash: "ec7e6be409b77d651f1d2ad01aa92929"
+interface-hash: "7156434fb28d60d57f2d2a54d46190e5"
