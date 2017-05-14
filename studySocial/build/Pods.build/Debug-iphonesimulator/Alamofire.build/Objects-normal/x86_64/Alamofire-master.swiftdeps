@@ -1,6 +1,6 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
 options: "3bfd6861291a8e1fee432306b3324686"
-build_time: [548062556, 287707000]
+build_time: [548064020, 420179000]
 inputs:
   "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/AFError.swift": [548062518, 0]
   "/Users/william/Projects/studySocial/studySocial/Pods/Alamofire/Source/Alamofire.swift": [548062518, 0]

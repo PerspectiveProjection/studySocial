@@ -1,20 +1,20 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
 <<<<<<< HEAD
 options: "6a7b903ea37fcc4d8265592254f5dca9"
-build_time: [548063780, 781032000]
+build_time: [548064291, 354700000]
 inputs:
   "/Users/william/Projects/studySocial/studySocial/studySocial/GroupTableViewController.swift": [548055503, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/GroupSelectViewController.swift": [548055503, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/AppDelegate.swift": [548055479, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/TodoList.swift": [548057273, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/ToDoItemTableViewController.swift": [548055439, 0]
-  "/Users/william/Projects/studySocial/studySocial/studySocial/FriendTableViewController.swift": [548061566, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/FriendTableViewController.swift": [548064287, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/User.swift": [548048864, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/MenuViewController.swift": [548038919, 0]
-  "/Users/william/Projects/studySocial/studySocial/studySocial/LoginViewController.swift": [548063779, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/LoginViewController.swift": [548064024, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/FriendStatusTableViewCell.swift": [548055503, 0]
-  "/Users/william/Projects/studySocial/studySocial/studySocial/ModeSelectViewController.swift": [548061584, 0]
-  "/Users/william/Projects/studySocial/studySocial/studySocial/BaseViewController.swift": [548063447, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/ModeSelectViewController.swift": [548063964, 0]
+  "/Users/william/Projects/studySocial/studySocial/studySocial/BaseViewController.swift": [548064021, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/TimerViewController.swift": [548059105, 0]
   "/Users/william/Projects/studySocial/studySocial/studySocial/FriendViewController.swift": [548055503, 0]
 =======
