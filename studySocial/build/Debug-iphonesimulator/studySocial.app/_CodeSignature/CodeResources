@@ -602,7 +602,11 @@
 		</data>
 		<key>Frameworks/FacebookShare.framework/FacebookShare</key>
 		<data>
+<<<<<<< HEAD
 		08oLBgtkWB9VW6L2ICZNRC2RtL0=
+=======
+		mF7p+ssP9MUzQlPN9si39lSxC9Y=
+>>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
 		</data>
 		<key>Frameworks/FacebookShare.framework/Info.plist</key>
 		<data>
@@ -642,7 +646,11 @@
 		</data>
 		<key>Frameworks/SlideMenuControllerSwift.framework/SlideMenuControllerSwift</key>
 		<data>
+<<<<<<< HEAD
 		anlFb+YPHGRv+PHF1zbFGpHDMio=
+=======
+		JQ8OrMXZbmhBaWljfKmoiJK8URw=
+>>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
 		</data>
 		<key>Frameworks/SlideMenuControllerSwift.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -706,7 +714,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		doIZqBmlb32DkEFTJTg86/i5bzE=
+		YmtRPuXgqqUyP+hIMB6VBA3fevc=
 		</data>
 		<key>OSRSBeatz - Sea Shanty 2.mp3</key>
 		<data>
@@ -1857,11 +1865,19 @@
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			08oLBgtkWB9VW6L2ICZNRC2RtL0=
 			</data>
 			<key>hash2</key>
 			<data>
 			Y9D5v9mtn8TOb08BJ+eaF2AxUfBctl1F5CjETsdVib4=
+=======
+			mF7p+ssP9MUzQlPN9si39lSxC9Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			UXGBGYFlyZVh8z8v2H8iCF0ttE4DMKvzF14Ycop8mOY=
+>>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
 			</data>
 		</dict>
 		<key>Frameworks/FacebookShare.framework/Info.plist</key>
@@ -1967,11 +1983,19 @@
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			anlFb+YPHGRv+PHF1zbFGpHDMio=
 			</data>
 			<key>hash2</key>
 			<data>
 			kEiuoUX+5ItcSUpU7GzgGc7nkdj80waCXVshhLyt6hY=
+=======
+			JQ8OrMXZbmhBaWljfKmoiJK8URw=
+			</data>
+			<key>hash2</key>
+			<data>
+			V1czVYEG/dGenOqlhBz0xL0WPL0FzFqqsX5UF6fZB9w=
+>>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
 			</data>
 		</dict>
 		<key>Frameworks/SlideMenuControllerSwift.framework/_CodeSignature/CodeResources</key>

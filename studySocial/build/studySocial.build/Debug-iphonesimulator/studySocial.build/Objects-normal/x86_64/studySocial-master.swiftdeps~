@@ -1,12 +1,18 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+<<<<<<< HEAD
 options: "8f32f5d8cd393fdf392e670ec289e996"
 build_time: [548067891, 87317000]
+=======
+options: "c588686c02fddff4bdc98b7053048079"
+build_time: [548065862, 893130000]
+>>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
 inputs:
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/GroupTableViewController.swift": [548055930, 0]
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/GroupSelectViewController.swift": [548055930, 0]
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/AppDelegate.swift": [548055930, 0]
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/TodoList.swift": [548055930, 0]
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/ToDoItemTableViewController.swift": [548055930, 0]
+<<<<<<< HEAD
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendTableViewController.swift": [548067352, 0]
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/User.swift": [548055930, 0]
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/MenuViewController.swift": [548067888, 0]
@@ -15,4 +21,14 @@ inputs:
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/ModeSelectViewController.swift": [548067352, 0]
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/BaseViewController.swift": [548067789, 0]
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/TimerViewController.swift": [548067487, 0]
+=======
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendTableViewController.swift": [548065850, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/User.swift": [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/MenuViewController.swift": [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/LoginViewController.swift": [548065850, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendStatusTableViewCell.swift": [548055930, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/ModeSelectViewController.swift": [548065850, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/BaseViewController.swift": [548065850, 0]
+  "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/TimerViewController.swift": [548065850, 0]
+>>>>>>> 0ef1612564975a6a3d563bb61cc05512c34be287
   "/Users/Elizabeth/Documents/Hackathons/studySocial/studySocial/studySocial/FriendViewController.swift": [548055930, 0]
