@@ -51,6 +51,7 @@ class LoginViewController: UIViewController {
 				
 				self.userDefaults.set(user?.displayName, forKey: "userName")
 				self.userDefaults.set(user?.email, forKey: "userEmail")
+                self.userDefaults.set(user?.uid, forKey: "uid")
 				self.userDefaults.synchronize()
 				var currentUser = User(name: (user?.displayName)!, userEmail: (user?.email)!)
 				

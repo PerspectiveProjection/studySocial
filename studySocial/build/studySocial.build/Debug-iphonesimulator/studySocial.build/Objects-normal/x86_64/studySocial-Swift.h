@@ -316,6 +316,7 @@ SWIFT_CLASS("_TtC11studySocial24ModeSelectViewController")
 
 SWIFT_CLASS("_TtC11studySocial19TimerViewController")
 @interface TimerViewController : BaseViewController
+@property (nonatomic, readonly, strong) FIRDatabaseReference * _Nonnull ref;
 @property (nonatomic) NSInteger studyCount;
 @property (nonatomic) NSInteger breakCount;
 @property (nonatomic) NSInteger cycleCount;
@@ -325,6 +326,7 @@ SWIFT_CLASS("_TtC11studySocial19TimerViewController")
 @property (nonatomic) NSInteger breakLength;
 @property (nonatomic) NSInteger studyLength;
 @property (nonatomic, weak) IBOutlet UIBarButtonItem * _Null_unspecified taskButton;
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified statusField;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified studyLabel;
 @property (nonatomic, weak) IBOutlet UISlider * _Null_unspecified sliderOutlet;
 - (IBAction)studySlider:(UISlider * _Nonnull)sender;
