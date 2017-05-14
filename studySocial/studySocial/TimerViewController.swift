@@ -52,7 +52,7 @@ class TimerViewController: BaseViewController {
     @IBAction func studyStart(_ sender: AnyObject)
     {
         var status = statusField.text
-        let userRef = ref.child(userDefaults.object(forKey: "uid") as! String)
+        let userRef = ref.child(userDefaults.object(forKey: "fid") as! String)
         
         let statusRef = userRef.child("status")
         statusRef.setValue(status)
